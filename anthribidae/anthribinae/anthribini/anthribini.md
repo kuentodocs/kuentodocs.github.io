@@ -14,5 +14,5 @@ nav_order: 1
 Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001).
 {: .fs-5 .fw-300 }
 
-<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015351_dorsal_edited_1608612310.jpg" alt="Eugonus">
-
+[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015351_dorsal_edited_1608612310.jpg" alt="Anthribus">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650093)
+---
