@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 
-# Clasification 
+# Classification 
 
 ## Anthribidae Billberg
 {: .no_toc }
