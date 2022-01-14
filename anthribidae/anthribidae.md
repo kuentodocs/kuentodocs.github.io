@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Clasification
+title: Classification
 has_children: true
 nav_order: 2
 ---
@@ -11,7 +11,7 @@ nav_order: 2
 ## Anthribidae Billberg
 {: .no_toc }
 
-Todos los encargados de colecciones biológicas legalmente establecidas en instituciones guatemaltecas, u organizaciones científicas dedicadas a monitoreos biológicos, pueden solicitar un perfil virtual para el manejo de datos de biodiversidad. A continuación se describen los aspectos que deben tenerse en cuenta antes de solicitar un perfil para su colección.
+Current classification according to [Bouchard _et al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). 
 {: .fs-5 .fw-300 }
 
 
