@@ -12,8 +12,8 @@ permalink: /
 Website dedicated to the family Anthribidae (Coleoptera: Curculionoidea).
 {: .fs-6 .fw-300 }
 
-[Anthribidae Data](https://guatemalaportal.github.io/docs/unirse){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Acerca del Portal de Biodiversidad](https://guatemalaportal.github.io/docs/acerca/){: .btn .fs-5 .mb-4 .mb-md-0 } 
-[Ir al Portal de Biodiversidad](https://biodiversidad.gt){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
+[Anthribidae Catalogue](https://anthribidae.github.io/anthribidae/anthribidae/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Anthribidae Images](https://serv.biokic.asu.edu/ecdysis/collections/list.php?hasimages=1&taxa=Anthribidae&usethes=1&taxontype=3){: .btn .fs-5 .mb-4 .mb-md-0 } 
+[Anthribidae Data](https://www.gbif.org/occurrence/search?taxon_key=4206){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
 
 
 <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_lateral_edited_1613605757.jpg" alt="Eugonus">
