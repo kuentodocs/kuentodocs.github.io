@@ -2,7 +2,7 @@
 layout: default
 title: Gymnognathus
 parent: Gymnognathini
-has_children: true
+grand_parent: Anthribinae
 nav_order: 2
 ---
 
@@ -10,7 +10,7 @@ nav_order: 2
 # _Gymnognathus_ Schoenherr
 {: .no_toc }
 
-Todos los encargados de colecciones biológicas legalmente establecidas en instituciones guatemaltecas, u organizaciones científicas dedicadas a monitoreos biológicos, pueden solicitar un perfil virtual para el manejo de datos de biodiversidad. A continuación se describen los aspectos que deben tenerse en cuenta antes de solicitar un perfil para su colección.
+Species according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
 {: .fs-5 .fw-300 }
 
 
