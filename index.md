@@ -16,7 +16,7 @@ Website dedicated to the family Anthribidae (Coleoptera: Curculionoidea).
 [Ir al Portal de Biodiversidad](https://biodiversidad.gt){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
 
 
-[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_lateral_edited_1613605757.jpg" alt="Eugonus">]
+<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_lateral_edited_1613605757.jpg" alt="Eugonus">
 
 
 
