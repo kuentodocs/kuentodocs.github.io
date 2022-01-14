@@ -11,5 +11,5 @@ nav_order: 7
 # Tribe Gymnognathini
 {: .no_toc }
 
-Classification according to Rheinheimer (2004).
+Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001).
 {: .fs-5 .fw-300 }
