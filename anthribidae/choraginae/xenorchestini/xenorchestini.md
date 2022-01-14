@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Xennorchestini
+title: Xenorchestini
 parent: Choraginae
 grand_parent: Classification
 has_children: true
