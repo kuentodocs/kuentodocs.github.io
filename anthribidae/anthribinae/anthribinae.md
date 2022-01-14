@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Anthribinae
-parent: Clasification
+parent: Classification
 has_children: true
 nav_order: 1
 ---
