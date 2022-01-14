@@ -2,7 +2,7 @@
 layout: default
 title: Gymnognathini
 parent: Anthribinae
-grand_parente: Anthribidae
+grand_parent: Anthribidae
 has_children: true
 nav_order: 3
 ---
