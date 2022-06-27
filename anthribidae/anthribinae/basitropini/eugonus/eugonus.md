@@ -2,9 +2,17 @@
 layout: default
 title: Eugonus Schoenherr
 parent: Basitropini
-nav_order: 3
+grand_parent: Anthribinae
 has_children: true
+nav_order: 3
 ---
+
+
+# Tribe Basitropini Lacordaire
+{: .no_toc }
+
+Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001).
+{: .fs-5 .fw-300 }
 
 
 # _Eugonus_ Schoenherr, 1833: 144
