@@ -13,6 +13,11 @@ nav_order: 1
 Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001).
 {: .fs-5 .fw-300 }
 
+## Table of Content
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015351_dorsal_edited_1608612310.jpg" alt="Anthribus nebulosus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650093) [<img src="https://storage.idigbio.org/portals/scan/misc/201504/ASUHIC0079276_habitus_lateral__1429125454_web.jpg" alt="Streneoderma contemptum" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=348888) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015228_lateral_edited_1610169538.jpg" alt="Streneoderma planatum" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=629017)  | 
 |:--:| 
