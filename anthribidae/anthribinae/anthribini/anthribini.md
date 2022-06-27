@@ -25,6 +25,7 @@ Species according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver
 
 
 ## _Anthribus_ Geoffroy, 1762: 306
+(6 species)
 
 <img src="https://www.simplemappr.net/map/18214" alt="" />
 
@@ -36,6 +37,7 @@ Species according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver
 - _Anthribus subroseus_ Reitter, 1916: 9
 
 ## _Opanthribus_ Schilsky, 1907: 74
+(14 species)
 
 <img src="https://www.simplemappr.net/map/18216" alt="" />
 
@@ -55,6 +57,7 @@ Species according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver
 - _Opanthribus undulatus_ Frieser, 2004: 31
 
 ## _Streneoderma_ Blackburn, 1900: 157
+(3 species)
 
 <img src="https://www.simplemappr.net/map/18215" alt="" />
 
