@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Eugonus Schoenherr
-parent: basitropini
-grand_parent: anthribinae
+parent: Basitropini
 nav_order: 3
 has_children: true
 ---
