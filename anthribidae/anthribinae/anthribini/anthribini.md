@@ -59,4 +59,5 @@ Species according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver
 <img src="https://www.simplemappr.net/map/18215" alt="" />
 
 - _Streneoderma contemptum_ Blackburn, 1900: 158
+- _Streneoderma insigne_ Wolfrum, 1934: 6
 - _Streneoderma planatum_ Blackburn, 1900: 157
