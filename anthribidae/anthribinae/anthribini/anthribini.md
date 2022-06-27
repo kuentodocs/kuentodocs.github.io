@@ -29,6 +29,28 @@ Species according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver
 - _Anthribus scapularis_ Gebler, 1833: 291
 - _Anthribus subroseus_ Reitter, 1916: 9
 
+## _Opanthribus_ Schilsky, 1907: 74
+
+<img src="https://www.simplemappr.net/map/18216" alt="" />
+
+- _Opanthribus albocingulatus_ Frieser, 2004: 32
+- _Opanthribus albosetosus_ Frieser, 1992: 2
+- _Opanthribus albosignatus_ Frieser, 2004: 30
+- _Opanthribus aureofasciatus_ Frieser, 2004: 33
+- _Opanthribus lituratus_ (Fahraeus, 1871: 443)
+- _Opanthribus paraleuca_ (Wolfrum, 1955: 682)
+- _Opanthribus rubromaculatus_ Frieser, 2004: 33
+- _Opanthribus scolytinus_ Frieser, 1981: 256
+- _Opanthribus scutatus_ Frieser, 2004: 31
+- _Opanthribus scymnoides_ Frieser, 1981: 255
+- _Opanthribus stillinus_ (Wolfrum, 1961: 320)
+- _Opanthribus submetallicus_ (Wolfrum, 1961: 320)
+- _Opanthribus tessellatus_ (Boheman, 1829: 119)
+- _Opanthribus undulatus_ Frieser, 2004: 31
+
 ## _Streneoderma_ Blackburn, 1900: 157
+
+<img src="https://www.simplemappr.net/map/18215" alt="" />
+
 - _Streneoderma contemptum_ Blackburn, 1900: 158
 - _Streneoderma planatum_ Blackburn, 1900: 157
