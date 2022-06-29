@@ -40,6 +40,7 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 ## _Eugonodes_ Jordan, 1904: 302
 
 ### Habitus
+
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_lateral_edited_1608928771.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/#eugonodes-jordan-1904-302) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_dorsal_edited_1609004155.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611354) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUASUCOB0014290_frontal_edite_1609290652.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611354) | 
 |:--:| 
 |_Eugonodes brevirostris_ Jordan: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana|
