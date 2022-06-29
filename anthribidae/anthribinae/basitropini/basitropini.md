@@ -38,6 +38,7 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 - _Basitropis_
 
 ## _Eugonodes_ Jordan, 1904: 302
+(2 species)
 ---
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_lateral_edited_1608928771.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/#eugonodes-jordan-1904-302) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_dorsal_edited_1609004155.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611354) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUASUCOB0014290_frontal_edite_1609290652.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611354) | 
@@ -49,8 +50,6 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 |:--:| 
 |Known distribution of _Eugonodes_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana in [SimpleMappr.net](https://www.simplemappr.net/) |
 
-### Diversity
-(2 species)
 
 - _Eugonodes brevirrostris_ Jordan, 1904: 302
 - _Eugonodes marmoreus_ Jordan, 1904: 302
