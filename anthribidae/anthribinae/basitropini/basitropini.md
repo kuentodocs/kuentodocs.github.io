@@ -33,7 +33,15 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 ## _Basitropis_ Jekel, 1855: 90
 (61 species)
 
-<img src="https://www.simplemappr.net/map/18221" alt="" />
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015233_lateral_edited_1613609756.jpg" alt="Gynandrocerus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=629041) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015233_dorsal2_edited_1613923383.jpg" alt="Gynandrocerus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015233_frontal_edited_1618340944.jpg" alt="Gynandrocerus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) | 
+|:--:| 
+|_Gynandrocerus_ sp.: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana|
+
+|<img src="https://www.simplemappr.net/map/18221" alt="" />| 
+|:--:| 
+|Known distribution of _Basitropis_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana in [SimpleMappr.net](https://www.simplemappr.net/) |
+
+
 
 - _Basitropis_
 
@@ -67,7 +75,15 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 ## _Gynandrocerus_ Lacordaire, 1866: 568
 (5 species)
 
-<img src="https://www.simplemappr.net/map/18224" alt="" />
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015233_lateral_edited_1613609756.jpg" alt="Gynandrocerus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=629041) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015233_dorsal2_edited_1613923383.jpg" alt="Gynandrocerus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015233_frontal_edited_1618340944.jpg" alt="Gynandrocerus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) | 
+|:--:| 
+|_Gynandrocerus_ sp.: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana|
+
+|<img src="https://www.simplemappr.net/map/18224" alt="" />| 
+|:--:| 
+|Known distribution of _Gynandrocerus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana in [SimpleMappr.net](https://www.simplemappr.net/) |
+
+
 
 - _Gynandrocerus_ 
 
