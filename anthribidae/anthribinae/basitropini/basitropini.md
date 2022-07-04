@@ -43,8 +43,11 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 
 - _Basitropis_ spp.
 
-## _Eugonodes_ Jordan, 1904: 302 
 ---
+
+## _Eugonodes_ Jordan, 1904: 302 
+
+
 |<img src="https://www.simplemappr.net/map/18222" alt="" />| 
 |:--:| 
 |Known distribution of _Eugonodes_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
@@ -65,6 +68,8 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 |_Eugonus particolor_ Jordan: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana|
 
 - _Eugonus_ spp.
+
+---
 
 ## _Gynandrocerus_ Lacordaire, 1866: 568
 (5 species)
@@ -87,6 +92,8 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 |Known distribution of _Messalius_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 - _Messalius albidosparsus_ Fairmaire, 1903: 247
+
+---
 
 ## _Phaenithon_ Schoenherr, 1826: 37
 (65 species)
@@ -165,6 +172,8 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 - _Phaenithon wolfrumi_ Frieser, 1979: 112
 - _Phaenithon zischkai_ Frieser, 1979: 114
 
+---
+
 ## _Plesiobasis_ Jordan, 1939: 427
 (9 species)
 
@@ -174,6 +183,8 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 
 - _Plesiobasis_ spp. 
 
+---
+
 ## _Sophronus_ Kuschel, 1998: 394
 (7 species)
 
@@ -182,3 +193,5 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 |Known distribution of _Plesiobasis_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 - _Sophronus_ spp. 
+
+---
