@@ -9,7 +9,7 @@ nav_order: 3
 # Research on Neotropical Anthribidae 
 {: .no_toc }
 
-By [Samanta Orellana (2022)](https://zookeys.pensoft.net/articles.php?id=4001). 
+By [Samanta Orellana](https://search.asu.edu/profile/3433157) (2022). 
 {: .fs-5 .fw-300 }
 
 My research is focused on the systematics of Anthribidae and the Neotropical diversity of the group. I am working on the generic revision of _Gymnognathus_ Schoenherr for Central America, and species catalogues for the rest of the countries in the region (Panama: Orellana & Barrios, 2021; Guatemala: Orellana & Franz, _in press_). I am working to build the first higher-level phylogeny for the family.
