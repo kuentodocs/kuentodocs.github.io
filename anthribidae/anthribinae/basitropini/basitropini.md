@@ -114,7 +114,7 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 ## _Sophronus_ Kuschel, 1998: 394
 (7 species)
 
-|<img src="https://www.simplemappr.net/map/18868" alt="" />| 
+|<img src="https://www.simplemappr.net/map/18869" alt="" />| 
 |:--:| 
 |Known distribution of _Plesiobasis_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
