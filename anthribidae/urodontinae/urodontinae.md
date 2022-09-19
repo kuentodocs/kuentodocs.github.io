@@ -33,37 +33,56 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 ## _Breviurodon_ Strejcek, 1981: 203
 (2 species)
 
-<img src="https://www.simplemappr.net/map/18215" alt="" />
+|<img src="https://www.simplemappr.net/map/18873" alt="" />| 
+|:--:| 
+|Known distribution of _Bruchela_ Dejean. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ## _Bruchela_ Dejean, 1821: 78
 (41 species)
 
-<img src="https://www.simplemappr.net/map/18872" alt="" />
+|<img src="https://www.simplemappr.net/map/18872" alt="" />| 
+|:--:| 
+|Known distribution of _Bruchela_ Dejean. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
 
 ## _Cercomorphus_ Perris & Duval, 1864: 293
-(1 species)
+(10 species)
+
+|<img src="https://www.simplemappr.net/map/18874" alt="" />| 
+|:--:| 
+|Known distribution of _Bruchela_ Dejean. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ## _Urodomorphus_ Louw, 1993: 16
 (1 species)
 
-<img src="https://www.simplemappr.net/map/18215" alt="" />
+|<img src="https://www.simplemappr.net/map/18872" alt="" />| 
+|:--:| 
+|Known distribution of _Bruchela_ Dejean. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ## _Urodontellus_ Louw, 1993: 70
 (6 species)
 
-<img src="https://www.simplemappr.net/map/18216" alt="" />
+|<img src="https://www.simplemappr.net/map/18872" alt="" />| 
+|:--:| 
+|Known distribution of _Bruchela_ Dejean. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ## _Urodontidius_ Louw, 1993: 11
 (1 species)
 
-<img src="https://www.simplemappr.net/map/18215" alt="" />
+|<img src="https://www.simplemappr.net/map/18872" alt="" />| 
+|:--:| 
+|Known distribution of _Bruchela_ Dejean. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ## _Urodontus_ Louw, 1993: 17
 (21 species)
 
-<img src="https://www.simplemappr.net/map/18215" alt="" />
+|<img src="https://www.simplemappr.net/map/18872" alt="" />| 
+|:--:| 
+|Known distribution of _Bruchela_ Dejean. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ## _Urodoplatus_ Motschulsky, 1874: 203
 (1 species)
 
-<img src="https://www.simplemappr.net/map/18215" alt="" />
+|<img src="https://www.simplemappr.net/map/18872" alt="" />| 
+|:--:| 
+|Known distribution of _Bruchela_ Dejean. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
