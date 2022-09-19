@@ -38,7 +38,7 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 ## _Bruchela_ Dejean, 1821: 78
 (41 species)
 
-<img src="https://www.simplemappr.net/map/18214" alt="" />
+<img src="https://www.simplemappr.net/map/18872" alt="" />
 
 ## _Cercomorphus_ Perris & Duval, 1864: 293
 (1 species)
