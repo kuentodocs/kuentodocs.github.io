@@ -14,10 +14,24 @@ By [Samanta Orellana (2022)](https://zookeys.pensoft.net/articles.php?id=4001).
 
 My research is focused on the systematics of Anthribidae and the Neotropical diversity of the group. I am working on the generic revision of _Gymnognathus_ Schoenherr for Central America, and species catalogues for the rest of the countries in the region (Panama: Orellana & Barrios, 2021; Guatemala: Orellana & Franz, _in press_). I am working to build the first higher-level phylogeny for the family.
 
+| <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Mapa_AnthribidaePuntosEcdysis_CentroAmerica.jpg?raw=true" alt="Mapa" width="320" height="235"> | 
+|:--:| 
+|1., 2.) *Gymnognathus claudia* Jordan, from Panama, lateral and dorsal view. 3.) Map of some records of Anthribidae in Central America.|
+
+
+## Anthribidae of Panama
+
+During my M.S studies in Panama, I started to build an updated catalogue of the species of Anthribidae in Panama and a taxonomic key to genus level. After identifying the specimenes in Panamanian collections, I completed the catalogue with additional specimens in the collections at Arizona State University (ASUCOB, ASUHIC) and the Smithsonian National Museum of Natural History (NMNH), where the B.D Valentine collection is now housed. The catalogue of the [Anthribidae of Panama](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera) was published earlier in 2021, in the journal _Zootaxa_.   
+
+| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Zootaxa.jpg?raw=true" height=400> | 
+|:--:| 
+| *Front page of the Catalogue of the Anthribidae of Panama.* |
+
+
 
 ## Summary of the groups of Anthribidae with Neotropical distribution, based in Rheinheimer (2004).
 
-**Anthribidae groups with Neotropical distribution. Preliminar information based on Rheinheimer (2004), Mermudes (2005), Mermudes & Napp (2006), Perger & Guerra (2016), Queiroz _et al._ (2017), Lopez & Mermudes (2018), Silva & Mermudes (2019), Rheinheimer (2020), Orellana & Barrios (2021).**
+Anthribidae groups with Neotropical distribution. Preliminar information based on Rheinheimer (2004), Mermudes (2005), Mermudes & Napp (2006), Perger & Guerra (2016), Queiroz _et al._ (2017), Lopez & Mermudes (2018), Silva & Mermudes (2019), Rheinheimer (2020), Orellana & Barrios (2021).
 
 | Subfamily | Tribe | Genera | # of species |
 |-------|--------|---------|---------|
