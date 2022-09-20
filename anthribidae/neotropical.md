@@ -28,24 +28,24 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 
 | Subfamily | Tribe | Genera | # of species |
 |-------|--------|---------|---------|
-| **Anthribinae** | Basitropini | *Eugonodes* Jordan | 2 |
+| **Anthribinae** | [Basitropini](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/) | *Eugonodes* Jordan | 2 |
 |  |  | *Eugonus* Schoenherr | 12 |
 |  |  | *Phaenithon* Schoenherr | 65 |
-|  | Corrhecerini | *Corrhecerus* Schoenherr | 9 |
+|  | [Corrhecerini](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/corrhecerini/) | *Corrhecerus* Schoenherr | 9 |
 |  |  | *Exechontis* Jordan | 2 |
 |  |  | *Nemotrichus* Labram & Imhoff | 14 |
-|  | Cratoparini | *Euparius* Schoenherr | 52 |
-|  | Discotenini | *Dasyrhopala* Jordan | 1 |
+|  | [Cratoparini](https://anthribidae.github.io/anthribidae/anthribinae/cratoparini/cratoparini/) | *Euparius* Schoenherr | 52 |
+|  | [Discotenini](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/) | *Dasyrhopala* Jordan | 1 |
 |  |  | *Discotenes* Labram & Imhoff | 6 |
 |  |  | *Eucyclotropis* Jordan | 5 |
 |  |  | *Hylotribus* Jekel | 11 |
-|  | Gymnognathini | *Domoptolis* Jordan | 2 |
+|  | [Gymnognathini](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathini/) | *Domoptolis* Jordan | 2 |
 |  |  | *Gymnognathus* Schoenherr | 96 |
 |  |  | *Orthotropis* Jordan | 1 |
 |  |  | *Strabopsis* Jordan | 1 |
 |  |  | *Systaltocerus* Labram & Imhoff | 1 |
-|  | Ischnocerini | *Meconemus* Labram & Imhoff | 11 |
-|  | Piesocorynini | *Brevibarra* Jordan | 1 |
+|  | [Ischnocerini](https://anthribidae.github.io/anthribidae/anthribinae/ischnocerini/ischnocerini/) | *Meconemus* Labram & Imhoff | 11 |
+|  | [Piesocorynini](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/) | *Brevibarra* Jordan | 1 |
 |  |  | *Barra* Jordan | 2 |
 |  |  | *Barridia* Jordan | 1 |
 |  |  | *Brevibarra* Dejean | 1 |
@@ -53,31 +53,31 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 |  |  | *Piesocorynus* Dejean | 29 |
 |  |  | *Piezobarra* Jordan | 1 |
 |  |  | *Piezonemus* Jordan | 2 |
-|  | Platyrhinini | *Anthiera* Alonso-Zarazaga & Lyal | 1 |
+|  | [Platyrhinini](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/) | *Anthiera* Alonso-Zarazaga & Lyal | 1 |
 |  |  | *Homocloeus* Jordan | 17 |
 |  |  | *Monocloeus* Jordan | 15 |
 |  |  | *Strabus* Jekel  | 37 |
 |  |  | *Trachytropis* Jordan  | 1 |
-|  | Platystomini | *Parexillis* Jordan  | 8 |
+|  | [Platystomini](https://anthribidae.github.io/anthribidae/anthribinae/platystomini/platystomini/) | *Parexillis* Jordan  | 8 |
 |  |  | *Phoenicobiella* Lacordaire  | 1 |
 |  |  | *Toxonotus* Lacordaire  | 30 |
-|  | Ptychoderini | *Hypselotropis* Jekel  | 17 |
+|  | [Ptychoderini](https://anthribidae.github.io/anthribidae/anthribinae/ptychoderini/ptychoderini/) | *Hypselotropis* Jekel  | 17 |
 |  |  | *Ptychoderes* Schoenherr  | 18 |
 |  |  | *Unanthribus* Mermudes  | 2 |
-|  | Stenocerini | *Allandrus* LeConte  | 2 |
+|  | [Stenocerini](https://anthribidae.github.io/anthribidae/anthribinae/stenocerini/stenocerini/) | *Allandrus* LeConte  | 2 |
 |  |  | *Stenocerus* Schoenherr  | 12 |
-|  | Trigonorhinini | *Trigonorhinus* Wollaston  | 8 |
-|  | Zygaenodini | *Anthrenosoma* Jordan  | 3 |
+|  | [Trigonorhinini](https://anthribidae.github.io/anthribidae/anthribinae/trigonorhinini/trigonorhinini/) | *Trigonorhinus* Wollaston  | 8 |
+|  | [Zygaenodini](https://anthribidae.github.io/anthribidae/anthribinae/xylinadini/zygaenodini/zygaenodini/) | *Anthrenosoma* Jordan  | 3 |
 |  |  | *Cybosoma* Jordan  | 1 |
 |  |  | *Eugonops* LeConte  | 3 |
 |  |  | *Eusphyrus* LeConte  | 29 |
 |  |  | *Ormiscus* Waterhouse  | 48 |
 |  |  | *Scymnopis* Jordan  | 2 |
-| **Choraginae** | Araecerini | *Acaromimus* Jordan  | 2 |
+| **Choraginae** | [Araecerini](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/) | *Acaromimus* Jordan  | 2 |
 |  |  | *Araecerus* Schoenherr  | 1 (introduced) |
 |  |  | *Cyptoxenus* Valentine  | 1 |
 |  |  | *Neoxenus* Valentine  | 4 |
-|  | Choragini | *Dysnos* Pascoe  | 2 |
+|  | [Choragini](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/) | *Dysnos* Pascoe  | 2 |
 |  |  | *Habroxenus* Jordan  | 2 |
 |  |  | *Holostilpna* Jordan  | 5 |
 |Total| 15 tribes  | 53 genera | 588 species |
