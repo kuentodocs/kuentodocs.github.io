@@ -9,7 +9,7 @@ nav_order: 3
 {: .no_toc }
 
 By [Samanta Orellana](https://search.asu.edu/profile/3433157) (2022). 
-{: .fs-5 .fw-300 }
+{: .fs-5 .fw-200 }
 
 
 ## Table of Content
