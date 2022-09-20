@@ -30,8 +30,7 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 
 According to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
 
-|
-<img src="https://www.simplemappr.net/map/18214" alt="" />| 
+|<img src="https://www.simplemappr.net/map/18214" alt="" />| 
 |:--:| 
 |Known distribution of _Anthribus_ Geoffroy. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
