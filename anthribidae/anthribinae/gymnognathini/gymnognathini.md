@@ -42,6 +42,8 @@ Number of species and distribution according to [Rheinhemer (2004)](https://www.
 |:--:| 
 |_Gymnognathus claudia_ Jordan: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
+---
+
 ## _Orthotropis_ Jordan, 1904: 254
 (1 species)
 
