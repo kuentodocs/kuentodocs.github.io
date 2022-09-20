@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Neotropical Groups
+title: Neotropical Anthribidae
 has_children: true
 nav_order: 3
 ---
@@ -12,21 +12,18 @@ nav_order: 3
 By [Samanta Orellana](https://search.asu.edu/profile/3433157) (2022). 
 {: .fs-5 .fw-300 }
 
+
+## Table of Content
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 My research is focused on the systematics of Anthribidae and the Neotropical diversity of the group. I am working on the generic revision of _Gymnognathus_ Schoenherr for Central America, and species catalogues for the rest of the countries in the region (Panama: Orellana & Barrios, 2021; Guatemala: Orellana & Franz, _in press_). I am working to build the first higher-level phylogeny for the family.
 
 | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Mapa_AnthribidaePuntosEcdysis_CentroAmerica.jpg?raw=true" alt="Mapa" width="320" height="235"> | 
 |:--:| 
 |1., 2.) *Gymnognathus claudia* Jordan, from Panama, lateral and dorsal view. 3.) Map of some records of Anthribidae in Central America.|
-
-
-## Anthribidae of Panama
-
-During my M.S studies in Panama, I started to build an updated catalogue of the species of Anthribidae in Panama and a taxonomic key to genus level. After identifying the specimenes in Panamanian collections, I completed the catalogue with additional specimens in the collections at Arizona State University (ASUCOB, ASUHIC) and the Smithsonian National Museum of Natural History (NMNH), where the B.D Valentine collection is now housed. The catalogue of the [Anthribidae of Panama](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera) was published earlier in 2021, in the journal _Zootaxa_.   
-
-| <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Zootaxa.jpg?raw=true" height=400> | 
-|:--:| 
-| *Front page of the Catalogue of the Anthribidae of Panama.* |
-
 
 
 ## Summary of the groups of Anthribidae with Neotropical distribution, based in Rheinheimer (2004).
@@ -90,6 +87,12 @@ Anthribidae groups with Neotropical distribution. Preliminar information based o
 |Total| 15 tribes  | 53 genera | 577 species |
 
 
+## Publications
+
+**Orellana, K.S.**, Franz, N. (In press). Checklist of the Anthribidae (Coleoptera: Curculionoidea) of Guatemala, including new country records and a preliminary key to genera. Biodiversidad de Guatemala, Vol. 3. Universidad del Valle de Guatemala: Guatemala. 
+
+**Orellana, K.S.**, Barrios, H. (2021). Catalogue of the Anthribidae (Coleoptera: Curculionoidea) of Panama, including new country records and a key to genera. Zootaxa 4904, 1–71. https://doi.org/10.11646/zootaxa.4904.1.1. Request a copy here: [Anthribidae of Panama](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera).
+
 ## Presentations
 
 -**Orellana, K.S.** (2021) Diversity and Systematics of Central American Anthribidae (Curculionoidea). Weevil Workers Meeting [(virtual)](https://www.youtube.com/watch?v=7H84Io2lWyA&t=2s).
@@ -98,7 +101,7 @@ Anthribidae groups with Neotropical distribution. Preliminar information based o
 
 - **Orellana, K.S.** (2020). Current studies on Central American Anthribidae (Coleoptera: Curculionoidea): The impressive diversity of fungus weevils in Panama. Entomological Society of America Annual Meeting, Florida, USA (virtual).
 
-- **Orellana, K.S.** (2020). “Collection-based research: Discovering the Neotropical Anthribidae”. II Symposium of Evolutionary Biology, School of Life Sciences, Arizona State University, Arizona, USA (virtual).
+- **Orellana, K.S.** (2020). Collection-based research: Discovering the Neotropical Anthribidae. II Symposium of Evolutionary Biology, School of Life Sciences, Arizona State University, Arizona, USA (virtual).
 
 - **Orellana, K.S.** (2019). Research experiences in Central America: Tropical forests, beetles and collections. II Symposium of Evolutionary Biology, School of Life Sciences, Arizona State University, Arizona, Estados Unidos.
 
