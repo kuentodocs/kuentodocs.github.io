@@ -17,15 +17,15 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 (6 species)
 
 ---
-## Habitus
+### Habitus
 ---
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015351_dorsal_edited_1608612310.jpg" alt="Anthribus nebulosus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650093) [<img src="https://storage.idigbio.org/portals/scan/misc/201504/ASUHIC0079276_habitus_lateral__1429125454_web.jpg" alt="Streneoderma contemptum" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=348888) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015228_lateral_edited_1610169538.jpg" alt="Streneoderma planatum" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=629017)  | 
 |:--:| 
 |1.) *Anthribus nebulosus* Forster, dorsal view. 2.) _Streneoderma contemptum_ Blackburn, lateral view. 3.) _Streneoderma planatum_ Blackburn, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
----
-## Distribution
+
+### Distribution
 ---
 
 According to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
@@ -34,8 +34,8 @@ According to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttga
 |:--:| 
 |Known distribution of _Anthribus_ Geoffroy. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
----
-## Diversity
+
+### Diversity
 ---
 According to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
 
