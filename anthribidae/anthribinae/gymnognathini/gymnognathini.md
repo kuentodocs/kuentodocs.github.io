@@ -3,7 +3,7 @@ layout: default
 title: Gymnognathini
 parent: Anthribinae
 grand_parent: Classification
-has_children: true
+has_children: false
 nav_order: 8
 ---
 
@@ -13,3 +13,54 @@ nav_order: 8
 
 Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001).
 {: .fs-5 .fw-300 }
+
+
+## Table of Content
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia Jordan" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611250) 
+|:--:| 
+|**Diversity of Gymnognathini.** 1.) *Gymnognathus claudia* Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana|
+
+---
+
+Number of species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), Perger & Guerra (2016), Rheinheimer (2020).
+{: .fs-5 .fw-300 }
+
+
+## _Gymnognathus_ Schoenherr, 1926: 37
+(96 species)
+
+|<img src="https://www.simplemappr.net/map/18887" alt="" />| 
+|:--:| 
+|Known distribution of _Erotylopsis_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+## _Orthotropis_ Jordan, 1904: 254
+(1 species)
+
+|<img src="https://www.simplemappr.net/map/18888" alt="" />| 
+|:--:| 
+|Known distribution of _Orthotropis_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
+
+## _Strabopsis_ Jordan, 1953: 16 
+(1 species)
+
+|<img src="https://www.simplemappr.net/map/18889" alt="" />| 
+|:--:| 
+|Known distribution of _Strabopsis_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
+
+## _Sylstastocerus_ Labram & Imhoff, 1840: f.6
+(1 species)
+
+|<img src="https://www.simplemappr.net/map/18890" alt="" />| 
+|:--:| 
+|Known distribution of _Systaltocerus_ Labram & Imhoff. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
