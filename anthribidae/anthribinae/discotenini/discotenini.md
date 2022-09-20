@@ -11,7 +11,7 @@ nav_order: 6
 # Tribe Discotenini Lacordaire
 {: .no_toc }
 
-Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001).
+Tribes according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Number of species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
 {: .fs-5 .fw-300 }
 
 
@@ -21,10 +21,6 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 
 ---
 
-Number of species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), Perger & Guerra (2016), Rheinheimer (2020).
-{: .fs-5 .fw-300 }
- 
- 
 ## Table of Content
 {: .no_toc .text-delta }
 
