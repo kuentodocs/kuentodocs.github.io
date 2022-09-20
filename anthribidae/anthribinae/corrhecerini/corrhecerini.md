@@ -11,25 +11,24 @@ nav_order: 3
 # Tribe Corrhecerini Lacordaire
 {: .no_toc }
 
-Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001).
+Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonzo-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
 {: .fs-5 .fw-300 }
 
+---
 
-## Table of Content
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+---
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015243_lateral_edited_1637888538.jpg" alt="Nemotrichus dorsomaculatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=629156) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079279_habitus_lateral__1429125469_web.jpg" alt="Nemotrichus inermis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=348930) | 
 |:--:| 
 |**Diversity of Corrhecerini.** 1.) *Nemotrichus dorsomaculatus* Jordan, lateral view. 2.) _Nemotrichus inermis_ Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana and ASUHIC|
 
 ---
-
-Number of species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
-{: .fs-5 .fw-300 }
-
 
 ## _Corrhecerus_ Schoenherr, 1826: 40
 (9 species)
