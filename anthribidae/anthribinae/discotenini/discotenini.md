@@ -14,11 +14,6 @@ nav_order: 6
 Tribes according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Number of species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
 {: .fs-5 .fw-300 }
 
-
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014210_lateral_edited_1629252381.jpg" alt="Discotenes cylindratus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=610735) 
-|:--:| 
-|**Diversity of Discotenini.** 1.) *Discotenes cylindratus* Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana|
-
 ---
 
 ## Table of Content
@@ -27,6 +22,13 @@ Tribes according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/artic
 1. TOC
 {:toc}
 
+---
+
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014210_lateral_edited_1629252381.jpg" alt="Discotenes cylindratus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=610735) 
+|:--:| 
+|**Diversity of Discotenini.** 1.) *Discotenes cylindratus* Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana|
+
+---
 
 ## _Discotenes_ Labram & Imhoff, 1841: f.8
 (8 species)
