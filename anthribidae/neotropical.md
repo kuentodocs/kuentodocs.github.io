@@ -32,8 +32,6 @@ Here is a summary of the Neotropical diversity of Anthribidae, to give a general
 
 
 Anthribidae groups with Neotropical distribution. Preliminar information based on [Rheinheimer](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf)) (2004), [Mermudes](https://www.researchgate.net/publication/289907664_Description_Of_Two_New_Species_Of_Hypselotropis_Jekel_With_A_Revised_Key_And_Phylogenetic_Reanalysis_Of_The_Genus_Coleoptera_Anthribidae_Anthribinae) (2005), [Mermudes & Napp]([url](https://www.researchgate.net/publication/259372280_Revision_and_cladistic_analysis_of_the_genus_Ptychoderes_Schoenherr_1823_Coleoptera_Anthribidae_Anthribinae_Ptychoderini)) (2006), Perger & Guerra (2016), Queiroz _et al._ (2017), Lopez & Mermudes (2018), Silva & Mermudes (2019), Rheinheimer (2020), [Orellana & Barrios](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera) (2021).
-{: .fs-5 .fw-50 }
-
 
 | Subfamily | Tribe | Genera | # of species |
 |-------|--------|---------|---------|
