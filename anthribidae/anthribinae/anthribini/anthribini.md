@@ -30,16 +30,9 @@ Species according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver
 
 
 ## _Anthribus_ Geoffroy, 1762: 306
-(6 species)
+[(6 species)](https://anthribidae.github.io/anthribidae/anthribinae/anthribini/anthribus/#anthribus-geoffroy-1762-306)
 
 <img src="https://www.simplemappr.net/map/18214" alt="" />
-
-- _Anthribus alternans_ Germar, 1824: 175
-- _Anthribus fasciatus_ Forster, 1770: 5
-- _Anthribus nebulosus_ Forster, 1770: 5
-- _Anthribus niveovariegatus_ (Roeolfs, 1879: 55)
-- _Anthribus scapularis_ Gebler, 1833: 291
-- _Anthribus subroseus_ Reitter, 1916: 9
 
 ## _Opanthribus_ Schilsky, 1907: 74
 (14 species)
