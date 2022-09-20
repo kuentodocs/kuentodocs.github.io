@@ -83,9 +83,8 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 |Total| 15 tribes  | 53 genera | 588 species |
 
 ## Research on Neotropical Anthribidae
-_Samanta Orellana_
 
-In general, my research is focused on the systematics and diversity of the Central American groups. I am working on the generic revision of _Gymnognathus_ Schoenherr for Central America, and building species catalogues for the rest of the countries in the region with several colleagues (Panama: Orellana & Barrios, 2021; Guatemala: Orellana & Franz, _in press_). Overall, my goal is to build the first higher-level phylogeny for the family.  
+In general, my research is focused on the systematics and diversity of the **Central American** groups. I am working on the generic revision of _Gymnognathus_ Schoenherr for Central America, and building species catalogues for the rest of the countries in the region with several colleagues (Panama: Orellana & Barrios, 2021; Guatemala: Orellana & Franz, _in press_). Overall, my goal is to build the first higher-level phylogeny for the family.  
 
 | <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Gymnognathus claudia" width="320" height="213.4"> <img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/Mapa_AnthribidaePuntosEcdysis_CentroAmerica.jpg?raw=true" alt="Mapa" width="320" height="235"> | 
 |:--:| 
