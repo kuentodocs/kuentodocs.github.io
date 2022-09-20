@@ -22,7 +22,7 @@ _During my time at ASU, one of my goals is to digitize as many Anthrbidae of the
 
 [<img src="https://github.com/ksorellana/ksorellana.github.io/blob/main/images/WeevilMeeting.jpg?raw=true" alt="Anthribidae Weevil Meeting" width="195" height="105">](https://www.youtube.com/watch?v=7H84Io2lWyA&t=2s)
 
--**Orellana, K.S.** (2021) Diversity and Systematics of Central American Anthribidae (Curculionoidea). Weevil Workers Meeting [(virtual)](https://www.youtube.com/watch?v=7H84Io2lWyA&t=2s).
+- **Orellana, K.S.** (2021) Diversity and Systematics of Central American Anthribidae (Curculionoidea). Weevil Workers Meeting [(virtual)](https://www.youtube.com/watch?v=7H84Io2lWyA&t=2s).
 
 - **Orellana, K.S.** (2020). Current studies on Central American Anthribidae (Coleoptera: Curculionoidea): The impressive diversity of fungus weevils in Panama. Entomological Society of America Annual Meeting, Florida, USA (virtual).
 
