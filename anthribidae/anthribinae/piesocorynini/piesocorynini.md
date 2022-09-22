@@ -21,7 +21,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 1. TOC
 {:toc}
 
-|[<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070972_habitus_lateral__1432931340_web.jpg" alt="Brachycorynus distentus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341777) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027400_lateral_edited_1662749208.jpg" alt="Brevibarra" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=739850) | 
+|[<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070972_habitus_lateral__1432931340_web.jpg" alt="Brachycorynus distentus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341777) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027400_lateral_edited_1662749208.jpg" alt="Brevibarra" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=739850) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015242_lateral_edited_1613842075.jpg" alt="Lagopezus tenuicornis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=629155) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015376_lateral_edited_1651988221.jpg" alt="Piesocorynus plagifer" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=651691)| 
 |:--:| 
 |**Diversity of Piesocorynini.** 1.) _Brachycorynus distentus_ (Frieser), lateral view. 2.) _Brevibarra_ sp. (Jordan), lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana and ASUHIC.|
 
@@ -82,4 +82,26 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Lagopezus tenuicornis_ (Fabricius): 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
+---
 
+## _Piezonemus_ Jordan, 1904: 27
+(2 species)
+
+|<img src="https://www.simplemappr.net/map/18924" alt="" />| 
+|:--:| 
+|Known distribution of _Piezonemus_ Dejean. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
+
+## _Piesocorynus_ Dejean, 1834: 235
+(31 species)
+
+|<img src="https://www.simplemappr.net/map/18926" alt="" />| 
+|:--:| 
+|Known distribution of _Piesocorynus_ Dejean. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015376_lateral_edited_1651988221.jpg" alt="Piesocorynus plagifer" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=651691)| 
+|:--:| 
+|_Piesocorynus plagifer_ (Jordan): 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+
+---
