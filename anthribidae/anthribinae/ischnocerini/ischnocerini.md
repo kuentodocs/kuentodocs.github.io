@@ -21,6 +21,14 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 1. TOC
 {:toc}
 
+---
+
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126601_lateral-edited_1581370911.jpg" alt="Meconemus angulatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=555936) | 
+|:--:| 
+|**Diversity of Ischnocerini.** 1.) *Meconemus  angulatus* (Martin), lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
+
+---
+
 ## _Meconemus_ Labram & Imhoff, 1840: f.6
 (12 species)
 
