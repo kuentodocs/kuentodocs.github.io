@@ -58,6 +58,15 @@ Note: Rheinhemer mistakes Honduras with Belize (previously known as "_British Ho
 
 ---
 
+## _Cyptoxenus_ Valentine, 1982: 197
+(1 species)
+
+|<img src="https://www.simplemappr.net/map/18913" alt="" />| 
+|:--:| 
+|Known distribution of _Cyptoxenus_ Valentine. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
+
 ## _Neoxenus_ Valentine, 1998: 1135
 (6 species)
 
