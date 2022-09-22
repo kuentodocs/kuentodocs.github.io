@@ -9,7 +9,71 @@ nav_order: 3
 
 
 # Tribe Choragini Lacordaire
-{: .no_toc }
 
-Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001).
+Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonzo-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
 {: .fs-5 .fw-300 }
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027370_lateral_edited_1651938315.jpg" alt="Holostilpna" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740032) | 
+|:--:| 
+|1.) *Holostilpna* sp. Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+
+---
+
+## _Apteroxenus_ Valentine, 1979: 21
+(1 species)
+
+|<img src="https://www.simplemappr.net/map/18916" alt="" />| 
+|:--:| 
+|Known distribution of _Apteroxenus_ Valentine. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
+
+## _Dysnos_ Pascoe, 1859: 438
+(9 species)
+
+|<img src="https://www.simplemappr.net/map/18918" alt="" />| 
+|:--:| 
+|Known distribution of _Dysnos_ Pascoe. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
+
+## _Euxenulus_ Valentine, 1960: 53
+(1 species)
+
+|<img src="https://www.simplemappr.net/map/18915" alt="" />| 
+|:--:| 
+|Known distribution of _Euxenulus_ Valentine. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
+
+## _Holostilpna_ Jordan, 1907: 382
+(7 species)
+
+|<img src="https://www.simplemappr.net/map/18914" alt="" />| 
+|:--:| 
+|Known distribution of _Holostilpna_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Jordan (1907)](https://www.biodiversitylibrary.org/item/14611#page/393/mode/1up). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027370_lateral_edited_1651938315.jpg" alt="Holostilpna" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740032)| 
+|:--:| 
+|_Holostilpna_ sp.: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana |
+
+---
+
+## _Pseudochoragus_ Petri, 1912: 289
+(2 species)
+
+|<img src="https://www.simplemappr.net/map/18917" alt="" />| 
+|:--:| 
+|Known distribution of _Pseudochoragus_ Petri. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+
