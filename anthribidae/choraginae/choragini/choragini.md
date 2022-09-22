@@ -38,6 +38,15 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
+## _Choragus_ Kirby, 1819: 447
+(52 species)
+
+|<img src="https://www.simplemappr.net/map/18919" alt="" />| 
+|:--:| 
+|Known distribution of _Choragus_ Kirby. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
+
 ## _Dysnos_ Pascoe, 1859: 438
 (9 species)
 
