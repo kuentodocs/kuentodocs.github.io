@@ -50,7 +50,7 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015361_dorsal_edited_1623815867.jpg" alt="Bruchela suturalis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650188) | 
 |:--:| 
-|1.) *Bruchela suturalis* (Fabricius, 1792: 372), dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana||
+|1.) *Bruchela suturalis* (Fabricius, 1792: 372), dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana|
 
 ---
 
