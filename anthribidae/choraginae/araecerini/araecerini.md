@@ -9,7 +9,6 @@ nav_order: 2
 
 
 # Tribe Araecerini Lacordaire
-{: .no_toc }
 
 Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonzo-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
 {: .fs-5 .fw-300 }
@@ -26,6 +25,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 | [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201511/ASUHIC0071013_habitus_lateral__1446498565_web.jpg" alt="Acaromimus americanus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=342756)[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015451_lateral_edited_1661108582.jpg" alt="Araecerus fasciculatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=1154243) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027423_lateral_edited_1638935403.jpg" alt="Neoxenus polius" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740041) | 
 |:--:| 
+|**Diversity of Araecerini.** 1.) *Basitropis nitidicutis* Jekel, lateral view. 2.) _Eugonodes brevirostris_ Jordan, lateral view. 3.) _Eugonus robustus_ Jordan, lateral view. 4.) _Gynandrocerus_ sp., lateral view 5.) _Phaenithon curvipes_ Germar, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana|
 |1.) *Acaromimus americanus* (Motschulsky), lateral view. 2.) *Araecerus fasciculatus* DeGeer, lateral view. 3.) *Neoxenus polius* (Jordan), lateral view.  Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
 ---
