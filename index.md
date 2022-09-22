@@ -9,7 +9,7 @@ permalink: /
 # Anthribidae of the World
 {: .fs-9 }
 
-Website dedicated to the family Anthribidae (Coleoptera: Curculionoidea). Created by [Samanta Orellana](https://isearch.asu.edu/profile/3433157).
+Website dedicated to the family Anthribidae (Coleoptera: Curculionoidea), inspired by the wonderful Charles W. O'Brien Collection (ASUCOB). Created by [Samanta Orellana](https://isearch.asu.edu/profile/3433157). 
 {: .fs-6 .fw-300 }
 
 [Anthribidae Catalogue](https://anthribidae.github.io/anthribidae/anthribidae/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Anthribidae Images](https://serv.biokic.asu.edu/ecdysis/collections/list.php?hasimages=1&taxa=Anthribidae&usethes=1&taxontype=3){: .btn .fs-5 .mb-4 .mb-md-0 } 
