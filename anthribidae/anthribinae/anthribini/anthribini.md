@@ -32,13 +32,13 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Anthribus_ Geoffroy, 1762: 306
 (6 species)
 
-|<img src="https://www.simplemappr.net/map/18214" alt="" />| 
-|:--:| 
-|Known distribution of _Anthribus_ Geoffroy. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
-
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015351_dorsal_edited_1608612310.jpg" alt="Anthribus nebulosus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650093)  | 
 |:--:| 
 |_Anthribus nebulosus_ Forster : 1.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana|
+
+|<img src="https://www.simplemappr.net/map/18214" alt="" />| 
+|:--:| 
+|Known distribution of _Anthribus_ Geoffroy. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ---
 
@@ -54,10 +54,11 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Streneoderma_ Blackburn, 1900: 157
 (3 species)
 
+| [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079276_habitus_lateral__1429125454_web.jpg" alt="Streneoderma contemptum" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=348888) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079276_habitus_dorsal_1_1429125453_web.jpg" alt="Streneoderma contemptum" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=348888)  | 
+|:--:| 
+|_Streneoderma contemptum_ Blackburn : 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana|
+
 |<img src="https://www.simplemappr.net/map/18215" alt="" />| 
 |:--:| 
 |Known distribution of _Streneoderma_ Blackburn. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
-| [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079276_habitus_lateral__1429125454_web.jpg" alt="Streneoderma contemptum" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=348888) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079276_habitus_dorsal_1_1429125453_web.jpg" alt="Streneoderma contemptum" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=348888)  | 
-|:--:| 
-|_Streneoderma contemptum_ Blackburn : 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana|
