@@ -10,7 +10,7 @@ nav_order: 3
 # Subfamily Urodontinae Thomson
 {: .no_toc }
 
-Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001).
+Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Genera included in Urodontinae according to Alonzo-Zarazaga & Lyal (1999). Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
 {: .fs-5 .fw-300 }
 
 
@@ -23,12 +23,6 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015361_dorsal_edited_1623815867.jpg" alt="Bruchela suturalis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650188) |
 |:--:| 
 |**Diversity of Urodontinae.** 1.) *Bruchela suturalis* (Fabricius, 1792: 372), dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images by Samanta Orellana.|
-
----
-
-Genera included in Urodontinae according to Alonzo-Zarazaga & Lyal (1999).
-Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
-{: .fs-5 .fw-300 }
 
 ---
 
@@ -50,7 +44,7 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015361_dorsal_edited_1623815867.jpg" alt="Bruchela suturalis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650188) | 
 |:--:| 
-|1.) *Bruchela suturalis* (Fabricius, 1792: 372), dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana|
+|1.) *Bruchela suturalis* (Fabricius, 1792: 372), dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
 ---
 
