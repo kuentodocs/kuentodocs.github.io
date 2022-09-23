@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Classification
+title: Gallery
 has_children: true
 nav_order: 3
 ---
