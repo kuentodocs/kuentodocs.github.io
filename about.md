@@ -6,7 +6,7 @@ nav_order: 5
 
 # About Anthribidae of the World
 
-_This is a website developed by [Samanta Orellana](https://isearch.asu.edu/profile/3433157), current PhD Student in the Franz Lab of Weevil Systematics and Evolution, at Arizona State University. The site is dedicated to display the diversity of the family Anthribidae (Coleoptera: Curculionoidea) across the world, featuring the specimens available at the O'Brien Collection [(ASUCOB)](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=2), now part of the Biocollections at the [Biodiversity Knowledge Integration Center](https://biokic.asu.edu/), in Arizona State University, USA. _
+This is a website developed by [Samanta Orellana](https://isearch.asu.edu/profile/3433157), current PhD Student in the Franz Lab of Weevil Systematics and Evolution, at Arizona State University. The site is dedicated to display the diversity of the family Anthribidae (Coleoptera: Curculionoidea) across the world, featuring the specimens available at the O'Brien Collection [(ASUCOB)](https://serv.biokic.asu.edu/ecdysis/collections/misc/collprofiles.php?collid=2), now part of the Biocollections at the [Biodiversity Knowledge Integration Center](https://biokic.asu.edu/), in Arizona State University, USA. 
 
 ---
 
