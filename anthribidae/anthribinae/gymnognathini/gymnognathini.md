@@ -20,9 +20,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 1. TOC
 {:toc}
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611250) 
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611250) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079299_habitus_lateral__1429125699_web.jpg" alt="Syltastocerus platyrhinus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=349324)
 |:--:| 
-|**Diversity of Gymnognathini.** 1.) *Gymnognathus claudia* Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
+|**Diversity of Gymnognathini.** 1.) *Gymnognathus claudia* Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). 2.) *Syltastocerus platyrhinus* Labram & Imhoff. Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
 
 ---
 
