@@ -72,3 +72,16 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Strabus umbrinus_ (Jordan) 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: ASUHIC.|
 
+---
+
+## _Trachytropis_ Jordan, 1904:  266
+(2 species)
+
+|<img src="https://www.simplemappr.net/map/19012" alt="" />| 
+|:--:| 
+|Known distribution of _Trachytropis_ Jekel. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0023/ASUCOB0023321_lateral_edited_1651938558.jpg" alt="Strabus umbrinus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=727942) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0023/ASUCOB0023321_dorsal_edited_1662828249.jpg" alt="Trachytropis aspera idaeus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=727942)| 
+|:--:| 
+|_Trachytropis aspera_ Jordan 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+
