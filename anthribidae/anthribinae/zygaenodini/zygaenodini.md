@@ -31,9 +31,18 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ---
 
 ## _Cybosoma_ Jordan, 1906: 361
-(29 species)
+( species)
 
 |<img src="https://www.simplemappr.net/map/19018" alt="" />| 
+|:--:| 
+|Known distribution of _Cybosoma_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
+
+## _Eugonops_ Jordan, 1904: 285
+(3 species)
+
+|<img src="https://www.simplemappr.net/map/19020" alt="" />| 
 |:--:| 
 |Known distribution of _Cybosoma_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
