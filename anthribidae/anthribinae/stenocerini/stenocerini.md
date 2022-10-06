@@ -23,10 +23,10 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-| [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201511/ASUHIC0070878_habitus_lateral__1446498481_web.jpg" alt="Stenocerus angulicollis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=340338) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201511/ASUHIC0070876_habitus_lateral__1446498480_web.jpg" alt="Allandrus bifasciatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=340326)
+| [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201511/ASUHIC0070878_habitus_lateral__1446498481_web.jpg" alt="Stenocerus angulicollis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=340338) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201511/ASUHIC0070876_habitus_lateral__1446498480_web.jpg" alt="Allandrus bifasciatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=340326) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015493_lateral_edited_1617241247.jpg" alt="Sintorops alloeus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=694899)
 |:--:| 
 |**Diversity of Stenocerini.** 
-1.) *Stenocerus angulicollis* Jekel, lateral view. 2.) *Allandrus bifasciatus* LeConte, lateral. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
+1.) *Stenocerus angulicollis* Jekel, lateral view. 2.) *Allandrus bifasciatus* LeConte, lateral. 3.) *Sintorops alloeus* Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
 
 ---
 
@@ -63,4 +63,17 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |<img src="https://www.simplemappr.net/map/19117" alt="" />| 
 |:--:| 
 |Known distribution of _Allandrus_ LeConte. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
+
+## _Sintorops_ Jordan, 1914:248
+(1 species)
+
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015493_lateral_edited_1617241247.jpg" alt="Sintorops alloeus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=694899) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015493_dorsal_edited_1617244049.jpg" alt="Sintorops alloeus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=694899) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015493_frontal_edited_1617244585.jpg" alt="Sintorops alloeus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=694899)   
+|:--:| 
+|_Sintorops alloeus_ Jordan: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+
+|<img src="https://www.simplemappr.net/map/19117" alt="" />| 
+|:--:| 
+|Known distribution of _Sintorops_ LeConte. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
