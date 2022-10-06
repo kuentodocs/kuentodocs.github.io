@@ -20,9 +20,9 @@ Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.n
 1. TOC
 {:toc}
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015361_dorsal_edited_1623815867.jpg" alt="Bruchela suturalis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650188) |
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015348_dorsal_edited_1605579130.jpg" alt="Bruchela rufipes" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=645279) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015361_dorsal_edited_1623815867.jpg" alt="Bruchela suturalis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650188) |
 |:--:| 
-|**Diversity of Urodontinae.** 1.) *Bruchela suturalis* (Fabricius, 1792: 372), dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images by Samanta Orellana.|
+|**Diversity of Urodontinae.** 1.) *Bruchela rufipes* (Olivier, 1790: 202), dorsal view. 2.) *Bruchela suturalis* (Fabricius, 1792: 372), dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images by Samanta Orellana.|
 
 ---
 
