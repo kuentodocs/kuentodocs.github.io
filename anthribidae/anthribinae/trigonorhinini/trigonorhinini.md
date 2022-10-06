@@ -41,12 +41,3 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |Known distribution of _Trigonorhinus_ Wollaston. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
-
----
-
-## _Afrophaenotherium_ Frieser, 1984: 176
-(1 species)
-
-|<img src="https://www.simplemappr.net/map/19116" alt="" />| 
-|:--:| 
-|Known distribution of _Afrophaenotherium_ Frieser. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
