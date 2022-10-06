@@ -27,15 +27,6 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-## _Parexillis_ Jordan, 1904: 284
-(8 species)
-
-|<img src="https://www.simplemappr.net/map/19024" alt="" />| 
-|:--:| 
-|Known distribution of _Parexillis_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
-
----
-
 ## _Platystomos_ Schneider, 1791: 21
 (15 species)
 
@@ -46,6 +37,15 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |<img src="https://www.simplemappr.net/map/19023" alt="" />| 
 |:--:| 
 |Known distribution of _Platystomos_ Schneider. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
+
+## _Parexillis_ Jordan, 1904: 284
+(8 species)
+
+|<img src="https://www.simplemappr.net/map/19024" alt="" />| 
+|:--:| 
+|Known distribution of _Parexillis_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ---
 
