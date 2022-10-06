@@ -25,8 +25,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015536_lateral_edited_1659401279.jpg" alt="Hypselotropis annulicornis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=699863) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015494_dorsal_edited_1616810133.jpg" alt="Phloeopemon cinereus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=693162)[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0023/ASUCOB0023195_lateral_edited_1661906840.jpg" alt="Ptychoderes rugicollis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=708220)
 |:--:| 
-|**Diversity of Ptychoderini.** 
-1.) *Hypselotropis annulicornis* (Fahraeus), lateral view. 2.) *Phloeopemon cinereum* (Olivier), dorsal view. 3.) *Ptychoderes rugicollis* Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
+|**Diversity of Ptychoderini.** 1.) *Hypselotropis annulicornis* (Fahraeus), lateral view. 2.) *Phloeopemon cinereum* (Olivier), dorsal view. 3.) *Ptychoderes rugicollis* Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
 
 ---
 
