@@ -25,8 +25,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 | [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/ASU/201302/ASUHIC0000515_Habitus_lat.jpg" alt="Trigonorhinus griseus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=386837) 
 |:--:| 
-|**Diversity of Trigonorhinini.** 
-1.) *Trigonorhinus griseus* (LeConte), lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: ASUHIC. |
+|**Diversity of Trigonorhinini.** 1.) *Trigonorhinus griseus* (LeConte), lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: ASUHIC. |
 
 ---
 
