@@ -68,9 +68,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Phloeotragus_ Schoenherr, 1823:135
 (14 species)
 
-|<img src="https://www.simplemappr.net/map/19096" alt="" />| 
+|<img src="https://www.simplemappr.net/map/19101" alt="" />| 
 |:--:| 
-|Known distribution of _Phloeopemon_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Phloeotragus_ Schoenherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ---
 
