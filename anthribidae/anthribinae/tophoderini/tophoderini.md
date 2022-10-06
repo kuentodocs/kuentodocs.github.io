@@ -30,7 +30,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ---
 
 ## _Tophoderes_ Dejean, 1834: 236
-(4 species)
+(11 species)
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015298_lateral_edited_1611272162.jpg" alt="Tophoderes annulatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=630413) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015298_dorsal_edited_1611272415.jpg" alt="Tophoderes annulatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=630413)     
 |:--:| 
