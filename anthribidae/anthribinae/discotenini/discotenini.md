@@ -9,7 +9,6 @@ nav_order: 6
 
 
 # Tribe Discotenini Lacordaire
-{: .no_toc }
 
 Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonzo-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
 {: .fs-5 .fw-300 }
@@ -30,6 +29,29 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 1.) *Discotenes cylindratus* Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
 
 ---
+## _Acanthopygus_ Montrouzier, 1861:869
+(5 species)
+
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015274_lateral_edited_1617388466.jpg" alt="Acanthopygus griseus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=629461) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015274_dorsal_edited_1617388487.jpg" alt="Acanthopygus griseus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=629461)  
+|:--:| 
+|_Acanthopygus griseus_ Montrouzier: 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+
+|<img src="https://www.simplemappr.net/map/19106" alt="" />| 
+|:--:| 
+|Known distribution of _Acanthopygus_ Monrouzier. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
+
+## _Ancylotropis_ Jekel, 1855:94
+(3 species)
+
+| [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079288_habitus_lateral__1429125564_web.jpg" alt="Ancylotropis waterhousei" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=349109) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079288_habitus_dorsal_1_1429125563_web.jpg" alt="Ancylotropis waterhousei" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=349109)   
+|:--:| 
+|_Ancylotropis waterhousei_ Jekel: 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: ASUHIC.|
+
+|<img src="https://www.simplemappr.net/map/19108" alt="" />| 
+|:--:| 
+|Known distribution of _Ancylotropis_ Jekel. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ## _Discotenes_ Labram & Imhoff, 1841: f.8
 (8 species)
