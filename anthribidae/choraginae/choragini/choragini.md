@@ -68,13 +68,13 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Holostilpna_ Jordan, 1907: 382
 (7 species)
 
-|<img src="https://www.simplemappr.net/map/18914" alt="" />| 
-|:--:| 
-|Known distribution of _Holostilpna_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Jordan (1907)](https://www.biodiversitylibrary.org/item/14611#page/393/mode/1up). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
-
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027370_lateral_edited_1651938315.jpg" alt="Holostilpna" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740032)| 
 |:--:| 
 |_Holostilpna_ sp.: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana |
+
+|<img src="https://www.simplemappr.net/map/18914" alt="" />| 
+|:--:| 
+|Known distribution of _Holostilpna_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Jordan (1907)](https://www.biodiversitylibrary.org/item/14611#page/393/mode/1up). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ---
 
