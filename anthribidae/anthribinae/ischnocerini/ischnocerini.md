@@ -3,7 +3,7 @@ layout: default
 title: Ischnocerini
 parent: Anthribinae
 grand_parent: Classification
-has_children: true
+has_children: false
 nav_order: 9
 ---
 
