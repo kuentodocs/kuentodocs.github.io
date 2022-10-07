@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Neotropical Anthribidae
-has_children: true
+has_children: false
 nav_order: 4
 ---
 
@@ -72,7 +72,7 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 |  |  | [*Eusphyrus* LeConte](https://anthribidae.github.io/anthribidae/anthribinae/zygaenodini/zygaenodini/#eusphyrus-leconte-1876-399)  | 29 |
 |  |  | [*Ormiscus* Waterhouse](https://anthribidae.github.io/anthribidae/anthribinae/zygaenodini/zygaenodini/#ormiscus-waterhouse-184537)  | 48 |
 |  |  | *Scymnopis* Jordan  | 2 |
-| **Choraginae** | [Araecerini](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/) | *Acaromimus* Jordan  | 2 |
+| **Choraginae** | [Araecerini](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/) | [*Acaromimus* Jordan](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/#acaromimus-jordan-1907-381)  | 2 |
 |  |  | [*Araecerus* Schoenherr](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/#araecerus-schoenherr-1823-1135)  | 1 (introduced) |
 |  |  | [*Cyptoxenus* Valentine](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/#cyptoxenus-valentine-1982-197)  | 1 |
 |  |  | [*Neoxenus* Valentine](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/#neoxenus-valentine-1998-1135)  | 4 |
