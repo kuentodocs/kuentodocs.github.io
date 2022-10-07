@@ -98,7 +98,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ---
 
 ## _Piezobarra_ Jordan, 1906: 314
-(2 species)
+(1 species)
 
 |<img src="https://www.simplemappr.net/map/19143" alt="" />| 
 |:--:| 
