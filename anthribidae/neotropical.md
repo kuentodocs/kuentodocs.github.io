@@ -37,7 +37,7 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 |  | [Cratoparini](https://anthribidae.github.io/anthribidae/anthribinae/cratoparini/cratoparini/) | [*Euparius* Schoenherr](https://anthribidae.github.io/anthribidae/anthribinae/cratoparini/cratoparini/#euparius-schoenherr-1823-1135) | 52 |
 |  | [Discotenini](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/) | [*Dasyrhopala* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/#dasyrhopala-jordan-1904-272) | 1 |
 |  |  | [*Discotenes* Labram & Imhoff](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/#discotenes-labram--imhoff-1841-f8) | 6 |
-|  |  | [*Eucyclotropis* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/#dasyrhopala-jordan-1904-272) | 5 |
+|  |  | [*Eucyclotropis* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/#eucyclotropis-jordan-1904-273) | 5 |
 |  |  | [*Hylotribus* Jekel](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/#hylotribus-jekel-1860-239) | 11 |
 |  | [Gymnognathini](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathini/) | [*Domoptolis* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathini/#domoptolis-jordan-1904-253) | 2 |
 |  |  | [*Gymnognathus* Schoenherr](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathini/#gymnognathus-schoenherr-1926-37) | 96 |
