@@ -49,7 +49,7 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 |  |  | [*Barridia* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#barridia-jordan-1906-313) | 1 |
 |  |  | [*Brevibarra* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#brevibarra-jordan-1906-312) | 1 |
 |  |  | [*Lagopezus* Dejean](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#lagopezus-dejean-1834-235) | 6 |
-|  |  | *Phaenotheriopsis* Wolfrum | 6 |
+|  |  | [*Phaenotheriopsis* Wolfrum](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#phaenotheriopsis-wolfrum-1931-70) | 6 |
 |  |  | [*Piesocorynus* Dejean](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#piesocorynus-dejean-1834-235) | 29 |
 |  |  | [*Piezobarra* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#piezobarra-jordan-1906-314) | 1 |
 |  |  | [*Piezonemus* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#piezonemus-jordan-1904-27) | 2 |
