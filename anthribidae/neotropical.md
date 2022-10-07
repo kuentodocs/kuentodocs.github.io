@@ -28,57 +28,56 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 
 | Subfamily | Tribe | Genera | # of species |
 |-------|--------|---------|---------|
-| **Anthribinae** | [Basitropini](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/) | *Eugonodes* Jordan | 2 |
-|  |  | *Eugonus* Schoenherr | 12 |
-|  |  | *Phaenithon* Schoenherr | 65 |
-|  | [Corrhecerini](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/corrhecerini/) | *Corrhecerus* Schoenherr | 9 |
-|  |  | *Exechontis* Jordan | 2 |
-|  |  | *Nemotrichus* Labram & Imhoff | 14 |
-|  | [Cratoparini](https://anthribidae.github.io/anthribidae/anthribinae/cratoparini/cratoparini/) | *Euparius* Schoenherr | 52 |
-|  | [Discotenini](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/) | *Dasyrhopala* Jordan | 1 |
-|  |  | *Discotenes* Labram & Imhoff | 6 |
-|  |  | *Eucyclotropis* Jordan | 5 |
-|  |  | *Hylotribus* Jekel | 11 |
-|  | [Gymnognathini](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathini/) | *Domoptolis* Jordan | 2 |
-|  |  | *Gymnognathus* Schoenherr | 96 |
-|  |  | *Orthotropis* Jordan | 1 |
-|  |  | *Strabopsis* Jordan | 1 |
+| **Anthribinae** | [Basitropini](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/) | [*Eugonodes* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/#eugonodes-jordan-1904-302) | 2 |
+|  |  | [*Eugonus* Schoenherr](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/#eugonus-schoenherr-1833-144) | 12 |
+|  |  | [*Phaenithon* Schoenherr](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/#phaenithon-schoenherr-1826-37) | 65 |
+|  | [Corrhecerini](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/corrhecerini/) | [*Corrhecerus* Schoenherr](url) | 9 |
+|  |  | [*Exechontis* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/corrhecerini/#exechontis-jordan-1904-283) | 2 |
+|  |  | [*Nemotrichus* Labram & Imhoff](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/corrhecerini/#nemotrichus-labram--imhoff-1838-f3) | 14 |
+|  | [Cratoparini](https://anthribidae.github.io/anthribidae/anthribinae/cratoparini/cratoparini/) | [*Euparius* Schoenherr](https://anthribidae.github.io/anthribidae/anthribinae/cratoparini/cratoparini/#euparius-schoenherr-1823-1135) | 52 |
+|  | [Discotenini](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/) | [*Dasyrhopala* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/#dasyrhopala-jordan-1904-272) | 1 |
+|  |  | [*Discotenes* Labram & Imhoff](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/#discotenes-labram--imhoff-1841-f8) | 6 |
+|  |  | [*Eucyclotropis* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/#dasyrhopala-jordan-1904-272) | 5 |
+|  |  | [*Hylotribus* Jekel](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/#hylotribus-jekel-1860-239) | 11 |
+|  | [Gymnognathini](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathini/) | [*Domoptolis* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathini/#domoptolis-jordan-1904-253) | 2 |
+|  |  | [*Gymnognathus* Schoenherr](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathini/#gymnognathus-schoenherr-1926-37) | 96 |
+|  |  | [*Orthotropis* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathini/#orthotropis-jordan-1904-254) | 1 |
+|  |  | [*Strabopsis* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathini/#strabopsis-jordan-1953-16) | 1 |
 |  |  | *Systaltocerus* Labram & Imhoff | 1 |
-|  | [Ischnocerini](https://anthribidae.github.io/anthribidae/anthribinae/ischnocerini/ischnocerini/) | *Meconemus* Labram & Imhoff | 11 |
-|  | [Piesocorynini](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/) | *Brevibarra* Jordan | 1 |
-|  |  | *Barra* Jordan | 2 |
-|  |  | *Barridia* Jordan | 1 |
-|  |  | *Brevibarra* Dejean | 1 |
-|  |  | *Lagopezus* Dejean | 6 |
-|  |  | *Piesocorynus* Dejean | 29 |
+|  | [Ischnocerini](https://anthribidae.github.io/anthribidae/anthribinae/ischnocerini/ischnocerini/) | [*Meconemus* Labram & Imhoff](https://anthribidae.github.io/anthribidae/anthribinae/ischnocerini/ischnocerini/#meconemus-labram--imhoff-1840-f6) | 11 |
+|  | [Piesocorynini](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/) | [*Barra* Jordan*](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#barra-jordan-1904-275) | 2 |
+|  |  | [*Barridia* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#barridia-jordan-1906-313) | 1 |
+|  |  | [*Brevibarra* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#brevibarra-jordan-1906-312) | 1 |
+|  |  | [*Lagopezus* Dejean](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#lagopezus-dejean-1834-235) | 6 |
+|  |  | [*Piesocorynus* Dejean](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#piesocorynus-dejean-1834-235) | 29 |
 |  |  | *Piezobarra* Jordan | 1 |
-|  |  | *Piezonemus* Jordan | 2 |
-|  | [Platyrhinini](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/) | *Anthiera* Alonso-Zarazaga & Lyal | 1 |
-|  |  | *Homocloeus* Jordan | 17 |
-|  |  | *Monocloeus* Jordan | 15 |
-|  |  | *Strabus* Jekel  | 37 |
-|  |  | *Trachytropis* Jordan  | 1 |
+|  |  | [*Piezonemus* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#piezonemus-jordan-1904-27) | 2 |
+|  | [Platyrhinini](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/) | [*Anthiera* Alonso-Zarazaga & Lyal](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/#anthiera-alonso-zarazaga--lyal-1999-32) | 1 |
+|  |  | [*Homocloeus* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/#homocloeus-jordan-1904-264) | 17 |
+|  |  | [*Monocloeus* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/#monocloeus-jordan-1904-255) | 15 |
+|  |  | [*Strabus* Jekel](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/#strabus-jekel-1860-239)  | 37 |
+|  |  | [*Trachytropis* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/#trachytropis-jordan-1904--266)  | 1 |
 |  | [Platystomini](https://anthribidae.github.io/anthribidae/anthribinae/platystomini/platystomini/) | *Parexillis* Jordan  | 8 |
 |  |  | *Phoenicobiella* Lacordaire  | 1 |
-|  |  | *Toxonotus* Lacordaire  | 30 |
-|  | [Ptychoderini](https://anthribidae.github.io/anthribidae/anthribinae/ptychoderini/ptychoderini/) | *Hypselotropis* Jekel  | 17 |
-|  |  | *Ptychoderes* Schoenherr  | 18 |
-|  |  | *Unanthribus* Mermudes  | 2 |
-|  | [Stenocerini](https://anthribidae.github.io/anthribidae/anthribinae/stenocerini/stenocerini/) | *Allandrus* LeConte  | 2 |
-|  |  | *Stenocerus* Schoenherr  | 12 |
-|  | [Trigonorhinini](https://anthribidae.github.io/anthribidae/anthribinae/trigonorhinini/trigonorhinini/) | *Trigonorhinus* Wollaston  | 8 |
+|  |  | [*Toxonotus* Lacordaire](https://anthribidae.github.io/anthribidae/anthribinae/platystomini/platystomini/#toxonotus-lacordaire-1866-575)  | 30 |
+|  | [Ptychoderini](https://anthribidae.github.io/anthribidae/anthribinae/ptychoderini/ptychoderini/) | [*Hypselotropis* Jekel](https://anthribidae.github.io/anthribidae/anthribinae/ptychoderini/ptychoderini/#hypselotropis-jekel-185565)  | 17 |
+|  |  | [*Ptychoderes* Schoenherr](https://anthribidae.github.io/anthribidae/anthribinae/ptychoderini/ptychoderini/#ptychoderes-schoenherr-18231135) | 18 |
+|  |  | [*Unanthribus* Mermudes](https://anthribidae.github.io/anthribidae/anthribinae/ptychoderini/ptychoderini/#unantrhibus-mermudes-2003-239)  | 2 |
+|  | [Stenocerini](https://anthribidae.github.io/anthribidae/anthribinae/stenocerini/stenocerini/) | [*Allandrus* LeConte](https://anthribidae.github.io/anthribidae/anthribinae/stenocerini/stenocerini/#allandrus-leconte-1876396)  | 2 |
+|  |  | [*Stenocerus* Schoenherr](https://anthribidae.github.io/anthribidae/anthribinae/stenocerini/stenocerini/#stenocerus-schoenherr-1826-39)  | 12 |
+|  | [Trigonorhinini](https://anthribidae.github.io/anthribidae/anthribinae/trigonorhinini/trigonorhinini/) | [*Trigonorhinus* Wollaston](https://anthribidae.github.io/anthribidae/anthribinae/trigonorhinini/trigonorhinini/#trigonorhinus-wollaston-1861-102)  | 8 |
 |  | [Zygaenodini](https://anthribidae.github.io/anthribidae/anthribinae/xylinadini/zygaenodini/zygaenodini/) | *Anthrenosoma* Jordan  | 3 |
-|  |  | *Cybosoma* Jordan  | 1 |
-|  |  | *Eugonops* LeConte  | 3 |
-|  |  | *Eusphyrus* LeConte  | 29 |
-|  |  | *Ormiscus* Waterhouse  | 48 |
+|  |  | [*Cybosoma* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/zygaenodini/zygaenodini/#cybosoma-jordan-1906-361)  | 1 |
+|  |  | [*Eugonops* LeConte](https://anthribidae.github.io/anthribidae/anthribinae/zygaenodini/zygaenodini/#eugonops-jordan-1904-285)  | 3 |
+|  |  | [*Eusphyrus* LeConte](https://anthribidae.github.io/anthribidae/anthribinae/zygaenodini/zygaenodini/#eusphyrus-leconte-1876-399)  | 29 |
+|  |  | [*Ormiscus* Waterhouse](https://anthribidae.github.io/anthribidae/anthribinae/zygaenodini/zygaenodini/#ormiscus-waterhouse-184537)  | 48 |
 |  |  | *Scymnopis* Jordan  | 2 |
 | **Choraginae** | [Araecerini](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/) | *Acaromimus* Jordan  | 2 |
-|  |  | *Araecerus* Schoenherr  | 1 (introduced) |
-|  |  | *Cyptoxenus* Valentine  | 1 |
-|  |  | *Neoxenus* Valentine  | 4 |
-|  | [Choragini](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/) | *Dysnos* Pascoe  | 2 |
+|  |  | [*Araecerus* Schoenherr](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/#araecerus-schoenherr-1823-1135)  | 1 (introduced) |
+|  |  | [*Cyptoxenus* Valentine](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/#cyptoxenus-valentine-1982-197)  | 1 |
+|  |  | [*Neoxenus* Valentine](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/#neoxenus-valentine-1998-1135)  | 4 |
+|  | [Choragini](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/) | [*Dysnos* Pascoe](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/#dysnos-pascoe-1859-438)  | 2 |
 |  |  | *Habroxenus* Jordan  | 2 |
-|  |  | *Holostilpna* Jordan  | 5 |
+|  |  | [*Holostilpna* Jordan](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/#holostilpna-jordan-1907-382)  | 5 |
 |Total| 15 tribes  | 53 genera | 588 species |
 
