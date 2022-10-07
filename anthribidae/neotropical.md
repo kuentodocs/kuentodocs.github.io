@@ -49,6 +49,7 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 |  |  | [*Barridia* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#barridia-jordan-1906-313) | 1 |
 |  |  | [*Brevibarra* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#brevibarra-jordan-1906-312) | 1 |
 |  |  | [*Lagopezus* Dejean](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#lagopezus-dejean-1834-235) | 6 |
+|  |  | *Phaenotheriopsis* Wolfrum | 6 |
 |  |  | [*Piesocorynus* Dejean](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#piesocorynus-dejean-1834-235) | 29 |
 |  |  | [*Piezobarra* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#piezobarra-jordan-1906-314) | 1 |
 |  |  | [*Piezonemus* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#piezonemus-jordan-1904-27) | 2 |
@@ -79,5 +80,5 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 |  | [Choragini](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/) | [*Dysnos* Pascoe](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/#dysnos-pascoe-1859-438)  | 2 |
 |  |  | *Habroxenus* Jordan  | 2 |
 |  |  | [*Holostilpna* Jordan](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/#holostilpna-jordan-1907-382)  | 5 |
-|Total| 15 tribes  | 53 genera | 588 species |
+|Total| 15 tribes  | 54 genera | 594 species |
 
