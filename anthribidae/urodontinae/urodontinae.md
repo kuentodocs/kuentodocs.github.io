@@ -2,7 +2,7 @@
 layout: default
 title: Urodontinae
 parent: Classification
-has_children: true
+has_children: false
 nav_order: 3
 ---
 
@@ -10,7 +10,7 @@ nav_order: 3
 # Subfamily Urodontinae Thomson
 {: .no_toc }
 
-Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Genera included in Urodontinae according to Alonzo-Zarazaga & Lyal (1999). Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
+Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Genera included in Urodontinae according to Alonso-Zarazaga & Lyal (1999). Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
 {: .fs-5 .fw-300 }
 
 
