@@ -50,7 +50,7 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 |  |  | [*Brevibarra* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#brevibarra-jordan-1906-312) | 1 |
 |  |  | [*Lagopezus* Dejean](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#lagopezus-dejean-1834-235) | 6 |
 |  |  | [*Piesocorynus* Dejean](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#piesocorynus-dejean-1834-235) | 29 |
-|  |  | *Piezobarra* Jordan | 1 |
+|  |  | [*Piezobarra* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#piezobarra-jordan-1906-314) | 1 |
 |  |  | [*Piezonemus* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/piesocorynini/piesocorynini/#piezonemus-jordan-1904-27) | 2 |
 |  | [Platyrhinini](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/) | [*Anthiera* Alonso-Zarazaga & Lyal](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/#anthiera-alonso-zarazaga--lyal-1999-32) | 1 |
 |  |  | [*Homocloeus* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/#homocloeus-jordan-1904-264) | 17 |
