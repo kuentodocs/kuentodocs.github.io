@@ -59,7 +59,7 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 |  |  | [*Strabus* Jekel](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/#strabus-jekel-1860-239)  | 37 |
 |  |  | [*Trachytropis* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/#trachytropis-jordan-1904--266)  | 1 |
 |  | [Platystomini](https://anthribidae.github.io/anthribidae/anthribinae/platystomini/platystomini/) | *Parexillis* Jordan  | 8 |
-|  |  | *Phoenicobiella* Lacordaire  | 1 |
+|  |  | [*Phoenicobiella* Lacordaire](<img src="https://www.simplemappr.net/map/19145" alt="" />)  | 3 |
 |  |  | [*Toxonotus* Lacordaire](https://anthribidae.github.io/anthribidae/anthribinae/platystomini/platystomini/#toxonotus-lacordaire-1866-575)  | 30 |
 |  | [Ptychoderini](https://anthribidae.github.io/anthribidae/anthribinae/ptychoderini/ptychoderini/) | [*Hypselotropis* Jekel](https://anthribidae.github.io/anthribidae/anthribinae/ptychoderini/ptychoderini/#hypselotropis-jekel-185565)  | 17 |
 |  |  | [*Ptychoderes* Schoenherr](https://anthribidae.github.io/anthribidae/anthribinae/ptychoderini/ptychoderini/#ptychoderes-schoenherr-18231135) | 18 |
@@ -80,5 +80,5 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 |  | [Choragini](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/) | [*Dysnos* Pascoe](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/#dysnos-pascoe-1859-438)  | 2 |
 |  |  | *Habroxenus* Jordan  | 2 |
 |  |  | [*Holostilpna* Jordan](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/#holostilpna-jordan-1907-382)  | 5 |
-|Total| 15 tribes  | 54 genera | 594 species |
+|Total| 15 tribes  | 54 genera | 596 species |
 
