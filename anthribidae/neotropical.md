@@ -69,7 +69,7 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 |  | [Stenocerini](https://anthribidae.github.io/anthribidae/anthribinae/stenocerini/stenocerini/) | [*Allandrus* LeConte](https://anthribidae.github.io/anthribidae/anthribinae/stenocerini/stenocerini/#allandrus-leconte-1876396)  | 2 |
 |  |  | [*Stenocerus* Schoenherr](https://anthribidae.github.io/anthribidae/anthribinae/stenocerini/stenocerini/#stenocerus-schoenherr-1826-39)  | 12 |
 |  | [Trigonorhinini](https://anthribidae.github.io/anthribidae/anthribinae/trigonorhinini/trigonorhinini/) | [*Trigonorhinus* Wollaston](https://anthribidae.github.io/anthribidae/anthribinae/trigonorhinini/trigonorhinini/#trigonorhinus-wollaston-1861-102)  | 8 |
-|  | [Zygaenodini](https://anthribidae.github.io/anthribidae/anthribinae/xylinadini/zygaenodini/zygaenodini/) | *Anthrenosoma* Jordan  | 3 |
+|  | [Zygaenodini](https://anthribidae.github.io/anthribidae/anthribinae/zygaenodini/zygaenodini/) | *Anthrenosoma* Jordan  | 3 |
 |  |  | [*Cybosoma* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/zygaenodini/zygaenodini/#cybosoma-jordan-1906-361)  | 1 |
 |  |  | [*Eugonops* LeConte](https://anthribidae.github.io/anthribidae/anthribinae/zygaenodini/zygaenodini/#eugonops-jordan-1904-285)  | 3 |
 |  |  | [*Eusphyrus* LeConte](https://anthribidae.github.io/anthribidae/anthribinae/zygaenodini/zygaenodini/#eusphyrus-leconte-1876-399)  | 29 |
