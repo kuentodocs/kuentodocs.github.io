@@ -34,7 +34,9 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 |  | [Corrhecerini](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/corrhecerini/) | [*Corrhecerus* Schoenherr](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/corrhecerini/#corrhecerus-schoenherr-1826-40) | 9 |
 |  |  | [*Exechontis* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/corrhecerini/#exechontis-jordan-1904-283) | 2 |
 |  |  | [*Nemotrichus* Labram & Imhoff](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/corrhecerini/#nemotrichus-labram--imhoff-1838-f3) | 14 |
-|  | [Cratoparini](https://anthribidae.github.io/anthribidae/anthribinae/cratoparini/cratoparini/) | [*Euparius* Schoenherr](https://anthribidae.github.io/anthribidae/anthribinae/cratoparini/cratoparini/#euparius-schoenherr-1823-1135) | 52 |
+|  | [Cratoparini](https://anthribidae.github.io/anthribidae/anthribinae/cratoparini/cratoparini/) | [*Erotylopsis* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/cratoparini/cratoparini/#erotylopsis-jordan-1904-308) | 1 |
+|  |  | [*Euparius* Schoenherr](https://anthribidae.github.io/anthribidae/anthribinae/cratoparini/cratoparini/#euparius-schoenherr-1823-1135) | 52 |
+|  |  | [*Euxuthus* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/cratoparini/cratoparini/#euxuthus-jordan-1937-261) | 1 |
 |  | [Discotenini](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/) | [*Dasyrhopala* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/#dasyrhopala-jordan-1904-272) | 1 |
 |  |  | [*Discotenes* Labram & Imhoff](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/#discotenes-labram--imhoff-1841-f8) | 6 |
 |  |  | [*Eucyclotropis* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/#eucyclotropis-jordan-1904-273) | 5 |
@@ -76,9 +78,9 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 | **Choraginae** | [Araecerini](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/) | [*Acaromimus* Jordan](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/#acaromimus-jordan-1907-381)  | 2 |
 |  |  | [*Araecerus* Schoenherr](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/#araecerus-schoenherr-1823-1135)  | 1 (introduced) |
 |  |  | [*Cyptoxenus* Valentine](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/#cyptoxenus-valentine-1982-197)  | 1 |
+|  |  | *Habroxenus* Jordan  | 2 |
 |  |  | [*Neoxenus* Valentine](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/#neoxenus-valentine-1998-1135)  | 4 |
 |  | [Choragini](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/) | [*Dysnos* Pascoe](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/#dysnos-pascoe-1859-438)  | 2 |
-|  |  | *Habroxenus* Jordan  | 2 |
 |  |  | [*Holostilpna* Jordan](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/#holostilpna-jordan-1907-382)  | 5 |
 |Total| 15 tribes  | 54 genera | 596 species |
 
