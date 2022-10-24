@@ -45,6 +45,11 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Anthrenosoma_ Jordan, 1904: 281
 (3 species)
 
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0023/ASUCOB0023392_lateral_edited_1637022754.jpg" alt="Anthrenosoma  tibiale" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=737784) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0023/ASUCOB0023392_dorsal_edited_1637022789.jpg" alt="Anthrenosoma  tibiale" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=737784) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0023/ASUCOB0023392_frontal_edited_1637022821.jpg" alt="Anthrenosoma  tibiale" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=737784) | 
+|:--:| 
+|_Anthrenosoma tibiale_ Jordan: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+
+
 |<img src="https://www.simplemappr.net/map/19238" alt="" />| 
 |:--:| 
 |Known distribution of _Anthrenosoma_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
