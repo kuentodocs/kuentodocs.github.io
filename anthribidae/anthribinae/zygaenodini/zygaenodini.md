@@ -42,7 +42,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-## _Anthrenosoma_ Jordan, 1904: 282
+## _Anthrenosoma_ Jordan, 1904: 281
 (3 species)
 
 |<img src="https://www.simplemappr.net/map/19238" alt="" />| 
