@@ -1,10 +1,3 @@
----
-layout: default
-title: Neotropical Anthribidae
-has_children: false
-nav_order: 4
----
-
 # Neotropical Anthribidae 
 {: .no_toc }
 
