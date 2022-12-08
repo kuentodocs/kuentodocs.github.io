@@ -78,7 +78,7 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 | **Choraginae** | [Araecerini](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/) | [*Acaromimus* Jordan](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/#acaromimus-jordan-1907-381)  | 2 |
 |  |  | [*Araecerus* Schoenherr](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/#araecerus-schoenherr-1823-1135)  | 1 (introduced) |
 |  |  | [*Cyptoxenus* Valentine](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/#cyptoxenus-valentine-1982-197)  | 1 |
-|  |  | *Habroxenus* Jordan  | 2 |
+|  |  | *Habroxenus* Valentine  | 2 |
 |  |  | [*Neoxenus* Valentine](https://anthribidae.github.io/anthribidae/choraginae/araecerini/araecerini/#neoxenus-valentine-1998-1135)  | 4 |
 |  | [Choragini](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/) | [*Dysnos* Pascoe](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/#dysnos-pascoe-1859-438)  | 2 |
 |  |  | [*Holostilpna* Jordan](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/#holostilpna-jordan-1907-382)  | 5 |
