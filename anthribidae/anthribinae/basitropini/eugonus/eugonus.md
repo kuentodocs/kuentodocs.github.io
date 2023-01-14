@@ -30,7 +30,7 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 
 **Distribution**. USA, Mexico, Belize.
 
-[<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/ASU/201301/ASUHIC0000521_Habitus_lat.jpg" alt="Eugonus bicolor"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=386914) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/ASU/201301/ASUHIC0000521_Habitus_dor.jpg" alt="Eugonus bicolorparticolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=386914)
+|[<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/ASU/201301/ASUHIC0000521_Habitus_lat.jpg" alt="Eugonus bicolor"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=386914) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/ASU/201301/ASUHIC0000521_Habitus_dor.jpg" alt="Eugonus bicolorparticolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=386914)|
 |:--:| 
 |_Eugonus bicolor_ Valentne: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: ASUHIC.|
 
