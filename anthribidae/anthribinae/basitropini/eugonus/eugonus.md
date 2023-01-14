@@ -58,9 +58,17 @@ Synonyms: _Phaenisor_ Motschulsky, 1875: 240, _Schimatocheilus_ Dejean, 1834: 23
 
 **Distribution**. Panama, Guyana, Brazil.
 
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_lateral_edited_1637802470.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_dorsal_edited_1637803702.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_frontal_edited_1637803731.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) | 
+|:--:| 
+|_Eugonus particolor_ Jordan: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+
 ## _Eugonus robustus_ Jordan, 1904: 301
 
 **Distribution**. Brazil.
+
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_lateral_edited_1613605757.jpg" alt="Eugonus robustus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611379) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_dorsal_edited_1613605789.jpg" alt="Eugonus robustus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611379) | 
+|:--:| 
+|_Eugonus particolor_ Jordan: 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
 ## _Eugonus simplex_ Jordan, 1904: 301
 
