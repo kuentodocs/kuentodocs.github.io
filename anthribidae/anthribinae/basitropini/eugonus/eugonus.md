@@ -36,9 +36,7 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 
 ## _Eugonus decorus_ Jordan, 1906: 351
 
-**Type locality.** Nicaragua: Chontales (type material in BMNH).
-
-**Distribution**. Nicaragua, Panama.
+**Distribution**. Nicaragua [type], Panama.
 
 ## _Eugonus dermestoides_ Suffrian, 1870:176
 
@@ -58,7 +56,7 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 
 ## _Eugonus particolor_ Jordan, 1904: 301
 
-**Distribution**. Panama, Guyana, Brazil.
+**Distribution**. Panama, Surinam, Brazil [type].
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_lateral_edited_1637802470.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_dorsal_edited_1637803702.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) | 
 |:--:| 
@@ -66,7 +64,7 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 
 ## _Eugonus robustus_ Jordan, 1904: 301
 
-**Distribution**. Brazil.
+**Distribution**. Panama, Brazil [type].
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_lateral_edited_1613605757.jpg" alt="Eugonus robustus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611379) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_dorsal_edited_1613605789.jpg" alt="Eugonus robustus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611379) | 
 |:--:| 
@@ -74,12 +72,12 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 
 ## _Eugonus simplex_ Jordan, 1904: 301
 
-**Distribution**. Brazil.
+**Distribution**. Brazil [type].
 
 ## _Eugonus subcylindricus_ (Fahraeus, 1838: 172)
 = _Schimatocheilus subcylindricus_ Fahraeus, 1838: 172, _Phaenisor albofasciatus_ Motschulsky, 1875: 241, _Eugonus fallax_ Gemminger & Harold, 1872: 2743.
  
-**Distribution**. Brazil, Argentina.
+**Distribution**. Mexico [type], Guatemala, Nicaragua, Panama, Brazil, Argentina.
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014561_lateral_edited_1651942119.jpg" alt="Eugonus subcylindricus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=728356) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014561_dorsal_edited_1652578241.jpg" alt="Eugonus subcylindricus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=728356) | 
 |:--:| 
