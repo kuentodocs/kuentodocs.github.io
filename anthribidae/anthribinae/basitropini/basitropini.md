@@ -43,7 +43,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ---
 
 ## _Eugonodes_ Jordan, 1904: 302 
-(2 species)
+([2 species](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/eugonodes))
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_lateral_edited_1608928771.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/#eugonodes-jordan-1904-302) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_dorsal_edited_1609004155.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611354) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUASUCOB0014290_frontal_edite_1609290652.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611354) | 
 |:--:| 
