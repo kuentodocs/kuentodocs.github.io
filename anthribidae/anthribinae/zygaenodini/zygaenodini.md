@@ -59,6 +59,11 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Cybosoma_ Jordan, 1906: 361
 (1 species)
 
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202301/SM0279258_lateral_edited_1674967799.jpg" alt="Cybosoma" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=737784) | 
+|:--:| 
+|_Cybosoma_ sp.: 1.) lateral view. Specimen deposited at Kansas University Natural History Museum, on loan at Arizona State University Biocollections (2022-2024). Images: Samanta Orellana.|
+
+
 |<img src="https://www.simplemappr.net/map/19018" alt="" />| 
 |:--:| 
 |Known distribution of _Cybosoma_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
