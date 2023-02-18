@@ -11,7 +11,7 @@ nav_order: 11
 # Tribe Mauiini Valentine
 {: .no_toc }
 
-Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf) and [Imada (2019)](https://www.mapress.com/zt/article/view/zootaxa.4629.1.5).
+Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf) and [Imada (2019)](https://www.mapress.com/zt/article/view/zootaxa.4629.1.5).
 {: .fs-5 .fw-300 }
 
 ---
