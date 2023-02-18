@@ -71,8 +71,8 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-## _Strabus_ Jekel, 1860: 239
-(39 species)
+## [_Strabus_ Jekel, 1860: 239]([url](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/strabus/))
+[(39 species)](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/strabus/)
 
 |[<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070980_habitus_lateral__1432931460_web.jpg" alt="Strabus umbrinus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341797) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070980_habitus_dorsal_1_1432931459_web.jpg" alt="Strabus umbrinus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341797)| 
 |:--:| 
