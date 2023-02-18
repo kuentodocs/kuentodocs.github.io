@@ -26,24 +26,29 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ---
 
-[Back to Platyrhinini](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/){: .btn .btn-green } 
-
-
 ## _Monocloeus anas_ Jordan, 1906: 334
 
 **Distribution**. Guatemala.
+
+---
 
 ## _Monocloeus albarius_ Rheinheimer, 2016: 255
 
 **Distribution**. French Guiana.
 
+---
+
 ## _Monocloeus annulipes_ Jordan, 1904: 256
 
 **Distribution**. Brazil.
 
+---
+
 ## _Monocloeus asper_ (Boheman, 1833: 150)
 
 **Distribution**. Brazil.
+
+---
 
 ## _Monocloeus basalis_ Jordan, 1904: 256
 
@@ -53,37 +58,55 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 |:--:| 
 |_Monocloeus basalis_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
+---
+
 ## _Monocloeus brulei_ Rheinheimer, 2016: 256
 
 **Distribution**. French Guiana.
+
+---
 
 ## _Monocloeus centralis_ Jordan, 1904: 259
 
 **Distribution**. Brazil, French Guiana.
 
+---
+
 ## _Monocloeus cleroides_ Rheinheimer, 2016: 257
 
 **Distribution**. French Guiana.
+
+---
 
 ## _Monocloeus costatus_ Jordan, 1904: 259
 
 **Distribution**. Bolivia, French Guiana.
 
+---
+
 ## _Monocloeus elaphrinus_ Jordan, 1904: 255 
 
 **Distribution**. Brazil.
+
+---
 
 ## _Monocloeus furvus_ Jordan, 1937: 210
 
 **Distribution**. Brazil, French Guiana.
 
+---
+
 ## _Monocloeus gracilicornis_ (Suffrian, 1870: 186)
 
 **Distribution**. Cuba.
 
+---
+
 ## _Monocloeus gracilis_ Jordan, 1906: 335
 
 **Distribution**. Mexico.
+
+---
 
 ## _Monocloeus idaeus_ Jordan, 1904: 258
 
@@ -93,29 +116,43 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 |:--:| 
 |_Monocloeus idaeus_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
+---
+
 ## _Monocloeus inaequalis_ Jordan, 1937: 211
 
 **Distribution**. Brazil.
+
+---
 
 ## _Monocloeus insularis_ (Frieser, 1959: 420)
 
 **Distribution**. Guadeloupe.
 
+---
+
 ## _Monocloeus lioderes_ Jordan, 1906: 335
 
 **Distribution**. Panama.
+
+---
 
 ## _Monocloeus moraguesi_ Rheinheimer, 2016: 258
 
 **Distribution**. French Guiana.
 
+---
+
 ## _Monocloeus or_ Jordan, 1904: 257
 
 **Distribution**. Brazil, French Guiana.
 
+---
+
 ## _Monocloeus pulcher_ Wolfrum, 1933: 40
 
 **Distribution**. Costa Rica.
+
+---
 
 ## _Monocloeus ramoides_ Rheinheimer, 2016: 259
 
@@ -125,20 +162,30 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 |:--:| 
 |_Monocloeus ramoides_ Rheinheimer: 1.) lateral view, 2.) dorsal view. Specimen deposited at Kansas University Natural History Museum, on loan at Arizona State University Biocollections (2022-2024). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
-
+---
   
 ## _Monocloeus rhombifer_ Jordan, 1904: 257
 
 **Distribution**. Brazil, French Guiana.
 
+---
+
 ## _Monocloeus sordidus_ Jordan, 1904: 258
 
 **Distribution**. Brazil.
+
+---
 
 ## _Monocloeus spiniger_ Jordan, 1904: 255
 
 **Distribution**. Brazil.
 
+---
+
 ## _Monocloeus stellatus_ Rheinheimer, 2016: 260
 
 **Distribution**. French Guiana.
+
+---
+
+[Back to Platyrhinini](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/){: .btn .btn-blue } 
