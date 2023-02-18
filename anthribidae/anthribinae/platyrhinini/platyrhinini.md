@@ -58,8 +58,8 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-## _Monocloeus_ Jordan, 1904: 255
-[(24 species)](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/monocloeus/)
+## [_Monocloeus_ Jordan, 1904: 255](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/monocloeus/)
+(24 species)
 
 |[<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070987_habitus_lateral__1432931478_web.jpg" alt="Monocloeus idaeus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341817) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070987_habitus_dorsal_1_1432931477_web.jpg" alt="Monocloeus idaeus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341817)| 
 |:--:| 
@@ -71,8 +71,8 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-## [_Strabus_ Jekel, 1860: 239]([url](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/strabus/))
-[(39 species)](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/strabus/)
+## [_Strabus_ Jekel, 1860: 239](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/strabus/)
+(39 species)
 
 |[<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070980_habitus_lateral__1432931460_web.jpg" alt="Strabus umbrinus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341797) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070980_habitus_dorsal_1_1432931459_web.jpg" alt="Strabus umbrinus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341797)| 
 |:--:| 
