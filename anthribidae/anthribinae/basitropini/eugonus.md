@@ -18,6 +18,7 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 **Synonyms.** _Phaenisor_ Motschulsky, 1875: 240, _Schimatocheilus_ Dejean, 1834: 236
 
 [Back to Basitropini](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/){: .btn .btn-blue}
+
 ---
 
 ## Table of Contents
