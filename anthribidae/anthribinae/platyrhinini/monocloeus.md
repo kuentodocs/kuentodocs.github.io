@@ -3,7 +3,6 @@ layout: default
 title: Monocloeus Jordan
 parent: Platyrhinini
 grand_parent: Anthribinae
-great_grand_parent: Classification
 has_children: false
 ---
 
@@ -16,7 +15,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Type species.** _Monocloeus elaphrinus_ Jordan, 1904: 255
 
-[Back to Platyrhinini](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/){: .btn .btn-blue}
+[Back to Platyrhinini](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/){: .btn .btn-blue}
 
 ---
 
