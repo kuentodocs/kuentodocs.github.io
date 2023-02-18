@@ -38,12 +38,6 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ---
 
-## _Monocloeus annulipes_ Jordan, 1904: 256
-
-**Distribution**. Brazil.
-
----
-
 ## _Monocloeus asper_ (Boheman, 1833: 150)
 
 **Distribution**. Brazil.
@@ -139,6 +133,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 ## _Monocloeus moraguesi_ Rheinheimer, 2016: 258
 
 **Distribution**. French Guiana.
+**Image**. [Rheinheimer, 2016: 269)](https://www.zobodat.at/pdf/KOR_86_2016_0243-0274.pdf)
 
 ---
 
@@ -185,7 +180,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 ## _Monocloeus stellatus_ Rheinheimer, 2016: 260
 
 **Distribution**. French Guiana.
-
+**Image**. [Rheinheimer, 2016: 270)](https://www.zobodat.at/pdf/KOR_86_2016_0243-0274.pdf)
 ---
 
 [Back to Platyrhinini](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/){: .btn .btn-blue } 
