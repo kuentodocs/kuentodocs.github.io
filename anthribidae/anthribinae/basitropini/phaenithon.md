@@ -22,8 +22,7 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 ---
 
 ## Table of Contents
-{: .no_toc .text-deblue
-
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}
