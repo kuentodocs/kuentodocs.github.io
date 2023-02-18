@@ -17,7 +17,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Synonyms.** _Goniocloeus_ Jordan, 1904: 260
 
-[Back to Platyrhinini](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/){: .btn .btn-blue}
+[Back to Platyrhinini](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/){: .btn .btn-blue}
 
 ---
 
