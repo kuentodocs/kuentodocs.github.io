@@ -181,7 +181,9 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 ## _Monocloeus stellatus_ Rheinheimer, 2016: 260
 
 **Distribution**. French Guiana.
+
 **Image**. [Rheinheimer, 2016: 270)](https://www.zobodat.at/pdf/KOR_86_2016_0243-0274.pdf)
+
 ---
 
 [Back to Platyrhinini](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/){: .btn .btn-blue } 
