@@ -182,7 +182,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. French Guiana.
 
-**Image**. [Rheinheimer, 2016: 270)](https://www.zobodat.at/pdf/KOR_86_2016_0243-0274.pdf)
+**Image**. [Rheinheimer, 2016: 270](https://www.zobodat.at/pdf/KOR_86_2016_0243-0274.pdf)
 
 ---
 
