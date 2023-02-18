@@ -26,6 +26,9 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ---
 
+[Back to Platyrhinini](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/){: .btn .btn-green } 
+
+
 ## _Monocloeus anas_ Jordan, 1906: 334
 
 **Distribution**. Guatemala.
