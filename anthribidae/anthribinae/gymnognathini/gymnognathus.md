@@ -10,14 +10,14 @@ has_children: false
 # _Gymnognathus_ Schoenherr, 1826: 37
 {: .no_toc }
 
-Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [2021)](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). Additional distribution records according to [Jordan (1906)](https://www.biodiversitylibrary.org/item/14611#page/363/mode/1up), Wolfrum (1929), Blackwelder (1947), [Orellana & Barrios (2021)](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera).
+Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [2021)](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). Additional distribution records according to [Jordan [(1906,](https://www.biodiversitylibrary.org/item/14611#page/363/mode/1up), Wolfrum (1929), Blackwelder (1947), [Orellana & Barrios (2021)](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera).
 {: .fs-5 .fw-300 }
 
 **Type species.** _Anthribus ancora_ Germar, 1824: 177
 
 **Synonyms.** _Gymnognathus_ Schoenherr, 1823: 1135; _Analotes_ Schoenherr, 1839: 198
 
-[Back to Gymnognathini](,ttps://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathini/){: .btn .btn-blue}
+[Back to Gymnognathini](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathini/){: .btn .btn-blue}
 
 ---
 
@@ -29,15 +29,122 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ---
 
+## _Gymnognathus abundans_ Jordan, 1906: 339
+
+**Distribution**. Guatemala.
+
+---
+
+## _Gymnognathus acastus_ Jordan, 1937: 215
+
+**Distribution**. French Guiana.
+
+---
+
+## _Gymnognathus acutangulus_ Jordan, 1895: 170
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus ada_ Jordan, 1904: 243
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus affinis_ Jordan, 1895: 251
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus alma_ Jordan, 1904: 247
+
+**Distribution**. Brazil.
+
+---
+
 ## _Gymnognathus ampulla_ Jordan, 1906: 338
 
 **Distribution**. Panama.
 
 ---
 
+## _Gymnognathus ancora_ (Germar, 1824: 177)
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus aulicus_ Jordan, 1937: 227
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus bella_ Jordan, 1904: 245
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus biloris_ Jordan, 1937: 227
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus blanca_ Jordan, 1904: 243
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus bohlsi_ Jordan, 1895: 172
+
+**Distribution**. Paraguay.
+
+---
+## _Gymnognathus brevirostris_ Jordan, 1895: 250
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus bryanti_ Jordan, 1904: 213
+
+**Distribution**. Brazil.
+
+---
+
 ## _Gymnognathus calus_ Jordan, 1906: 339
 
 **Distribution**. Panama.
+
+---
+
+## _Gymnognathus chiricahuae_ Sleeper, 1954: 118
+
+**Distribution**. United States of America.
+
+---
+
+## _Gymnognathus cincticollis_ Jordan, 1895: 168
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus clara_ Jordan, 1904: 245
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus clathratus_ Jordan, 1895: 170
+
+**Distribution**. Brazil.
 
 ---
 
@@ -51,9 +158,39 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ---
 
-## _Gymnognathus coronotus_ Jordan, 1904: 246
+## _Gymnognathus clelia_ Jordan, 1904: 248
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus compar_ Jordan, 1895: 167
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus comptus_ Jordan, 1904: 252
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus cordiger_ Frieser, 1959: 418
+
+**Distribution**. Bolivia.
+
+---
+
+## _Gymnognathus coronatus_ Jordan, 1904: 246
 
 **Distribution**. Panama, Brazil.
+
+---
+
+## _Gymnognathus dagmari_ Frieser, 1981: 208
+
+**Distribution**. Brazil.
 
 ---
 
@@ -67,9 +204,165 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ---
 
+## _Gymnognathus decorus_ Perroud, 1853: 402
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus discoideus_ (Fahraeus, 1839: 1999)
+
+**Distribution**. Brazil, Paraguay.
+
+---
+
+## _Gymnognathus doris_ Jordan, 1937: 228
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus dorsonotatus_ Fahraeus, 1839: 202
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus editha_ Jordan, 1904: 250
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus elisa_ Jordan, 1937: 231
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus emma_ Jordan, 1904: 244
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus erna_ Jordan, 1904: 248
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus extensus_ Jordan, 1904: 242
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus fahraei_ Fahraeus, 1939: 200
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus flexuosus_ Jordan, 1895: 173
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus germaini_ Jordan, 1897: 173
+
+**Distribution**. Bolivia.
+
+---
+
+## _Gymnognathus hamatus_ Jordan, 1904: 251
+
+**Distribution**. Brazil.
+
+---
+
 ## _Gymnognathus hedys_ Jordan, 1937: 216
 
 **Distribution**. Panama.
+
+---
+
+## _Gymnognathus helena_ Jordan, 1904: 249
+
+**Distribution**. Colombia.
+
+---
+
+## _Gymnognathus helma_ Jordan, 1937: 213
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus hetarus_ Jordan, 1937: 213
+
+**Distribution**. Brazil, French Guiana.
+
+---
+
+## _Gymnognathus hilda_ Jordan, 1904: 244
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus inca_ Jordan, 1937: 218
+
+**Distribution**. Peru.
+
+---
+
+## _Gymnognathus indagatus_ Wolfrum, 1931: 71
+
+**Distribution**. Costa Rica.
+
+---
+
+## _Gymnognathus iphis_ Jordan, 1937: 221
+
+**Distribution**. Costa Rica.
+
+---
+
+## _Gymnognathus iris_ Jordan, 1937: 216
+
+**Distribution**. Brazil, French Guiana.
+
+---
+
+## _Gymnognathus irma_ Jordan, 1904: 247
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus leucomelas_ Jordan, 1904: 251
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus libussa_ Jordan, 1937: 220
+
+**Distribution**. French Guiana.
+
+---
+
+## _Gymnognathus lotus_ Jordan, 1937: 224
+
+**Distribution**. Brazil, Bolivia.
+
+---
+
+## _Gymnognathus usia_ Jordan, 1937: 219
+
+**Distribution**. French Guiana.
 
 ---
 
@@ -79,13 +372,97 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ---
 
+## _Gymnognathus mariana_ Jordan, 1904: 243
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus martha_ Jordan, 1904: 250
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus mexicanus_ Jordan, 1906: 338
+
+**Distribution**. Mexico.
+
+---
+
+## _Gymnognathus molitor_ Jordan, 1895: 249
+
+**Distribution**. Guyana.
+
+---
+
+## _Gymnognathus mollis_ Jordan, 1937: 217
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus moranus_ Jordan, 1937: 222
+
+**Distribution**. Costa Rica.
+
+---
+
+## _Gymnognathus nanus_ Jordan, 1904: 248
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus nebulosus_ Motschulsky, 1875: 235
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus nica_ Jordan, 1937: 222
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus nubilus_ Jordan, 1904: 246
+
+**Distribution**. Brazil.
+
+---
+
 ## _Gymnognathus ophiopis_ Dalman, 1833: 163
 
-**Distribution**. Nicaragua, Panama, Colombia.
+**Distribution**. Nicaragua, Panama, Colombia, Brazil.
 
 |[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014235_lateral_edited_1660896651.jpg" alt="Gymnognathus daguanus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611257)|
 |:--:| 
 |_Gymnognathus ophiopsis_ Dalman: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+
+---
+
+## _Gymnognathus ornatus_ Jordan, 1895: 171
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus pentilus_ Jordan, 1937: 225
+
+**Distribution**. French Guiana.
+
+---
+
+## _Gymnognathus phanerus_ Jordan, 1904: 243
+
+**Distribution**. Brazil, Bolivia, French Guiana.
+
+---
+
+## _Gymnognathus pindonis_ Jordan, 1937: 231
+
+**Distribution**. French Guiana.
 
 ---
 
@@ -95,9 +472,33 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ---
 
+## _Gymnognathus procerus_ Jordan, 1937: 226
+
+**Distribution**. French Guiana.
+
+---
+
+## _Gymnognathus pulchellus_ Jordan, 1937: 229
+
+**Distribution**. Brazil.
+
+---
+
 ## _Gymnognathus pulcher_ Jordan, 1906: 340
 
 **Distribution**. Guatemala, Panama.
+
+---
+
+## _Gymnognathus regalis_ Jordan, 1937: 225
+
+**Distribution**. Brazil, French Guiana.
+
+---
+
+## _Gymnognathus robustus_ Jordan, 1895: 169
+
+**Distribution**. Brazil.
 
 ---
 
@@ -107,10 +508,29 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ---
 
+## _Gymnognathus scalaris_ Jordan, 1906: 336
+
+**Distribution**. Mexico, Nicaragua.
+
+---
+
+
+## _Gymnognathus scolytinus_ Jordan, 1904: 252
+
+**Distribution**. Peru.
+
+---
+
+## _Gymnognathus signatus_ Gyllenhal, 1833: 165
+
+**Distribution**. Brazil.
+
+---
+
 ## _Gymnognathus thecla_ Jordan, 1906: 338
 
 **Distribution**. Panama.
 
 ---
 
-[Back to Gymnognathini](,ttps://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathini/){: .btn .btn-blue}
+[Back to Gymnognathini](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathini/){: .btn .btn-blue}
