@@ -14,6 +14,7 @@ Species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at
 {: .fs-5 .fw-300 }
 
 **Type species.** _Phaenithon curvipes_ (Germar, 1824: 176)
+
 **Synonyms.** _Phaenisor_ Schoenherr, 1823: 1135; _Camaroderes_ Jekel, 1855: 85; _Griburiosoma_ Schaeffer, 1906: 272
 
 [Back to Basitropini](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/){: .btn .btn-blue}
