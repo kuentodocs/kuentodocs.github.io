@@ -9,7 +9,7 @@ nav_order: 4
 
 # Tribe Cratoparini LeConte
 
-Tribe names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinhemer (2004](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [2016)](https://www.zobodat.at/pdf/KOR_86_2016_0243-0274.pdf).
+Tribe names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinheimer (2004](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [2016)](https://www.zobodat.at/pdf/KOR_86_2016_0243-0274.pdf).
 {: .fs-5 .fw-300 }
 
 ## Table of Contents
