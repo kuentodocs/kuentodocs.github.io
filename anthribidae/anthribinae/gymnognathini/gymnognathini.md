@@ -26,7 +26,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-## [_Gymnognathus_ Schoenherr, 1926: 37](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathus/)
+## [_Gymnognathus_ Schoenherr, 1826: 37](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathus/)
 (96 species)
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611250) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Gymnognathus claudia" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611250) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_frontal_edited_1624914202.jpg" alt="Gymnognathus claudia" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611250) | 
