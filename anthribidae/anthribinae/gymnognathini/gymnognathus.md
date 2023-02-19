@@ -10,7 +10,7 @@ has_children: false
 # _Gymnognathus_ Schoenherr, 1826: 37
 {: .no_toc }
 
-Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [2021)](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). Additional distribution records according to [Jordan [(1906,](https://www.biodiversitylibrary.org/item/14611#page/363/mode/1up), Wolfrum (1929), Blackwelder (1947), [Orellana & Barrios (2021)](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera).
+Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf) [2021)](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). Additional distribution records according to [Jordan (1906)](https://www.biodiversitylibrary.org/item/14611#page/363/mode/1up), Wolfrum (1929), Blackwelder (1947), [Orellana & Barrios (2021)](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera).
 {: .fs-5 .fw-300 }
 
 **Type species.** _Anthribus ancora_ Germar, 1824: 177
@@ -47,7 +47,9 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ## _Gymnognathus acutangulus_ Jordan, 1895: 170
 
-**Distribution**. Brazil.
+**Distribution**. Brazil, French Guiana.
+
+**Images**. [Rheinheimer, 2016: 314](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 ---
 
@@ -93,6 +95,14 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ---
 
+## _Gymnognathus bifasciatus_ Rheinheimer, 2021: 308
+
+**Distribution**. French Guiane.
+
+**Images**. [Rheinheimer, 2016: 313](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
+
+---
+
 ## _Gymnognathus biloris_ Jordan, 1937: 227
 
 **Distribution**. Brazil.
@@ -101,7 +111,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ## _Gymnognathus blanca_ Jordan, 1904: 243
 
-**Distribution**. Brazil.
+**Distribution**. Brazil, French Guiana.
 
 ---
 
@@ -112,7 +122,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 ---
 ## _Gymnognathus brevirostris_ Jordan, 1895: 250
 
-**Distribution**. Brazil.
+**Distribution**. Brazil, French Guiana.
 
 ---
 
@@ -129,6 +139,12 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 |[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202209/Gymnognathus_calusBCA_1662824717.jpg" alt="Gymnognathus ruficlava"  height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=248570) |
 |:--:| 
 |_Gymnognathus calus_ Jordan: 1.) dorsal view. Illustration in Jordan 1906, digitized by the Smithsonian Libraries under a CC0-Public Domain License. Modified by Samanta Orellana.|
+
+---
+
+## _Gymnognathus cerdai_ Rheinheimer, 2021: 309
+
+**Distribution**. French Guiana.
 
 ---
 
@@ -152,7 +168,9 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ## _Gymnognathus clathratus_ Jordan, 1895: 170
 
-**Distribution**. Brazil.
+**Distribution**. Brazil, French Guiana.
+
+**Images**. [Rheinheimer, 2016: 313](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 ---
 
@@ -218,6 +236,12 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ---
 
+## _Gymnognathus depressibasis_ Rheinheimer, 2021: 311
+
+**Distribution**. French Guiana.
+
+---
+
 ## _Gymnognathus discoideus_ (Fahraeus, 1839: 1999)
 
 **Distribution**. Brazil, Paraguay.
@@ -227,6 +251,8 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 ## _Gymnognathus doris_ Jordan, 1937: 228
 
 **Distribution**. Brazil.
+
+**Images**. [Rheinheimer, 2016: 313](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 ---
 
@@ -274,7 +300,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ## _Gymnognathus flexuosus_ Jordan, 1895: 173
 
-**Distribution**. Brazil.
+**Distribution**. Brazil, French Guiana.
 
 ---
 
@@ -311,6 +337,8 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 ## _Gymnognathus hetarus_ Jordan, 1937: 213
 
 **Distribution**. Brazil, French Guiana.
+
+**Images**. [Rheinheimer, 2016: 313](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 ---
 
@@ -366,9 +394,13 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. Brazil, Bolivia.
 
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015433_lateral_edited_1640228465.jpg" alt="Gymnognathus lotus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=656802) |
+|:--:| 
+| _Gymnognathus claudia_ Jordan, 1.) lateral view, 2.) dorsal view.. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
+
 ---
 
-## _Gymnognathus usia_ Jordan, 1937: 219
+## _Gymnognathus lusia_ Jordan, 1937: 219
 
 **Distribution**. French Guiana.
 
@@ -376,7 +408,9 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ## _Gymnognathus lyrestes_ Jordan, 1937: 214
 
-**Distribution**. Panama, Brazil.
+**Distribution**. Panama, Brazil, French Guiana.
+
+**Images**. [Rheinheimer, 2016: 313](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf), [Orellana & Barrios, 2021: 30](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera). 
 
 ---
 
@@ -406,11 +440,13 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. Guyana.
 
+**Images**. [Rheinheimer, 2016: 313](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
+
 ---
 
 ## _Gymnognathus mollis_ Jordan, 1937: 217
 
-**Distribution**. Brazil.
+**Distribution**. Brazil, French Guiana.
 
 ---
 
@@ -540,7 +576,9 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ## _Gymnognathus scolytinus_ Jordan, 1904: 252
 
-**Distribution**. Peru.
+**Distribution**. Peru, French Guiana.
+
+**Images**. [Rheinheimer, 2016: 313](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 ---
 
@@ -594,7 +632,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ## _Gymnognathus vanda_ Jordan, 1937: 219
 
-**Distribution**. Brazil.
+**Distribution**. Brazil, French Guiana.
 
 ---
 
