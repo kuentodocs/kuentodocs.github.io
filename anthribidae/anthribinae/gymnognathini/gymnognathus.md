@@ -33,6 +33,10 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. Guatemala.
 
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015362_lateral_edited_1625197893.jpg" alt="Gymnognathus abundans" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=707567) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015362_dorsal_edited_1625199160.jpg" alt="Gymnognathus abundans" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=707567)
+|:--:| 
+| _Gymnognathus abundans_ Jordan, 1.) lateral view, 2.) dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
+
 ---
 
 ## _Gymnognathus acastus_ Jordan, 1937: 215
@@ -154,7 +158,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_lateral_edited_1624913001.jpg" alt="Gymnognathus claudia" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611250) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014228_dorsal_edited_1624914182.jpg" alt="Gymnognathus claudia" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611250)
 |:--:| 
-|**Diversity of Gymnognathini.** 1.) *Gymnognathus claudia* Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
+| _Gymnognathus claudia_ Jordan, 1.) lateral view, 2.) dorsal view.. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana. |
 
 ---
 
@@ -514,7 +518,6 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ---
 
-
 ## _Gymnognathus scolytinus_ Jordan, 1904: 252
 
 **Distribution**. Peru.
@@ -527,9 +530,69 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ---
 
+## _Gymnognathus soror_ Jordan, 1904: 249
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus stigmenus_ Wolfrum, 1955: 676
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus talis_ Jordan, 1937: 230
+
+**Distribution**. French Guiana.
+
+---
+
+## _Gymnognathus tenuis_ Jordan, 1895: 250
+
+**Distribution**. Brazil.
+
+---
+
 ## _Gymnognathus thecla_ Jordan, 1906: 338
 
 **Distribution**. Panama.
+
+---
+
+## _Gymnognathus triangularis_ Valentine, 1998: 269
+
+**Distribution**. United States of America.
+
+---
+
+## _Gymnognathus uta_ Wolfrum, 1955: 676
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus vanda_ Jordan, 1937: 219
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus variicornis_ Jordan, 1895: 174
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus vicinus_ Jekel, 1855: 117
+
+**Distribution**. Brazil.
+
+---
+
+## _Gymnognathus viticollis_ Jordan, 1897: 175
+
+**Distribution**. Bolivia.
 
 ---
 
