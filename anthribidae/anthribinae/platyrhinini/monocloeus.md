@@ -156,7 +156,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 |[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202302/SM0267568_lateral_edited_1676740409.jpg" alt="Monocloeus ramoides"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=286502) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202302/SM0267568_dorsal_1676740443.jpg" alt="Monocloeus ramoides"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=286503) |
 |:--:| 
-|_Monocloeus ramoides_ Rheinheimer: 1.) lateral view, 2.) dorsal view. Specimen deposited at Kansas University Natural History Museum, on loan at Arizona State University Biocollections (2022-2024). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|_Monocloeus ramoides_ Rheinheimer: 1.) lateral view, 2.) dorsal view. Specimen deposited at Kansas University Natural History Museum, on loan at Arizona State University Biocollections (2022-2024). Images: Samanta Orellana.|
 
 ---
   
