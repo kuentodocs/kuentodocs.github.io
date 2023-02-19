@@ -10,7 +10,7 @@ nav_order: 19
 
 # Tribe Ptychoderini Jekel
 
-Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Mermudes (2005)](https://www.scielo.br/j/rbent/a/GcR4gXCsDWHs8WVK6LzFBHD/?lang=pt), [Mermudes & Napp (2006)](https://www.researchgate.net/publication/259372280_Revision_and_cladistic_analysis_of_the_genus_Ptychoderes_Schoenherr_1823_Coleoptera_Anthribidae_Anthribinae_Ptychoderini).
+Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Mermudes (2005)](https://www.scielo.br/j/rbent/a/GcR4gXCsDWHs8WVK6LzFBHD/?lang=pt), [Mermudes & Napp (2006)](https://www.researchgate.net/publication/259372280_Revision_and_cladistic_analysis_of_the_genus_Ptychoderes_Schoenherr_1823_Coleoptera_Anthribidae_Anthribinae_Ptychoderini).
 {: .fs-5 .fw-300 }
 
 ---
