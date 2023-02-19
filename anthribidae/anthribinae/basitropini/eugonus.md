@@ -113,6 +113,8 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 ---
 
 ## _Eugonus virgatus_ Gyllenhal, 1833: 145
+Type species
+{: .label .label-red }
 
 **Distribution**. Brazil.
 
