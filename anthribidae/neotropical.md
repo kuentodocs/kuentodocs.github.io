@@ -25,8 +25,8 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 
 
 |<img src="https://www.simplemappr.net/map/19959" alt="" />|
-|--|
-|General representation of the Neotropical region.|
+|:--:| 
+|Neotropical region. Source: [Holt et al. (2013)](https://www.science.org/doi/10.1126/science.1228282). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 
 
