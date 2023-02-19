@@ -152,7 +152,7 @@ Type species
 
 **Distribution**. Panama [type].
 
-|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202209/Gymnognathus_calusBCA_1662824717.jpg" alt="Gymnognathus ruficlava"  height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=248570) |
+|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202209/Gymnognathus_calusBCA_1662824717.jpg" alt="Gymnognathus ruficlava"  height="160">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=248570) |
 |:--:| 
 |_Gymnognathus calus_ Jordan: 1.) dorsal view. Illustration in Jordan 1906, digitized by the Smithsonian Libraries under a CC0-Public Domain License. Modified by Samanta Orellana.|
 
