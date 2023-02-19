@@ -27,9 +27,9 @@ Tribe names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/
 ## _Euparius_ Schoenherr, 1823: 1135
 (73 species)
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126922_habitus_lateral-_1583285837.jpg" alt="Euparius subtesselatus Schaeffer" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=570343) 
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126922_habitus_lateral-_1583285837.jpg" alt="Euparius subtesselatus Schaeffer" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=570343) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126922_habitus_dorsal_1592452601.jpg" alt="Euparius subtesselatus Schaeffer" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=570343)
 |:--:| 
-|*Euparius subtesselatus* Schaeffer, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|*Euparius subtesselatus* Schaeffer, 1.) lateral view, 2.) dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
 |<img src="https://www.simplemappr.net/map/18883" alt="" />| 
 |:--:| 
