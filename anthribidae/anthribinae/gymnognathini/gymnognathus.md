@@ -440,7 +440,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. Nicaragua, Panama, Colombia, Brazil.
 
-|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014235_lateral_edited_1660896651.jpg" alt="Gymnognathus daguanus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611257)|
+|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014235_lateral_edited_1660896651.jpg" alt="Gymnognathus ophiopsis"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611257) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014235_lateral_edited_1676766784.jpg" alt="Gymnognathus ophiopsis"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611257) |
 |:--:| 
 |_Gymnognathus ophiopsis_ Dalman: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
 
@@ -461,6 +461,10 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 ## _Gymnognathus phanerus_ Jordan, 1904: 243
 
 **Distribution**. Brazil, Bolivia, French Guiana.
+
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202302/KU_Gymnognathus_phanerus_dorsa_1675703795.jpg" alt="Gymnognathus abundans" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=251898) |
+|:--:| 
+| _Gymnognathus phanerus_ Jordan, 1.) dorsal view. Specimens deposited at Kansas University Natural History Museum, on loan at State University Biocollections (2022-2024). Images: Samanta Orellana. |
 
 ---
 
