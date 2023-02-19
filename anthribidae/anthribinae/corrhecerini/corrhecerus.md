@@ -88,3 +88,5 @@ Type species
 **Distribution**. Brazil.
 
 ---
+
+[Back to Corrhecerini](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/corrhecerini/){: .btn .btn-blue}
