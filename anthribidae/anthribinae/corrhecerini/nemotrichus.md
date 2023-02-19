@@ -29,6 +29,24 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 
 ---
 
+## _Nemotrchus angulatus_ Jordan, 1906: 352
+
+**Distribution**. Panama.
+
+---
+
+## _Nemotrchus armatus_ Jordan, 1904: 267
+
+**Distribution**. Nicaragua, Costa Rica.
+
+---
+
+## _Nemotrchus barbicornis_ (Fabricius, 1801: 406)
+
+**Distribution**. South America.
+
+---
+
 ## _Nemotrchus dorsomaculatus_ Jekel, 1855: 134
 
 **Distribution**. Nicaragua, Panama, Guyana.
@@ -39,6 +57,36 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 
 ---
 
+## _Nemotrchus fuscus_ Jordan, 1904: 269
+
+**Distribution**. Brazil.
+
+---
+
+## _Nemotrchus inermis_ Jordan, 1906: 353
+
+**Distribution**. Mexico, Nicaragua, Panama.
+
+---
+
+## _Nemotrchus jekeli_ Pascoe, 1859: 329
+
+**Distribution**. Ecuador, Peru, Brazil.
+
+---
+
+## _Nemotrchus niger_ Jordan, 1904: 268
+
+**Distribution**. Brazil.
+
+---
+
+## _Nemotrchus obtusus_ Jordan, 1904: 269
+
+**Distribution**. Brazil, Bolivia.
+
+---
+
 ## _Nemotrichus pilicornis_ (Fabricius, 1801: f.3)
 Type species
 {: .label .label-red }
@@ -46,3 +94,29 @@ Type species
 **Distribution**. Panama, Guyana.
 
 ---
+
+## _Nemotrchus poecilus_ Jordan, 1904: 268
+
+**Distribution**. Brazil.
+
+---
+
+## _Nemotrchus spilotus_ Jordan, 1906: 353
+
+**Distribution**. Panama.
+
+---
+
+## _Nemotrchus teliger_ Jordan, 1906: 353
+
+**Distribution**. Panama.
+
+---
+
+## _Nemotrchus vitticollis_ Jordan, 1904: 268
+
+**Distribution**. Guyana.
+
+---
+
+[Back to Corrhecerini](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/corrhecerini/){: .btn .btn-blue}
