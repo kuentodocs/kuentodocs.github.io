@@ -10,7 +10,7 @@ has_children: false
 # _Eugonodes_ Jordan, 1904: 144
 {: .no_toc }
 
-Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Additional distribution records according to [Jordan (1906)](https://www.biodiversitylibrary.org/item/14611#page/363/mode/1up), Wolfrum (1929), Blackwelder (1947), [Orellana & Barrios (2021)](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera).
+Species and distribution according to [Rheinheimer (2004](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [2016)](https://www.zobodat.at/pdf/KOR_86_2016_0243-0274.pdf). Additional distribution records according to [Jordan (1906)](https://www.biodiversitylibrary.org/item/14611#page/363/mode/1up), Wolfrum (1929), Blackwelder (1947), [Orellana & Barrios (2021)](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera).
 {: .fs-5 .fw-300 }
 
 **Type species.** _Eugonodes marmoreus_ Jordan, 1904: 144
@@ -38,8 +38,12 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 ---
 
 ## _Eugonodes marmoreus_ Jordan, 1904: 302
+Type species
+{: .label .label-red }
 
-**Distribution.** Brazil.
+**Distribution.** Brazil, French Guiana.
+
+**Images**. [Rheinheimer, 2016: 270](https://www.zobodat.at/pdf/KOR_86_2016_0243-0274.pdf).
 
 ---
 
