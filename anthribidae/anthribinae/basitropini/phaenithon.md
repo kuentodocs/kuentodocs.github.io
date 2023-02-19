@@ -40,6 +40,8 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 ---
 
 ## _Phaenithon curvipes_ (Germar, 1824: 176)
+Type species
+{: .label .label-red }
 
 **Distribution**. Mexico, Guatemala, Nicaragua, Costa Rica, Panama, Colombia, French Guiana, Brazil.
 
