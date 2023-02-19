@@ -63,6 +63,16 @@ Type species
 
 ---
 
+## _Phaenithon platanum_ (Schaeffer, 1906: 273)
+
+**Distribution**. United States of America.
+
+|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014485_lateral_edited_1660179840.jpg" alt="Phaenithon platanum"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=616792) |
+|:--:| 
+|_Phaenithon platanum_ (Schaeffer): 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+
+---
+
 ## _Phaenithon semigriseus_ (Germar, 1824: 177)
 
 **Distribution**. Mexico, Guatemala, Nicaragua, Costa Rica, Panama, Colombia, French Guiana, Brazil.
