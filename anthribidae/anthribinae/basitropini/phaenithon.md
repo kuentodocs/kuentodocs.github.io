@@ -55,7 +55,7 @@ Type species
 
 **Distribution**. Costa Rica, Panama.
 
-**Images**. [Orellana & Barrios, 2021: 11, 14)](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera).
+**Images**. [Orellana & Barrios, 2021: 11, 14](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera).
 
 |[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUHIC/ASUCOB0015/ASUCOB0015358_lateral_edited_1610158109.jpg" alt="Phaenithon discifer"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650125) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUHIC/ASUCOB0015/ASUCOB0015358_dorsal_edited_1610158132.jpg" alt="Phaenithon discifer" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650125)|
 |:--:| 
