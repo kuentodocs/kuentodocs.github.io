@@ -55,6 +55,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ## [_Eugonus_ Schoenherr, 1833: 144](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/eugonus)
 (12 species)
+Neotropical {: .label .label-green } Palearctic {: .label .label-red }
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_lateral_edited_1637802470.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_dorsal_edited_1637803702.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_frontal_edited_1637803731.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) | 
 |:--:| 
