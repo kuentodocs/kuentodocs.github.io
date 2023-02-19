@@ -9,7 +9,7 @@ nav_order: 8
 
 # Tribe Gymnognathini Valentine
 
-Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinheimer (2004,](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf) [2021](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf).
+Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinheimer (2004,](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf) [2021)](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf).
 {: .fs-5 .fw-300 }
 
 ---
