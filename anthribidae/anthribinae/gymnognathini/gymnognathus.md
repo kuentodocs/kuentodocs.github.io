@@ -152,7 +152,7 @@ Type species
 
 **Distribution**. Panama [type].
 
-|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202209/Gymnognathus_calusBCA_1662824717.jpg" alt="Gymnognathus ruficlava"  height="160">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=248570) |
+|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202209/Gymnognathus_calusBCA_1662824717.jpg" alt="Gymnognathus ruficlava"  height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=248570) |
 |:--:| 
 |_Gymnognathus calus_ Jordan: 1.) dorsal view. Illustration in Jordan 1906, digitized by the Smithsonian Libraries under a CC0-Public Domain License. Modified by Samanta Orellana.|
 
@@ -345,6 +345,10 @@ Type species
 ## _Gymnognathus hedys_ Jordan, 1937: 216
 
 **Distribution**. Panama [type].
+
+|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015700_lateral_edited_1639625762.jpg" alt="Gymnognathus hedys" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=704738) |
+|:--:| 
+|_Gymnognathus hedys_ Jordan: 1.) lateral view. Illustration in Jordan 1906, digitized by the Smithsonian Libraries under a CC0-Public Domain License. Modified by Samanta Orellana.|
 
 ---
 
