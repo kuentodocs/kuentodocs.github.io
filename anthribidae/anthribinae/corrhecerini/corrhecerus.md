@@ -7,7 +7,7 @@ has_children: false
 ---
 
 
-# _Phaenithon_ Schoenherr, 1826: 40
+# _Corrhecerus_ Schoenherr, 1826: 40
 {: .no_toc }
 
 Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Additional distribution records according to [Jordan (1906)](https://www.biodiversitylibrary.org/item/14611#page/363/mode/1up), Wolfrum (1929), Blackwelder (1947), [Orellana & Barrios (2021)](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera).
