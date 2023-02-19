@@ -29,7 +29,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-## _Corrhecerus_ Schoenherr, 1826: 40
+## [_Corrhecerus_ Schoenherr, 1826: 40](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/corrhecerus)
 (9 species)
 
 |<img src="https://www.simplemappr.net/map/18880" alt="" />| 
