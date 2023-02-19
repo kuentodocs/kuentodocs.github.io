@@ -38,7 +38,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-## _Dasirophala_ Jordan, 1904: 272
+## _Dasyrhopala_ Jordan, 1904: 272
 (1 species)
 
 |<img src="https://www.simplemappr.net/map/19110" alt="" />| 
