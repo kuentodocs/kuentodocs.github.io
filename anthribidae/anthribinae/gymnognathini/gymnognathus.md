@@ -77,7 +77,9 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 ---
 
-## _Gymnognathus ancora_ (Germar, 1824: 177)
+## _Gymnognathus ancora_ (Germar, 1824: 177) 
+Type species
+{: .label .label-red }
 
 **Distribution**. Brazil.
 
