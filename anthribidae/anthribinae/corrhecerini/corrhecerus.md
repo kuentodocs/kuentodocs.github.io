@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Corrhecerus Schoenherr
-parent: Basitropini
+parent: Corrhecerini
 grand_parent: Anthribinae
 has_children: false
 ---
