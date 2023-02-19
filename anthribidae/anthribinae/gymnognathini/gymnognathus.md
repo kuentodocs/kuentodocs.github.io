@@ -121,16 +121,22 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. Brazil, French Guiana.
 
+**Images**. [Rheinheimer, 2016: 315](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
+
 ---
 
 ## _Gymnognathus bohlsi_ Jordan, 1895: 172
 
 **Distribution**. Paraguay.
 
+**Images**. [Rheinheimer, 2004: 239](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
+
 ---
 ## _Gymnognathus brevirostris_ Jordan, 1895: 250
 
 **Distribution**. Brazil, French Guiana.
+
+**Images**. [Rheinheimer, 2016: 317](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 ---
 
@@ -153,6 +159,8 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 ## _Gymnognathus cerdai_ Rheinheimer, 2021: 309
 
 **Distribution**. French Guiana.
+
+**Images**. [Rheinheimer, 2016: 315](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 ---
 
@@ -178,7 +186,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. Brazil, French Guiana.
 
-**Images**. [Rheinheimer, 2016: 313](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
+**Images**. [Rheinheimer, 2004: 240](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf); [Rheinheimer, 2016: 313](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 ---
 
@@ -214,6 +222,8 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. Bolivia.
 
+**Images**. [Rheinheimer, 2004: 240](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
+
 ---
 
 ## _Gymnognathus coronatus_ Jordan, 1904: 246
@@ -225,6 +235,8 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 ## _Gymnognathus dagmari_ Frieser, 1981: 208
 
 **Distribution**. Brazil.
+
+**Images**. [Rheinheimer, 2004: 240](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
 
 ---
 
@@ -247,6 +259,8 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 ## _Gymnognathus depressibasis_ Rheinheimer, 2021: 311
 
 **Distribution**. French Guiana.
+
+**Images**. [Rheinheimer, 2016: 317](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 ---
 
@@ -310,6 +324,8 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. Brazil, French Guiana.
 
+**Images**. [Rheinheimer, 2016: 316](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
+
 ---
 
 ## _Gymnognathus germaini_ Jordan, 1897: 173
@@ -346,7 +362,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. Brazil, French Guiana.
 
-**Images**. [Rheinheimer, 2016: 313](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
+**Images**. [Rheinheimer, 2004: 240](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf); [Rheinheimer 2016: 313](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 ---
 
@@ -378,6 +394,8 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. Brazil, French Guiana.
 
+**Images**. [Rheinheimer, 2016: 315](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
+
 ---
 
 ## _Gymnognathus irma_ Jordan, 1904: 247
@@ -396,11 +414,15 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. French Guiana.
 
+**Images**. [Rheinheimer, 2016: 316](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
+
 ---
 
 ## _Gymnognathus lotus_ Jordan, 1937: 224
 
 **Distribution**. Brazil, Bolivia.
+
+**Images**. [Rheinheimer, 2016: 314](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015433_lateral_edited_1640228465.jpg" alt="Gymnognathus lotus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=656802) |
 |:--:| 
@@ -411,6 +433,8 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 ## _Gymnognathus lusia_ Jordan, 1937: 219
 
 **Distribution**. French Guiana.
+
+**Images**. [Rheinheimer, 2016: 315](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 ---
 
@@ -455,6 +479,8 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 ## _Gymnognathus mollis_ Jordan, 1937: 217
 
 **Distribution**. Brazil, French Guiana.
+
+**Images**. [Rheinheimer, 2004: 240](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf); [Rheinheimer, 2016: 316](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 ---
 
@@ -508,11 +534,15 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. French Guiana.
 
+**Images**. [Rheinheimer, 2016: 315](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
+
 ---
 
 ## _Gymnognathus phanerus_ Jordan, 1904: 243
 
 **Distribution**. Brazil, Bolivia, French Guiana.
+
+**Images**. [Rheinheimer, 2016: 316](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202302/KU_Gymnognathus_phanerus_dorsa_1675703795.jpg" alt="Gymnognathus abundans" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=251898) |
 |:--:| 
@@ -523,6 +553,8 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 ## _Gymnognathus pindonis_ Jordan, 1937: 231
 
 **Distribution**. French Guiana.
+
+**Images**. [Rheinheimer, 2016: 316](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 ---
 
@@ -535,6 +567,8 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 ## _Gymnognathus procerus_ Jordan, 1937: 226
 
 **Distribution**. French Guiana.
+
+**Images**. [Rheinheimer, 2016: 314](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 ---
 
@@ -554,11 +588,15 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. Brazil, French Guiana.
 
+**Images**. [Rheinheimer, 2016: 315](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
+
 ---
 
 ## _Gymnognathus robustus_ Jordan, 1895: 169
 
 **Distribution**. Brazil.
+
+**Images**. [Rheinheimer, 2004: 240](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
 
 |[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015320_lateral_edited_1624653573.jpg" alt="Gymnognathus robustus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=632663) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015320_dorsal_edited_1624657253.jpg" alt="Gymnognathus robustus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=632663) |
 |:--:| 
@@ -612,6 +650,8 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Distribution**. French Guiana.
 
+**Images**. [Rheinheimer, 2016: 317](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
+
 ---
 
 ## _Gymnognathus tenuis_ Jordan, 1895: 250
@@ -653,6 +693,8 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 ## _Gymnognathus vicinus_ Jekel, 1855: 117
 
 **Distribution**. Brazil.
+
+**Images**. [Rheinheimer, 2016: 316](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). 
 
 ---
 
