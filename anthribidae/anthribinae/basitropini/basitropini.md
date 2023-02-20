@@ -14,7 +14,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 {: .fs-5 .fw-300 }
 
 Oriental
-{: .label .label-red }
+{: .label .label-pink }
 
 Neotropical
 {: .label .label-green }
