@@ -45,6 +45,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## [_Eugonodes_ Jordan, 1904: 302](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/eugonodes) 
 (2 species)
 
+Neotropical
+{: .label .label-green }
+
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_lateral_edited_1608928771.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/#eugonodes-jordan-1904-302) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_dorsal_edited_1609004155.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611354) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUASUCOB0014290_frontal_edite_1609290652.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611354) | 
 |:--:| 
 |_Eugonodes brevirostris_ Jordan: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
@@ -54,9 +57,6 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |Known distribution of _Eugonodes_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ## [_Eugonus_ Schoenherr, 1833: 144](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/eugonus)
-
-<div class="code-example" markdown="1">
-
 (12 species)
 
 Neotropical
@@ -64,28 +64,6 @@ Neotropical
 
 Nearctic
 {: .label .label-purple }
-
-Palearctic
-{: .label .label-yellow }
-
-Afrotropical
-{: .label .label-orange }
-
-Oriental
-{: .label .label-red }
-
-Australian
-{: .label .label-blue }
-
-Prueba
-{: .label .label-black }
-
-Prueba
-{: .label .label-grey }
-
-
-</div>
-
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_lateral_edited_1637802470.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_dorsal_edited_1637803702.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_frontal_edited_1637803731.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) | 
 |:--:| 
@@ -121,6 +99,12 @@ Prueba
 
 ## [_Phaenithon_ Schoenherr, 1826: 37](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/phaenithon/)
 (65 species)
+
+Neotropical
+{: .label .label-green }
+
+Nearctic
+{: .label .label-purple }
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014482_lateral_edited_1627430202.jpg" alt="Phaenithon curvipes" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=616665) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014482_dorsal_edited_1627430805.jpg" alt="Phaenithon curvipes" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=616665) | 
 |:--:| 
