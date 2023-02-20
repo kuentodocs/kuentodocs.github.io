@@ -23,7 +23,7 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 
 
 
-**Anthribidae groups with Neotropical distribution.**
+## Anthribidae groups with Neotropical distribution
 
 | Subfamily | Tribe | Genera | # of species | Image |
 |-------|--------|---------|---------|---------|
