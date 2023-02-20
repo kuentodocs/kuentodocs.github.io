@@ -12,13 +12,7 @@ nav_order: 1
 By [Samanta Orellana](https://search.asu.edu/profile/3433157) (2022). 
 {: .fs-5 .fw-200 }
 
-
-## Table of Content
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
+---
 
 ## Neotropical Anthribidae
 
