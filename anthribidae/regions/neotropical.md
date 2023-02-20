@@ -3,7 +3,6 @@ layout: default
 title: Neotropical Anthribidae
 has_children: false
 parent: Biogeographic Regions
-grand_parent: Anthribidae
 nav_order: 1
 ---
 
