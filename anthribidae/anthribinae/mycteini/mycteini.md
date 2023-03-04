@@ -35,7 +35,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |  [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015327_lateral_edited_1619129450.jpg" alt="Mycteis marginicollis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=658529)  [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015327_dorsal_edited_1619130844.jpg" alt="Mycteis marginicollis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=658529)  [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015327_frontal_edited_1619131748.jpg" alt="Mycteis marginicollis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=658529) | 
 |:--:| 
-|_Mycteis marginicollis_ Pascoe: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|_Mycteis marginicollis_ Pascoe: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 |<img src="https://www.simplemappr.net/map/19882" alt="" />| 
 |:--:| 
