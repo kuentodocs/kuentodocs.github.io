@@ -25,7 +25,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015243_lateral_edited_1637888538.jpg" alt="Nemotrichus dorsomaculatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=629156) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079279_habitus_lateral__1429125469_web.jpg" alt="Nemotrichus inermis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=348930) | 
 |:--:| 
-|**Diversity of Corrhecerini.** 1.) *Nemotrichus dorsomaculatus* Jordan, lateral view. 2.) _Nemotrichus inermis_ Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana and ASUHIC.|
+|**Diversity of Corrhecerini.** 1.) *Nemotrichus dorsomaculatus* Jordan, lateral view. 2.) _Nemotrichus inermis_ Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana and ASUHIC.|
 
 ---
 
