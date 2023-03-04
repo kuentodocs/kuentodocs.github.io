@@ -25,7 +25,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015451_lateral_edited_1661108582.jpg" alt="Araecerus fasciculatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=1154243) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201511/ASUHIC0071013_habitus_lateral__1446498565_web.jpg" alt="Acaromimus americanus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=342756) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027423_lateral_edited_1638935403.jpg" alt="Neoxenus polius" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740041) | 
 |:--:| 
-|**Diversity of Araecerini.** 1.) *Araecerus fasciculatus* DeGeer, lateral view. 2.) *Acaromimus americanus* (Motschulsky), lateral view. 3.) *Neoxenus polius* (Jordan), lateral view.  Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|**Diversity of Araecerini.** 1.) *Araecerus fasciculatus* DeGeer, lateral view. 2.) *Acaromimus americanus* (Motschulsky), lateral view. 3.) *Neoxenus polius* (Jordan), lateral view.  Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 ---
 
@@ -49,7 +49,7 @@ Note: Rheinhemer mistakes Honduras with Belize (previously known as "_British Ho
 
 | [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201511/ASUHIC0071013_habitus_lateral__1446498565_web.jpg" alt="Acaromimus americanus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=342756) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201511/ASUHIC0071013_habitus_dorsal_1_1446498565_web.jpg" alt="Acaromimus americanus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=342756)| 
 |:--:| 
-|_Acaromimus americanus_ (Motschulsky): 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: ASUHIC.|
+|_Acaromimus americanus_ (Motschulsky): 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
 |<img src="https://www.simplemappr.net/map/18912" alt="" />| 
 |:--:| 
@@ -80,7 +80,7 @@ Note: Rheinhemer mistakes Honduras with Belize (previously known as "_British Ho
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027423_lateral_edited_1638935403.jpg" alt="Neoxenus polius" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740041) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027423_dorsal_edited_1638936310.jpg" alt="Neoxenus polius" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740041) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027423_frontal_edited_1638936335.jpg" alt="Neoxenus polius" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740041)| 
 |:--:| 
-|_Neoxenus polius_ (Jordan): 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|_Neoxenus polius_ (Jordan): 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 |<img src="https://www.simplemappr.net/map/18911" alt="" />| 
 |:--:| 
