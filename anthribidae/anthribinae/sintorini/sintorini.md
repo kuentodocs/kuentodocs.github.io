@@ -24,14 +24,16 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-|Images soon!|
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028842_dorsal_edited_1677956944.jpg" alt="Sintor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=1459776) |
+|:--:| 
+|**Diversity of Sintorini.** 1.) *Sintor* Schoenherr, dorsal view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana. |
 
 ---
 
 ## _Sintor_ Schoenherr, 1839: 148
 (43 species)
 
-|<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028842_dorsal_edited_1677956944.jpg" alt="" />| 
+|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028842_dorsal_edited_1677956944.jpg" alt="Sintor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=1459776)| 
 |:--:| 
 |_Sintor_ Schoenherr: 1.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana|
 
