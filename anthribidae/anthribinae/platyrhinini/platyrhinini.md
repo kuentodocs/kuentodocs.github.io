@@ -23,7 +23,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014426_lateral_edited_1627408009.jpg" alt="Homocloeus concolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=614679) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070987_habitus_lateral__1432931478_web.jpg" alt="Monocloeus idaeus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341817) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070980_habitus_lateral__1432931460_web.jpg" alt="Strabus umbrinus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341797) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0023/ASUCOB0023321_lateral_edited_1651938558.jpg" alt="Trachytropis aspera" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=727942)| 
 |:--:| 
-|**Diversity of Platyrhini.** 1.) _Homocloeus concolor_ Jordan, lateral view. 2.) _Monocloeus idaeus_ Jordan, lateral view. 3.) _Strabus umbrinus_ (Jordan), lateral view. 4.) _Trachytropis aspera_ Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana and ASUHIC.|
+|**Diversity of Platyrhini.** 1.) _Homocloeus concolor_ Jordan, lateral view. 2.) _Monocloeus idaeus_ Jordan, lateral view. 3.) _Strabus umbrinus_ (Jordan), lateral view. 4.) _Trachytropis aspera_ Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana and ASUHIC.|
 
 ---
 
@@ -50,7 +50,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014426_lateral_edited_1627408009.jpg" alt="Homocloeus concolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=614679) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014426_dorsal_edited_1627408510.jpg" alt="Homocloeus concolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=614679)| 
 |:--:| 
-|_Homocloeus concolor_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: ASUHIC.|
+|_Homocloeus concolor_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
 |<img src="https://www.simplemappr.net/map/18930" alt="" />| 
 |:--:| 
@@ -63,7 +63,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |[<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070987_habitus_lateral__1432931478_web.jpg" alt="Monocloeus idaeus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341817) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070987_habitus_dorsal_1_1432931477_web.jpg" alt="Monocloeus idaeus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341817)| 
 |:--:| 
-|_Monocloeus idaeus_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: ASUHIC.|
+|_Monocloeus idaeus_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
 |<img src="https://www.simplemappr.net/map/19010" alt="" />| 
 |:--:| 
@@ -76,7 +76,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |[<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070980_habitus_lateral__1432931460_web.jpg" alt="Strabus umbrinus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341797) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070980_habitus_dorsal_1_1432931459_web.jpg" alt="Strabus umbrinus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341797)| 
 |:--:| 
-|_Strabus umbrinus_ (Jordan) 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: ASUHIC.|
+|_Strabus umbrinus_ (Jordan) 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: ASUHIC.|
 
 |<img src="https://www.simplemappr.net/map/19011" alt="" />| 
 |:--:| 
@@ -89,7 +89,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0023/ASUCOB0023321_lateral_edited_1651938558.jpg" alt="Trachytropis aspera" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=727942) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0023/ASUCOB0023321_dorsal_edited_1662828249.jpg" alt="Trachytropis aspera" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=727942)| 
 |:--:| 
-|_Trachytropis aspera_ Jordan 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|_Trachytropis aspera_ Jordan 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 |<img src="https://www.simplemappr.net/map/19012" alt="" />| 
 |:--:| 
