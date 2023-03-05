@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 
-# Tribe Valenfriesiini Valentine
+# Tribe Valenfriesiini Alonso-Zarazaga & Lyal
 {: .no_toc }
 
 Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001).
