@@ -35,7 +35,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Decataphanes occultus_ Jordan: 1.) lateral view. Specimens deposited at the American Museum of Natural History. On loan at Arizona State University Biocollections (2023-2025). Images: Samanta Orellana.|
 
-|<<img src="https://www.simplemappr.net/map/20147" alt="" />" alt="" />>| 
+|<img src="https://www.simplemappr.net/map/20147" alt="" />" | 
 |:--:| 
 |Known distribution of _Decataphanes_ Imhoff. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
