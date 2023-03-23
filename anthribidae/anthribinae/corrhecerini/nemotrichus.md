@@ -17,6 +17,8 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 
 **Synonyms.** _Nemotrichus_ Dejean, 1834: 234; _Nematotrichus_ Agassiz, 1846: 248
 
+**Diversity.** 14 described species
+
 [Back to Corrhecerini](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/corrhecerini/){: .btn .btn-blue}
 
 ---
