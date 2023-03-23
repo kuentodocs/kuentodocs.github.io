@@ -554,7 +554,7 @@ Type species
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202302/KUNHM_Gymnognathus_phanerus_la_1676821124.jpg" alt="Gymnognathus phanerus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=286510) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202302/KUNHM_Gymnognathus_phanerus_do_1676819987.jpg" alt="Gymnognathus phanerus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=286509) |
 |:--:| 
-| _Gymnognathus phanerus_ Jordan, 1.) lateral view, 2.) dorsal view. Specimens deposited at Kansas University Natural History Museum, on loan at State University Biocollections (2022-2024). Images: Samanta Orellana. |
+| _Gymnognathus phanerus_ Jordan, 1.) lateral view, 2.) dorsal view. Specimens deposited at Kansas University Natural History Museum (Curator: Dr. Zachary Falin), on loan at State University Biocollections (2022-2024). Images: Samanta Orellana. |
 
 ---
 
