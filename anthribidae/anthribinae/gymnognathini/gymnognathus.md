@@ -13,9 +13,11 @@ has_children: false
 Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf) [2021)](https://www.coleoptera.at/uploads/publication_article/pdf/781/KOR_90_2020_0307-0324.pdf). Additional distribution records according to [Jordan (1906)](https://www.biodiversitylibrary.org/item/14611#page/363/mode/1up), Wolfrum (1929), Blackwelder (1947), [Perger & Guerra (2016)](https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4084.2.7), [Orellana & Barrios (2021)](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera).
 {: .fs-5 .fw-300 }
 
-**Type species.** _Anthribus ancora_ Germar, 1824: 177
+**Type species.** _Anthribus ancora_ Germar, 1824: 177 
 
 **Synonyms.** _Gymnognathus_ Schoenherr, 1823: 1135; _Analotes_ Schoenherr, 1839: 198
+
+**Diversity.** 96 described species.
 
 [Back to Gymnognathini](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathini/){: .btn .btn-blue}
 
