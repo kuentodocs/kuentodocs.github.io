@@ -17,6 +17,8 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 
 **Synonyms.** _Paranthribus_ Jordan, 1904: 283
 
+**Diversity.** 9 described species
+
 [Back to Corrhecerini](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/corrhecerini/){: .btn .btn-blue}
 
 ---
