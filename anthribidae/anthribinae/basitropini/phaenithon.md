@@ -17,6 +17,8 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 
 **Synonyms.** _Phaenisor_ Schoenherr, 1823: 1135; _Camaroderes_ Jekel, 1855: 85; _Griburiosoma_ Schaeffer, 1906: 272
 
+**Diversity.** 65 described species
+
 [Back to Basitropini](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/){: .btn .btn-blue}
 
 ---
