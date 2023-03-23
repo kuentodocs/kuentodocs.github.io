@@ -23,7 +23,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202303/NZAC_Dinema_lateral_edited_1679443884.jpg" alt="Dinema" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=303546) 
 |:--:| 
-|**Diversity of Jordanthribini.** 1.) *Dinema* sp. lateral view. Specimens deposited at the New Zealand Arthropod Collection, on loan at Arizona State University Biocollections. Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php). Images: Samanta Orellana. |
+|**Diversity of Jordanthribini.** 1.) *Dinema* sp. lateral view. Specimens deposited at the New Zealand Arthropod Collection (Curator: Dr. Richard Leschen), on loan at Arizona State University Biocollections. Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php). Images: Samanta Orellana. |
 
 ---
 
@@ -40,7 +40,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |  [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202303/NZAC_Dinema_lateral_edited_1679443884.jpg" alt="Dinema" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=303546) | 
 |:--:| 
-|_Dinema_ Fairmaire: 1.) lateral view. Specimens deposited at the New Zealand Arthropod Collection, on loan at Arizona State University Biocollections. Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php). Images: Samanta Orellana.|
+|_Dinema_ Fairmaire: 1.) lateral view. Specimens deposited at the New Zealand Arthropod Collection (Curator: Dr. Richard Leschen), on loan at Arizona State University Biocollections. Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php). Images: Samanta Orellana.|
 
 |<img src="https://www.simplemappr.net/map/20239" alt="" />| 
 |:--:| 
