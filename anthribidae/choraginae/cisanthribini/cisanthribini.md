@@ -11,7 +11,7 @@ nav_order: 4
 # Tribe Cisanthribini Zimmerman
 {: .no_toc }
 
-Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
+Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Valentine (1998)](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1378&context=insectamundi), [Zimmerman (1938)](http://hbs.bishopmuseum.org/pubs-online/pdf/op14-13.pdf).
 {: .fs-5 .fw-300 }
 
 ---
@@ -37,13 +37,13 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img src="https://www.simplemappr.net/map/20241" alt="" />| 
 |:--:| 
-|Known distribution of _Cisanthribus_ Zimmerman. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Cisanthribus_ Zimmerman. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Zimmerman (1938)]([url](http://hbs.bishopmuseum.org/pubs-online/pdf/op14-13.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ## _Sicanthus_ Valentine, 1998: 258
 (1 species)
 
 |<img src="https://www.simplemappr.net/map/20250" alt="" />| 
 |:--:| 
-|Known distribution of _Sicanthus_ Valentine. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Sicanthus_ Valentine. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Valentine (1998)](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1378&context=insectamundi). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 
