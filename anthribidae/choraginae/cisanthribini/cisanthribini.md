@@ -39,5 +39,11 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |Known distribution of _Cisanthribus_ Zimmerman. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
+## _Sicanthus_ Valentine, 1998: 258
+(1 species)
+
+|<img src="https://www.simplemappr.net/map/20250" alt="" />| 
+|:--:| 
+|Known distribution of _Sicanthus_ Valentine. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana, generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 
