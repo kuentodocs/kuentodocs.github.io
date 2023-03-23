@@ -15,6 +15,8 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Type species.** _Monocloeus elaphrinus_ Jordan, 1904: 255
 
+**Diversity.** 24 described species
+
 [Back to Platyrhinini](https://anthribidae.github.io/anthribidae/anthribinae/platyrhinini/platyrhinini/){: .btn .btn-blue}
 
 ---
