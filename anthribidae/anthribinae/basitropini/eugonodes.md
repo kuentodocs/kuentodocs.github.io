@@ -15,7 +15,7 @@ Species and distribution according to [Rheinheimer (2004](https://www.zobodat.at
 
 **Type species.** _Eugonodes marmoreus_ Jordan, 1904: 144
 
-**Diversity**. Two described species. Several undescribed.
+**Diversity**. Two described species and several undescribed
 
 [Back to Basitropini](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/){: .btn .btn-blue}
 
