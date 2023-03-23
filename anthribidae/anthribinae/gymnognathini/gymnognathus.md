@@ -17,7 +17,7 @@ Species and distribution according to [Rheinheimer (2004,](https://www.zobodat.a
 
 **Synonyms.** _Gymnognathus_ Schoenherr, 1823: 1135; _Analotes_ Schoenherr, 1839: 198
 
-**Diversity.** 96 described species.
+**Diversity.** 96 described species
 
 [Back to Gymnognathini](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathini/){: .btn .btn-blue}
 
