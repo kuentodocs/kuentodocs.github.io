@@ -28,7 +28,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-## [_Decataphanes_ Imhoff, 1840 f.3](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/nemotrichus/) 
+## Decataphanes_ Imhoff, 1840 f.3
 (6 species)
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202303/AMNH_Decataphanes_ocultus_late_1678400916.jpg" alt="Decataphanes occultus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=303438) | 
