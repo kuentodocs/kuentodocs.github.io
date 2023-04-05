@@ -24,7 +24,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202303/AMNH_Decataphanes_ocultus_late_1678400916.jpg" alt="Decataphanes occultus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=303438) | 
 |:--:| 
-|**Diversity of Decataphanini.** 1.) *Decataphanes occultus* Jordan, lateral view. Specimens deposited at the American Museum of Natural History (Curator: Dr. Lee Herman). On loan at Arizona State University Biocollections (2023-2025). Images: Samanta Orellana.|
+|**Diversity of Decataphanini.** 1.) *Decataphanes occultus* Jordan, lateral view. Specimens deposited at the [American Museum of Natural History](https://www.amnh.org/research/invertebrate-zoology/collections) (Curator: Dr. Lee Herman). On loan at [Arizona State University Biocollections](https://sols.asu.edu/research/natural-history-collections) (2023-2025). Images: Samanta Orellana.|
 
 ---
 
@@ -33,7 +33,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/Anthribidae/202303/AMNH_Decataphanes_ocultus_late_1678400916.jpg" alt="Decataphanes occultus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/imagelib/imgdetails.php?imgid=303438) | 
 |:--:| 
-|_Decataphanes occultus_ Jordan: 1.) lateral view. Specimens deposited at the American Museum of Natural History (Curator: Dr. Lee Herman). On loan at Arizona State University Biocollections (2023-2025). Images: Samanta Orellana.|
+|_Decataphanes occultus_ Jordan: 1.) lateral view. Specimens deposited at the [American Museum of Natural History](https://www.amnh.org/research/invertebrate-zoology/collections) (Curator: Dr. Lee Herman). On loan at [Arizona State University Biocollections](https://sols.asu.edu/research/natural-history-collections) (2023-2025). Images: Samanta Orellana.|
 
 |<img src="https://www.simplemappr.net/map/20147" alt="" />" | 
 |:--:| 
