@@ -4,7 +4,7 @@ title: Xenorchestini
 parent: Choraginae
 grand_parent: Classification
 has_children: true
-authors: Samanta Orellana
+authors: ["Samanta Orellana]
 nav_order: 6
 ---
 
@@ -25,12 +25,6 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028758_lateral_edited_1677960724.jpg" alt="Valenfriesia" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=1170120) | 
-|:--:| 
-|**Diversity of Valenfriesiini.** 1.) *Valenfriesia nitida* Morimoto, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
-
----
-
 ## _Xenorchestes_ Wollaston, 1854: 417
 (1 species)
 
@@ -42,6 +36,8 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ## _Acarodes_ Wollaston, 1877: 205
 (1 species)
+
+Original description: [Wollaston 1877](https://www.biodiversitylibrary.org/item/103258#page/237/mode/1up)
 
 |<img src="https://www.simplemappr.net/map/20452" alt="" />| 
 |:--:| 
