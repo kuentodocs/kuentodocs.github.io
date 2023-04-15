@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Regions
-has_children: false
 parent: Distribution
 has_children: true
 nav_order: 1
