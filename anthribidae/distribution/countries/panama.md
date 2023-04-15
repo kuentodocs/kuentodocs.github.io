@@ -21,6 +21,7 @@ Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae ar
 |:--:| 
 |Panama. Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
+---
 
 ## Anthribidae of Panama
 
@@ -74,6 +75,9 @@ Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae ar
 
 ## Subfamily Choraginae
 
+---
+
+Summary of the Anthribidae of Panama
 
 | Subfamily | Tribe | Genera | # of species | Image |
 |-------|--------|---------|---------|---------|
