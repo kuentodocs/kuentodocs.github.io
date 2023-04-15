@@ -15,3 +15,9 @@ Regions according to [Holt et al. (2013)](https://www.science.org/doi/10.1126/sc
 
 ---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
