@@ -23,7 +23,7 @@ Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae ar
 
 ---
 
-# Anthribidae groups recorded in Panama
+## Anthribidae groups recorded in Panama
 
 | Subfamily | Tribe | Genera | # of species | Image |
 |-------|--------|---------|---------|---------|
