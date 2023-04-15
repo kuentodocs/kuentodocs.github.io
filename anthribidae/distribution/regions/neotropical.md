@@ -2,7 +2,7 @@
 layout: default
 title: Neotropical Anthribidae
 has_children: false
-parent: Distribution
+parent: Regions
 nav_order: 1
 ---
 
