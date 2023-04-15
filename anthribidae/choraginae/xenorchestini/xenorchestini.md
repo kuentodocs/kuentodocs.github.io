@@ -61,3 +61,10 @@ Original description: [Wollaston 1877](https://www.biodiversitylibrary.org/item/
 |Known distribution of _Acarodes_ Wollaston. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 |Updated: April 15, 2023 by Samanta Orellana.|
+
+{: .highlight }
+Updated: April 15, 2023 by Samanta Orellana.
+
+
+{: .highlight }
+Updated: April 15, 2023 by Samanta Orellana.
