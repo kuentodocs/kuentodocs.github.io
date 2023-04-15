@@ -15,24 +15,62 @@ Species according to [Orellana & Barrios (2021)](https://www.researchgate.net/pu
 
 ---
 
-Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher diversity in the tropics ([Rheinheimer](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), 2004). Neotropical fauna is still poorly studied and, with the exception of few genera (_Stenocerus_ Jekel, [_Hypselotropis_](https://www.researchgate.net/publication/289907664_Description_Of_Two_New_Species_Of_Hypselotropis_Jekel_With_A_Revised_Key_And_Phylogenetic_Reanalysis_Of_The_Genus_Coleoptera_Anthribidae_Anthribinae) Jekel, _Ptychoderes_ Schoenherr), most groups still need extensive taxonomic revisions. Below is a summary of the Neotropical diversity of Anthribidae, to give a general idea of the family representatives in the region. Please check more groups under "Classification" on the left menu. This table is based on preliminar information in [Rheinheimer](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf) (2004), [Mermudes](https://www.researchgate.net/publication/289907664_Description_Of_Two_New_Species_Of_Hypselotropis_Jekel_With_A_Revised_Key_And_Phylogenetic_Reanalysis_Of_The_Genus_Coleoptera_Anthribidae_Anthribinae) (2005), [Mermudes & Napp]([url](https://www.researchgate.net/publication/259372280_Revision_and_cladistic_analysis_of_the_genus_Ptychoderes_Schoenherr_1823_Coleoptera_Anthribidae_Anthribinae_Ptychoderini)) (2006), Perger & Guerra (2016), Queiroz _et al._ (2017), Lopez & Mermudes (2018), Silva & Mermudes (2019), Rheinheimer (2020), [Orellana & Barrios](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera) (2021).
-
+Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae are recorded for Panama [(Orellana & Barrios 2021)](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera).
 
 |![Panama(1)](https://user-images.githubusercontent.com/69399374/232246958-121a4e17-74ca-4a0e-b4e4-841d1e97402f.svg)|
 |:--:| 
 |Panama. Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 
-
 ## Anthribidae of Panama
 
-## Subfamily Anthribinae
+## Subfamily Anthribinae Billberg
 
-### Tribe Basitropini
+### Tribe Basitropini Lacordaire
 
 **_Eugonodes_ Jordan**
 
-- _Eugonodes brevirrostris_ Jordan
+- _Eugonodes brevirostris_ Jordan
+ 
+**_Eugonus_ Schoenherr**
+
+- _Eugonus decorus_ Jordan, 1906
+- _Eugonus particolor_ Jordan, 1904
+- _Eugonus robustus_ Jordan, 1904
+- _Eugonus subcylindricus_ Fahraeus, 1839
+
+**_Phaenithon_ Schoenherr**
+
+- _Phaenithon bajulus_ Jekel, 1855
+- _Phaenithon baseopagus_ Jordan, 1937
+- _Phaenithon caeruleus_ Jordan, 1906
+- _Phaenithon curvipes_ (Germar, 1824)
+- _Phaenithon discifer_ Jordan, 1906
+- _Phaenithon gravis_ Fahraeus, 1839
+- _Phaenithon irroratus_ Jekel, 1855
+- _Phaenithon jucundus_ Jordan, 1906
+- _Phaenithon laevipenis_ Jordan, 1904
+- _Phaenithon nigropunctum_ Fahraeus, 1839
+- _Phaenithon pardalis_ Jordan, 1906
+- _Phaenithon perfectus_ Jordan, 1937
+- _Phaenithon plagiatus_ Boheman, 1833
+- _Phaenithon semigriseus_ (Germar, 1824)
+- _Phaenithon uncinatus_ Jordan, 1906
+
+### Tribe Corrhecerini
+
+**_Corrhecerus_ Shoenherr**
+
+- _Corrhecerus hector_ Jekel, 1855
+
+**_Nemotrichus_ Labram & Imhoff**
+
+- _Nemotrichus angulatus_ Jordan, 1906
+- _Nemotrichus dorsomaculatus_ Jekel, 1955
+- _Nemotrichus inermis_ Jordan, 1906
+- _Nemotrichus pilicornis_ (Fabricius, 1801)
+- _Nemotrichus spilotus_ Jordan, 1906
+- _Nemotrichus teliger_ Jordan, 1906
 
 ## Subfamily Choraginae
 
