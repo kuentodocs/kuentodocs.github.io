@@ -15,6 +15,14 @@ Species according to [Orellana & Barrios (2021)](https://www.researchgate.net/pu
 
 ---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae are recorded for Panama [(Orellana & Barrios 2021)](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera).
 
 |![Panama(1)](https://user-images.githubusercontent.com/69399374/232246958-121a4e17-74ca-4a0e-b4e4-841d1e97402f.svg)|
