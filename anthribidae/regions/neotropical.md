@@ -83,3 +83,5 @@ Anthribidae (Coleoptera: Curculionoidea) is a cosmopolitan family, with higher d
 |  |  | [*Holostilpna* Jordan](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/#holostilpna-jordan-1907-382)  | 5 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027370_lateral_edited_1651938315.jpg" alt="Eugonodes brevirostris" width="160" height="106.5">](https://anthribidae.github.io/anthribidae/choraginae/choragini/choragini/#holostilpna-jordan-1907-382)|
 |Total| 15 tribes  | 54 genera | 596 species ||
 
+{: .highlight }
+Updated: March 23, 2023 by **Samanta Orellana**.
