@@ -31,6 +31,9 @@ Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae ar
 
 ---
 
+
+## Summary 
+
 | Subfamily | Tribe | Genera | # of species | Image |
 |-------|--------|---------|---------|---------|
 | **Anthribinae** | [Basitropini](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/) | [*Eugonodes* Jordan](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/#eugonodes-jordan-1904-302) | 1 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_lateral_edited_1608928771.jpg" alt="Eugonodes brevirostris" width="160" height="106.5">](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/#eugonodes-jordan-1904-302)|
@@ -67,11 +70,11 @@ Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae ar
 
 ---
 
-## Anthribidae of Panama
+## Checklist
 
-## Subfamily Anthribinae Billberg
+### Subfamily Anthribinae Billberg
 
-### Tribe Basitropini Lacordaire
+#### Tribe Basitropini Lacordaire
 
 
 **_Eugonodes_ Jordan**
@@ -103,7 +106,7 @@ Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae ar
 - _Phaenithon semigriseus_ (Germar, 1824)
 - _Phaenithon uncinatus_ Jordan, 1906
 
-### Tribe Corrhecerini
+#### Tribe Corrhecerini
 
 
 **_Corrhecerus_ Shoenherr**
@@ -119,7 +122,31 @@ Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae ar
 - _Nemotrichus spilotus_ Jordan, 1906
 - _Nemotrichus teliger_ Jordan, 1906
 
-## Subfamily Choraginae
+#### Tribe Cratoparini
+
+#### Tribe Discotenini
+
+#### Tribe Gymnognathini
+
+#### Tribe Ishcnocerini
+
+#### Tribe Piesocorynini
+
+#### Tribe Platyrhinini
+
+#### Tribe Platystomini
+
+#### Tribe Ptychoderini
+
+#### Tribe Stenocerini
+
+#### Tribe Zygaenodini
+
+### Subfamily Choraginae
+
+#### Tribe Araecerini
+
+#### Tribe Choragini
 
 ---
 
