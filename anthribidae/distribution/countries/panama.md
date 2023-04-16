@@ -73,9 +73,11 @@ Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae ar
 ## Checklist
 
 ### Subfamily Anthribinae Billberg
+---
 
-#### Tribe Basitropini Lacordaire
+#### Tribe Basitropini 
 
+---
 
 **_Eugonodes_ Jordan**
 
