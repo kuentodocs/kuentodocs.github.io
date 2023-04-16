@@ -76,7 +76,6 @@ Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae ar
 ---
 
 #### Tribe Basitropini 
-
 ---
 
 **_Eugonodes_ Jordan**
@@ -108,8 +107,10 @@ Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae ar
 - _Phaenithon semigriseus_ (Germar, 1824)
 - _Phaenithon uncinatus_ Jordan, 1906
 
-#### Tribe Corrhecerini
+---
 
+#### Tribe Corrhecerini
+---
 
 **_Corrhecerus_ Shoenherr**
 
@@ -124,29 +125,55 @@ Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae ar
 - _Nemotrichus spilotus_ Jordan, 1906
 - _Nemotrichus teliger_ Jordan, 1906
 
+---
+
 #### Tribe Cratoparini
+
+---
 
 #### Tribe Discotenini
 
+---
+
 #### Tribe Gymnognathini
+
+---
 
 #### Tribe Ishcnocerini
 
+---
+
 #### Tribe Piesocorynini
+
+---
 
 #### Tribe Platyrhinini
 
+---
+
 #### Tribe Platystomini
+
+---
 
 #### Tribe Ptychoderini
 
+---
+
 #### Tribe Stenocerini
+
+---
 
 #### Tribe Zygaenodini
 
+---
+
 ### Subfamily Choraginae
 
+---
+
 #### Tribe Araecerini
+
+---
 
 #### Tribe Choragini
 
