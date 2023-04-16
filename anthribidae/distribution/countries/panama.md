@@ -7,7 +7,7 @@ grand_parent: Distribution
 nav_order: 1
 ---
 
-# Anthribidae of Pamama
+# Anthribidae of Panama
 {: .no_toc }
 
 Species according to [Orellana & Barrios (2021)](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera).
@@ -30,8 +30,6 @@ Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae ar
 |Panama. Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ---
-
-## Anthribidae groups recorded in Panama
 
 | Subfamily | Tribe | Genera | # of species | Image |
 |-------|--------|---------|---------|---------|
