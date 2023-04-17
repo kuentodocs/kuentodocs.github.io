@@ -163,7 +163,7 @@ According to [Orellana & Barrios (2021)](https://www.researchgate.net/publicatio
 
 - _Domoptolis championi_ Jordan, 1906
 
-**_Gymnognathus_ Schoenherr**
+[**_Gymnognathus_ Schoenherr**](https://anthribidae.github.io/anthribidae/anthribinae/gymnognathini/gymnognathus/)
 
 - _Gymnognathus ampulla_ Jordan, 1906
 - _Gymnognathus calus_ Jordan, 1906
