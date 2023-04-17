@@ -184,11 +184,11 @@ According to [Orellana & Barrios (2021)](https://www.researchgate.net/publicatio
 
 **_Meconemus_ Labram & Imhoff**
 
-_Meconemus aeneus_ (Jordan, 1895)
-_Meconemus championi_ (Jordan, 1906)
-_Meconemus consors_ (Jordan, 1906)
-_Meconemus metallicus_ (Jordan, 1906)
-_Meconemus tuberculatus_ (Labram & Imhoff, 1838)
+- _Meconemus aeneus_ (Jordan, 1895)
+- _Meconemus championi_ (Jordan, 1906)
+- _Meconemus consors_ (Jordan, 1906)
+- _Meconemus metallicus_ (Jordan, 1906)
+- _Meconemus tuberculatus_ (Labram & Imhoff, 1838)
 
 ---
 
@@ -196,12 +196,12 @@ _Meconemus tuberculatus_ (Labram & Imhoff, 1838)
 
 **_Brevibarra_ Jordan**
 
-_Brevibarra scotosagis_ Jordan, 1906
+- _Brevibarra scotosagis_ Jordan, 1906
 
 **_Lagopezus_ Dejean**
 
-_Lagopezus morio_ Jordan, 1906
-_Lagopezus tenuicornis_ (Fabricius, 1801)
+- _Lagopezus morio_ Jordan, 1906
+- _Lagopezus tenuicornis_ (Fabricius, 1801)
 
 **_Piesocorynus_ Dejean**
 
@@ -240,7 +240,7 @@ _Lagopezus tenuicornis_ (Fabricius, 1801)
 **_Monocloeus_ Jordan**
 
 - _Monocloeus lioderes_ Jordan, 1906
-- 
+
 **_Strabus_ Jekel**
 
 - _Strabus carbonarius_ (Jordan, 1906)
