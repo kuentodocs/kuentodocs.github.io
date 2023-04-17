@@ -84,6 +84,11 @@ According to [Orellana & Barrios (2021)](https://www.researchgate.net/publicatio
 [**_Eugonodes_ Jordan**](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/eugonodes/)
 
 - _Eugonodes brevirostris_ Jordan, 1904
+
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_lateral_edited_1608928771.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/basitropini/#eugonodes-jordan-1904-302) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_dorsal_edited_1609004155.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611354)| 
+|:--:| 
+|_Eugonodes brevirostris_ Jordan: 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+
  
 [**_Eugonus_ Schoenherr**](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/eugonus/)
 
@@ -91,6 +96,11 @@ According to [Orellana & Barrios (2021)](https://www.researchgate.net/publicatio
 - _Eugonus particolor_ Jordan, 1904
 - _Eugonus robustus_ Jordan, 1904
 - _Eugonus subcylindricus_ Fahraeus, 1839
+
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_lateral_edited_1637802470.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015364_dorsal_edited_1637803702.jpg" alt="Eugonus particolor" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=653004)| 
+|:--:| 
+|_Eugonus particolor_ Jordan: 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+
 
 [**_Phaenithon_ Schoenherr**](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/phaenithon/)
 
@@ -109,6 +119,11 @@ According to [Orellana & Barrios (2021)](https://www.researchgate.net/publicatio
 - _Phaenithon plagiatus_ Boheman, 1833
 - _Phaenithon semigriseus_ (Germar, 1824)
 - _Phaenithon uncinatus_ Jordan, 1906
+
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014482_lateral_edited_1627430202.jpg" alt="Phaenithon curvipes" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=616665)| 
+|:--:| 
+|_Phaenithon curvipes_ (Germar): 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+
 
 ---
 
@@ -143,7 +158,7 @@ According to [Orellana & Barrios (2021)](https://www.researchgate.net/publicatio
 - _Euparius stratus_ Jordan, 1937
 - _Euparius suturalis_ Jordan, 1904
 - _Euparius tapirus_ (Labram & Imhoff, 1841)
-- _Euparius torqutus_ (Jekel, 1855)
+- _Euparius torquatus_ (Jekel, 1855)
 
 ---
 
