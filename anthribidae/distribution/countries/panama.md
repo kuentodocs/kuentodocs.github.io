@@ -345,7 +345,9 @@ _Lagopezus tenuicornis_ (Fabricius, 1801)
 
 #### Tribe Araecerini
 
-**_Araecerus_ Schoenherr**
+**_Araecerus_ Schoenherr** 
+Introduced 
+{: .label .label-yellow }
 
 - _Araecerus fasciculatus_ (DeGeer, 1775)
 
