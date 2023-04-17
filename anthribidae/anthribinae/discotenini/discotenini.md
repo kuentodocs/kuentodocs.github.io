@@ -30,7 +30,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-## _Discotenes_ Labram & Imhoff, 1841: f.8
+## [_Discotenes_ Labram & Imhoff, 1841: f.8](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenes/#discotenes-arizonica-schaeffer-1906-269)
 (8 species)
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014210_lateral_edited_1629252381.jpg" alt="Discotenes cylindratus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=610735) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014210_dorsal_edited_1637864656.jpg" alt="Discotenes cylindratus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=610735) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014210_frontal_edited_1637864858.jpg" alt="Discotenes cylindratus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=610735) | 
