@@ -147,7 +147,7 @@ According to [Orellana & Barrios (2021)](https://www.researchgate.net/publicatio
 
 #### Tribe Cratoparini
 
-**_Euparius_ Schoenherr**
+[**_Euparius_ Schoenherr**](https://anthribidae.github.io/anthribidae/anthribinae/cratoparini/euparius/)
 
 - _Euparius ajax_ (Jekel, 1855)
 - _Euparius clitelliger_ (Fahraeus, 1839)
@@ -387,7 +387,6 @@ Introduced
 - _Holostilpna globosa_ Jordan, 1906
 
 ---
-
 
 {: .highlight }
 Updated: April 16, 2023 by **Samanta Orellana**.
