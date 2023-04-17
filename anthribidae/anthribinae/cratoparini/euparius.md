@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Euparius Schoenherr
-parent: Corrhecerini
+parent: Cratoparini
 grand_parent: Anthribinae
 has_children: false
 ---
