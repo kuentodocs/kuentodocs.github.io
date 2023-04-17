@@ -31,6 +31,24 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 
 ---
 
+## _Phaenithon albosparsus_ Labram & Imhoff, 1841: 162
+
+**Distribution**. Panama, French Guiana [type].
+
+---
+
+## _Phaenithon bajulus_ Jekel, 1855: 142
+
+**Distribution**. Panama, French Guiana [type].
+
+---
+
+## _Phaenithon baseopagus_ Jordan, 1937
+
+**Distribution**. Panama, Brazil [type].
+
+---
+
 ## _Phaenithon caeruleus_ Jordan, 1906: 360
 
 **Distribution**. Panama.
@@ -65,6 +83,55 @@ Type species
 
 ---
 
+## _Phaenithon gravis_ Fahraeus, 1839: 262
+
+**Distribution**. Costa Rica, Panama, Colombia, Venezuela, Bolivia, Brazil [type].
+
+---
+
+## _Phaenithon irroratus_ Jekel, 1855: 144
+
+**Distribution**. Panama, Brazil [type].
+
+---
+
+## _Phaenithon jucundus_ Jordan, 1906: 359
+
+**Distribution**. Guatemala [type], Panama.
+
+---
+
+## _Phaenithon laevipenis_ Jordan, 1904: 293
+
+**Distribution**. Panama, Surinam [type], Brazil.
+
+---
+
+## _Phaenithon nigropunctum_ Fahraeus, 1839: 261
+
+**Distribution**. Panama, French Guiana [type].
+
+---
+
+## _Phaenithon pardalis_ Jordan, 1906: 360
+
+
+**Distribution**. Panama [type].
+
+---
+
+## _Phaenithon perfectus_ Jordan, 1937: 249
+
+**Distribution**. Costa Rica, Panama, Brazil [type].
+
+---
+
+## _Phaenithon plagiatus_ Boheman, 1833: 159
+
+**Distribution**. Mexico, Nicaragua, Panama, Brazil [type].
+
+---
+
 ## _Phaenithon platanum_ (Schaeffer, 1906: 273)
 
 **Distribution**. United States of America.
@@ -82,6 +149,12 @@ Type species
 |[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126118_lateral_edited_1589048575.jpg" alt="Phaenithon semigriseus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=610004) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUHIC/ASUHIC0126/ASUHIC0126118_dorsal_edited_1589048615.jpg" alt="Phaenithon semigriseus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=610004)|
 |:--:| 
 |_Phaenithon semigriseus_ (Germar): 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+
+---
+
+## _Phaenithon uncinatus_ Jordan, 1906: 358
+
+**Distribution**. Nicaragua [type], Panama.
 
 ---
 
