@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nemotrichus Schoenherr
+title: Nemotrichus Labram & Imhoff
 parent: Corrhecerini
 grand_parent: Anthribinae
 has_children: false
