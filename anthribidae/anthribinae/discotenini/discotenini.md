@@ -83,7 +83,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-## _Eucyclotropis_ Jordan, 1904: 273
+## [_Eucyclotropis_ Jordan, 1904: 273](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/eucyclotropis/)
 (5 species)
 
 | [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0013801_habitus_lateral__1429125594_web.jpg" alt="Eucyclotropis barynotus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341049)  [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0013801_habitus_dorsal_1_1429125593_web.jpg" alt="Eucyclotropis barynotus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341049)   
