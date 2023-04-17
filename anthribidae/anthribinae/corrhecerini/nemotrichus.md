@@ -31,25 +31,25 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 
 ---
 
-## _Nemotrchus angulatus_ Jordan, 1906: 352
+## _Nemotrichus angulatus_ Jordan, 1906: 352
 
-**Distribution**. Panama.
+**Distribution**. Panama [type].
 
 ---
 
-## _Nemotrchus armatus_ Jordan, 1904: 267
+## _Nemotrichus armatus_ Jordan, 1904: 267
 
 **Distribution**. Nicaragua, Costa Rica.
 
 ---
 
-## _Nemotrchus barbicornis_ (Fabricius, 1801: 406)
+## _Nemotrichus barbicornis_ (Fabricius, 1801: 406)
 
 **Distribution**. South America.
 
 ---
 
-## _Nemotrchus dorsomaculatus_ Jekel, 1855: 134
+## _Nemotrichus dorsomaculatus_ Jekel, 1855: 134
 
 **Distribution**. Nicaragua, Panama, Guyana.
 
@@ -59,31 +59,31 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 
 ---
 
-## _Nemotrchus fuscus_ Jordan, 1904: 269
+## _Nemotrichus fuscus_ Jordan, 1904: 269
 
-**Distribution**. Brazil.
+**Distribution**. Brazil [type].
 
 ---
 
-## _Nemotrchus inermis_ Jordan, 1906: 353
+## _Nemotrichus inermis_ Jordan, 1906: 353
 
 **Distribution**. Mexico, Nicaragua, Panama.
 
 ---
 
-## _Nemotrchus jekeli_ Pascoe, 1859: 329
+## _Nemotrichus jekeli_ Pascoe, 1859: 329
 
 **Distribution**. Ecuador, Peru, Brazil.
 
 ---
 
-## _Nemotrchus niger_ Jordan, 1904: 268
+## _Nemotrichus niger_ Jordan, 1904: 268
 
-**Distribution**. Brazil.
+**Distribution**. Brazil [type].
 
 ---
 
-## _Nemotrchus obtusus_ Jordan, 1904: 269
+## _Nemotrichus obtusus_ Jordan, 1904: 269
 
 **Distribution**. Brazil, Bolivia.
 
@@ -93,29 +93,29 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 Type species
 {: .label .label-red }
 
-**Distribution**. Panama, Guyana.
+**Distribution**. Panama, Guyana [type].
 
 ---
 
-## _Nemotrchus poecilus_ Jordan, 1904: 268
+## _Nemotrichus poecilus_ Jordan, 1904: 268
 
-**Distribution**. Brazil.
+**Distribution**. Brazil [type].
 
 ---
 
-## _Nemotrchus spilotus_ Jordan, 1906: 353
+## _Nemotrichus spilotus_ Jordan, 1906: 353
+
+**Distribution**. Panama [type].
+
+---
+
+## _Nemotrichus teliger_ Jordan, 1906: 353
 
 **Distribution**. Panama.
 
 ---
 
-## _Nemotrchus teliger_ Jordan, 1906: 353
-
-**Distribution**. Panama.
-
----
-
-## _Nemotrchus vitticollis_ Jordan, 1904: 268
+## _Nemotrichus vitticollis_ Jordan, 1904: 268
 
 **Distribution**. Guyana.
 
