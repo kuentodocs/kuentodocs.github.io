@@ -31,7 +31,7 @@ Species and distribution according to [Rheinheimer (2004](https://www.zobodat.at
 
 ## _Eugonodes brevirostris_ Jordan, 1904: 302 
 
-**Distribution.** Panama, Brazil.
+**Distribution.** Panama, Brazil [type].
 
 |[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_lateral_edited_1608928771.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611354) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014290_dorsal_edited_1609004155.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=611354)|
 |:--:| 
