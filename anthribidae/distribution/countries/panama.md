@@ -164,10 +164,14 @@ According to [Orellana & Barrios (2021)](https://www.researchgate.net/publicatio
 
 #### Tribe Discotenini
 
-**_Discotenes_ Labram & Imhoff**
+[**_Discotenes_ Labram & Imhoff**](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenes/)
 
 - _Discotenes cylindratus_ Jordan, 1906
 - _Discotenes picticollis_ Jordan, 1906
+
+|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014210_lateral_edited_1629252381.jpg" alt="Discotenes cylindratus"  width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=610735) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014210_dorsal_edited_1637864656.jpg" alt="Discotenes cylindratus marmoreus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=610735)|
+|:--:| 
+|_Discotenes cylindratus_ Jordan: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana
 
 ---
 
