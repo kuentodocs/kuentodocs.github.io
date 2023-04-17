@@ -19,7 +19,7 @@ Species and distribution according to [Rheinheimer (2004)](https://www.zobodat.a
 
 **Diversity.** 73 described species
 
-[Back to Cratoparini](https://anthribidae.github.io/anthribidae/anthribinae/cratoparini/cratoparini/){: .btn .btn-blue}
+[Back to Discotenini](https://anthribidae.github.io/anthribidae/anthribinae/discotenini/discotenini/){: .btn .btn-blue}
 
 ---
 
