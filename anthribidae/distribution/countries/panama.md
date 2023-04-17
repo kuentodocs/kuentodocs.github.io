@@ -70,26 +70,29 @@ Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae ar
 
 ---
 
-## Checklist
+## Checklist of the Anthribidae of Panama
 
-### Subfamily Anthribinae Billberg
+According to [Orellana & Barrios (2021)](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera).
+
+### Subfamily Anthribinae 
+
 ---
 
 #### Tribe Basitropini 
----
 
-**_Eugonodes_ Jordan**
 
-- _Eugonodes brevirostris_ Jordan
+[**_Eugonodes_ Jordan**](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/eugonodes/)
+
+- _Eugonodes brevirostris_ Jordan, 1904
  
-**_Eugonus_ Schoenherr**
+[**_Eugonus_ Schoenherr**](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/eugonus/)
 
 - _Eugonus decorus_ Jordan, 1906
 - _Eugonus particolor_ Jordan, 1904
 - _Eugonus robustus_ Jordan, 1904
 - _Eugonus subcylindricus_ Fahraeus, 1839
 
-**_Phaenithon_ Schoenherr**
+[**_Phaenithon_ Schoenherr**](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/phaenithon/)
 
 - _Phaenithon bajulus_ Jekel, 1855
 - _Phaenithon baseopagus_ Jordan, 1937
@@ -110,13 +113,13 @@ Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae ar
 ---
 
 #### Tribe Corrhecerini
----
 
-**_Corrhecerus_ Shoenherr**
+
+[**_Corrhecerus_ Schoenherr**](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/corrhecerus/)
 
 - _Corrhecerus hector_ Jekel, 1855
 
-**_Nemotrichus_ Labram & Imhoff**
+[**_Nemotrichus_ Labram & Imhoff**](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/nemotrichus/)
 
 - _Nemotrichus angulatus_ Jordan, 1906
 - _Nemotrichus dorsomaculatus_ Jekel, 1955
@@ -129,41 +132,210 @@ Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae ar
 
 #### Tribe Cratoparini
 
+**_Euparius_ Schoenherr**
+
+- _Euparius ajax_ (Jekel, 1855)
+- _Euparius clitelliger_ (Fahraeus, 1839)
+- _Euparius luridus_ (Fahraeus, 1839)
+- _Euparius polius_ Jordan, 1904
+- _Euparius rufus_ Jordan, 1904
+- _Euparius similis_ Jordan, 1904
+- _Euparius stratus_ Jordan, 1937
+- _Euparius suturalis_ Jordan, 1904
+- _Euparius tapirus_ (Labram & Imhoff, 1841)
+- _Euparius torqutus_ (Jekel, 1855)
+
 ---
 
 #### Tribe Discotenini
+
+**_Discotenes_ Labram & Imhoff**
+
+- _Discotenes cylindratus_ Jordan, 1906
+- _Discotenes picticollis_ Jordan, 1906
 
 ---
 
 #### Tribe Gymnognathini
 
+
+**_Domoptolis_ Jordan**
+
+- _Domoptolis championi_ Jordan, 1906
+
+**_Gymnognathus_ Schoenherr**
+
+- _Gymnognathus ampulla_ Jordan, 1906
+- _Gymnognathus calus_ Jordan, 1906
+- _Gymnognathus claudia_ Jordan, 1906
+- _Gymnognathus coronatus_ Jordan, 1904
+- _Gymnognathus daguanus_ Jordan, 1897
+- _Gymnognathus hedys_ Jordan, 1937
+- _Gymnognathus lyrestes_ Jordan, 1937
+- _Gymnognathus ophiopsis_ Dalman, 1833
+- _Gymnognathus polius_ Jordan, 1906
+- _Gymnognathus pulcher_ Jordan, 1906
+- _Gymnognathus ruficlava_ Jordan, 1906
+- _Gymnognathus thecla_ Jordan, 1906
+
 ---
 
 #### Tribe Ishcnocerini
+
+**_Meconemus_ Labram & Imhoff**
+
+_Meconemus aeneus_ (Jordan, 1895)
+_Meconemus championi_ (Jordan, 1906)
+_Meconemus consors_ (Jordan, 1906)
+_Meconemus metallicus_ (Jordan, 1906)
+_Meconemus tuberculatus_ (Labram & Imhoff, 1838)
 
 ---
 
 #### Tribe Piesocorynini
 
+**_Brevibarra_ Jordan**
+
+_Brevibarra scotosagis_ Jordan, 1906
+
+**_Lagopezus_ Dejean**
+
+_Lagopezus morio_ Jordan, 1906
+_Lagopezus tenuicornis_ (Fabricius, 1801)
+
+**_Piesocorynus_ Dejean**
+
+- _Piesocorynus aspis_ (Erichson, 1847)
+- _Piesocorynus brevis_ (Jordan, 1904)
+- _Piesocorynus dimidiatus_ (Jordan, 1906)
+- _Piesocorynus homoeus_ (Jordan, 1904)
+- _Piesocorynus lateralis_ (Jordan, 1906)
+- _Piesocorynus obliquus_ Frieser, 1978
+- _Piesocorynus occipitalis_ (Jordan, 1906)
+- _Piesocorynus plagifer_ (Jordan, 1904)
+- _Piesocorynus simplex_ (Jordan, 1906)
+- _Piesocorynus strigifer_ (Jordan, 1906)
+- _Piesocorynus tristis_ (Jekel, 1855)
+
+**_Piezobarra_ Jordan**
+
+- _Piezobarra sparsilis_ (Jordan, 1906)
+
 ---
 
 #### Tribe Platyrhinini
+
+
+**_Anthiera_ Alonso-Zarazaga & Lyal**
+
+- _Anthiera oculata_ (Jordan, 1906)
+
+**_Homocloeus_ Jordan**
+
+- _Homocloeus concolor_ Jordan, 1904
+- _Homocloeus femoralis_ Jordan, 1906
+- _Homocloeus pardalis_ Jordan, 1906
+- _Homocloeus xanthopus_ Jordan, 1906
+
+**_Monocloeus_ Jordan**
+
+- _Monocloeus lioderes_ Jordan, 1906
+- 
+**_Strabus_ Jekel**
+
+- _Strabus carbonarius_ (Jordan, 1906)
+- _Strabus curvatus_ (Jordan, 1906)
+- _Strabus fractus_ (Jordan, 1906)
+- _Strabus funereus_ (Jordan, 1906)
+- _Strabus insignis_ (Jordan, 1906)
+- _Strabus inversus_ (Jordan, 1906)
+- _Strabus laticeps_ (Jordan, 1906)
+- _Strabus nanus_ (Jordan, 1906)
+- _Strabus niger_ (Jordan, 1906)
+- _Strabus politus_ (Jordan, 1906)
+- _Strabus pusillus_ (Jordan, 1906)
+- _Strabus reflexus_ (Jordan, 1906)
+- _Strabus tarsalis_ (Jordan, 1904)
+- _Strabus triruptus_ Wolfrum, 1933
+- _Strabus umbrinus_ (Jordan, 1904)
 
 ---
 
 #### Tribe Platystomini
 
+
+**_Toxonotus_ Lacordaire**
+
+- _Toxonotus apicalis_ (Jordan, 1906)
+- _Toxonotus bipunctatus_ (Schaeffer, 1904)
+- _Toxonotus championi_ (Jordan, 1906)
+- _Toxonotus farinatus_ (Jordan, 1904)
+- _Toxonotus grammicus_ (Jordan, 1906)
+- _Toxonotus penicellatus_ (Schaeffer, 1904)
+- _Toxonotus pistor_ (Jordan, 1906)
+- _Toxonotus plagicollis_ (Jordan, 1906)
+- _Toxonotus stephanus_ (Jordan, 1906)
+- _Toxonotus vagus_ (Jordan, 1906)
+
 ---
 
 #### Tribe Ptychoderini
+
+
+**_Hypselotropis_ Jekel**
+
+- _Hypselotropis albata_ Jordan, 1895
+
+**_Ptychoderes_ Schoenherr**
+
+- _Ptychoderes brevis_ Jordan, 1894
+- _Ptychoderes jordani_ Frieser, 1959
+- _Ptychoderes mixtus_ Jekel, 1855
+- _Ptychoderes nebulosus_ (Olivier, 1795)
+- _Ptychoderes rugicollis_ Jordan, 1895
 
 ---
 
 #### Tribe Stenocerini
 
+
+**_Allandrus_ LeConte**
+
+- _Allandrus angulatus_ Jordan, 1906
+
+**_Stenocerus_ Schoenherr**
+
+- _Stenocerus angulicollis_ Jekel, 1855
+- _Stenocerus frontalis_ Gyllenhal, 1833
+- _Stenocerus longulus_ Jekel, 1855
+- _Stenocerus nigrotessellatus_ Blanchard, 1846
+
 ---
 
 #### Tribe Zygaenodini
+
+
+**_Eusphyrus_ LeConte**
+
+- _Eusphyrus directus_ Wolfrum, 1929
+- _Eusphyrus laevicollis_ Jordan, 1906
+- _Eusphyrus laevicollis_ Jordan, 1906
+- _Eusphyrus ros_ Jordan, 1906
+- _Eusphyrus tenuis_ Jordan, 1906
+- _Eusphyrus unicolor_ Jordan, 1906
+
+**_Ormiscus_ Waterhouse**
+
+- _Ormiscus guttatus_ Jordan, 1906
+- _Ormiscus lateralis_ Jordan, 1906
+- _Ormiscus laticollis_ Jordan, 1906
+- _Ormiscus nigrinus_ Jordan, 1906
+- _Ormiscus pardus_ Jordan, 1906
+- _Ormiscus tigrinus_ Jordan, 1906
+
+**_Scymonpis_ Jordan**
+
+- _Scymnopis anthrenus_ Jordan, 1906
 
 ---
 
@@ -173,12 +345,31 @@ Currently, 134 species, 30 genera, 14 tribes and 2 subfamilies of Anthribidae ar
 
 #### Tribe Araecerini
 
+**_Araecerus_ Schoenherr**
+
+- _Araecerus fasciculatus_ (DeGeer, 1775)
+
+**_Neoxenus_ Valentine**
+
+- _Neoxenus ater_ (Jordan, 1906)
+- _Neoxenus versicolor_ Valentine, 1998
+
 ---
 
 #### Tribe Choragini
+
+**_Dysnos_ Schoenherr**
+
+- _Dysnos brevis_ Jordan, 1906
+- _Dysnos rufipes_ Jordan, 1906
+
+**_Holostilpna_ Jordan**
+
+- _Holostilpna glabra_ Jordan, 1906
+- _Holostilpna globosa_ Jordan, 1906
 
 ---
 
 
 {: .highlight }
-Updated: March 23, 2023 by **Samanta Orellana**.
+Updated: April 16, 2023 by **Samanta Orellana**.
