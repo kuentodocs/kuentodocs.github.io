@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Anthribini
+title: Incertae Sedis
 parent: Anthribinae
 grand_parent: Classification
 has_children: false
-nav_order: 1
+nav_order: 28
 ---
 
 
-# Tribe Anthribini Billberg
+# Tribe Anthribinae Incertae Sedis
 
-Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
+Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
 {: .fs-5 .fw-300 }
 
 ---
@@ -21,43 +21,14 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 1. TOC
 {:toc}
 
----
+## _Gynarchaeus_ Holloway, 1982: 39
+(1 species)
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015351_dorsal_edited_1608612310.jpg" alt="Anthribus nebulosus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650093) [<img src="https://storage.idigbio.org/portals/scan/misc/201504/ASUHIC0079276_habitus_lateral__1429125454_web.jpg" alt="Streneoderma contemptum" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=348888) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015228_lateral_edited_1610169538.jpg" alt="Streneoderma planatum" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=629017)  | 
+| [<img src="https://ecdysis.org/imglib/ecdysis/Anthribidae/202305/NZAC_Gynarchaeusfemale_lateral_1684179632.jpg" alt="Gynarchaeus ornatus" width="320" height="213.4">](https://ecdysis.org/imagelib/imgdetails.php?imgid=304516)  | 
 |:--:| 
-|**Diversity of Anthribini**. 1.) *Anthribus nebulosus* Forster, dorsal view. 2.) _Streneoderma contemptum_ Blackburn, lateral view. 3.) _Streneoderma planatum_ Blackburn, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana and ASUHIC.|
+|_Gynarchaeus ornatus_ (Sharp) : 1.) lateral view. Specimen deposited at New Zealand Arthropod Collecion (NZAC), on loan at Arizona State University Biocollections (2023-2025). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal. Images: Samanta Orellana|
 
----
-
-## _Anthribus_ Geoffroy, 1762: 306
-(6 species)
-
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015351_dorsal_edited_1608612310.jpg" alt="Anthribus nebulosus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650093)  | 
+|<img src="https://www.simplemappr.net/map/20708" alt="" />| 
 |:--:| 
-|_Anthribus nebulosus_ Forster : 1.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana|
+|Known distribution of _Gynarchaeus_ Holloway. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
-|<img src="https://www.simplemappr.net/map/18214" alt="" />| 
-|:--:| 
-|Known distribution of _Anthribus_ Geoffroy. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
-
----
-
-## _Opanthribus_ Schilsky, 1907: 74
-(14 species)
-
-|<img src="https://www.simplemappr.net/map/18216" alt="" />| 
-|:--:| 
-|Known distribution of _Opanthribus_ Schilsky. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
-
----
-
-## _Streneoderma_ Blackburn, 1900: 157
-(3 species)
-
-| [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079276_habitus_lateral__1429125454_web.jpg" alt="Streneoderma contemptum" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=348888) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079276_habitus_dorsal_1_1429125453_web.jpg" alt="Streneoderma contemptum" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=348888)  | 
-|:--:| 
-|_Streneoderma contemptum_ Blackburn : 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: ASUHIC. |
-
-|<img src="https://www.simplemappr.net/map/18215" alt="" />| 
-|:--:| 
-|Known distribution of _Streneoderma_ Blackburn. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
