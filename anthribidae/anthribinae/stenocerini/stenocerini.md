@@ -65,6 +65,15 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
+## _Helmoreus_ Holloway, 1982: 66
+(8 species)
+
+|<img src="https://www.simplemappr.net/map/20737" alt="" />| 
+|:--:| 
+|Known distribution of _Lophus_ Holloway. Source: [Holloway (1982)](https://www.biotaxa.org/fnz/article/view/fnz.3) and [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
+
 ## _Plintheria_ Pascoe, 1859: 435
 (19 species)
 
