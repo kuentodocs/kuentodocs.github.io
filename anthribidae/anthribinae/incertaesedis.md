@@ -21,6 +21,26 @@ Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of spe
 1. TOC
 {:toc}
 
+---
+
+## _Androporus_ Holloway, 1982: 111
+(5 species)
+
+|<img src="https://www.simplemappr.net/map/20738" alt="" />|  
+|:--:| 
+|Known distribution of _Androporus_ Holloway. Source: [Holloway (1982)](https://www.biotaxa.org/fnz/article/view/fnz.3) and [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
+
+## _Anthribidus_ Fahraeus, 1971: 441
+(2 species)
+
+|<img src="https://www.simplemappr.net/map/20739" alt="" />|  
+|:--:| 
+|Known distribution of _Anthribidus_ Fahraeus. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
+
 ## _Gynarchaeus_ Holloway, 1982: 39
 (1 species)
 
@@ -32,12 +52,16 @@ Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of spe
 |:--:| 
 |Known distribution of _Gynarchaeus_ Holloway. Source: [Holloway (1982)](https://www.biotaxa.org/fnz/article/view/fnz.3) and [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
+---
+
 ## _Hoplorhaphus_ Holloway, 1982: 62
 (2 species)
 
 |<img src="https://www.simplemappr.net/map/20736" alt="" />|  
 |:--:| 
-|Known distribution of _Lophus_ Holloway. Source: [Holloway (1982)](https://www.biotaxa.org/fnz/article/view/fnz.3) and [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Hoplorhaphus_ Holloway. Source: [Holloway (1982)](https://www.biotaxa.org/fnz/article/view/fnz.3) and [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
 
 ## _Lophus_ Holloway, 1982: 42
 (3 species)
@@ -46,6 +70,8 @@ Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of spe
 |:--:| 
 |Known distribution of _Lophus_ Holloway. Source: [Holloway (1982)](https://www.biotaxa.org/fnz/article/view/fnz.3) and [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
+---
+
 ## _Pleosporius_ Holloway, 1982: 48
 (1 species)
 
@@ -53,9 +79,13 @@ Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of spe
 |:--:| 
 |Known distribution of _Pleosporius_ Holloway. Source: [Holloway (1982)](https://www.biotaxa.org/fnz/article/view/fnz.3) and [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
+---
+
 ## _Sharpius_ Holloway, 1982: 52
 (5 species)
 
 |<img src="https://www.simplemappr.net/map/20735" alt="" />| 
 |:--:| 
 |Known distribution of _Sharpius_ Holloway. Source: [Holloway (1982)](https://www.biotaxa.org/fnz/article/view/fnz.3) and [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
