@@ -39,6 +39,6 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 |<img src="https://www.simplemappr.net/map/19876" alt="" />| 
 |:--:| 
-|Known distribution of _Anthribus_ Geoffroy. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf) and [Hoebeke et al. (2019)](https://doi.org/10.1649/0010-065X-73.4.1013). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Ozotomerus_ Perroud. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf) and [Hoebeke et al. (2019)](https://doi.org/10.1649/0010-065X-73.4.1013). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ---
