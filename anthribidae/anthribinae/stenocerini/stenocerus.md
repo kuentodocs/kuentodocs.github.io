@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stenocerus Schoenherr
-parent: Basitropini
+parent: Stenocerini
 grand_parent: Anthribinae
 has_children: false
 ---
