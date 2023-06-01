@@ -29,13 +29,19 @@ Species and distribution according to [Rheinheimer (2004](https://www.zobodat.at
 
 ---
 
+|<img src="https://www.simplemappr.net/map/19118?legend=false" alt="" />|
+|:--:| 
+|_Stenocerus angulicollis_ Jekel: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+
+---
+
 ## _Stenocerus angulicollis_ Jekel, 1855: 114 
 
 **Distribution.** Brazil [type].
 
 |[<img src="https://ecdysis.org/imglib/storage/portals/scan/misc/201511/ASUHIC0070878_habitus_lateral__1446498481_web.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=340338) [<img src="https://ecdysis.org/imglib/storage/portals/scan/misc/201511/ASUHIC0070878_habitus_dorsal_1_1446498481_web.jpg" alt="Eugonodes brevirostris" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=340338)|
 |:--:| 
-|_Stenocerus angulicollis_ Jekel: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|Known distribution of Stenocerus Schoenherr. Source: Rheinhemer (2004). Map: Samanta Orellana, generated with [SimpleMappr.net](SimpleMappr.net).|
 
 ---
 
