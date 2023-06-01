@@ -10,7 +10,7 @@ nav_order: 21
 
 # Tribe Stenocerini Kolbe
 
-Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
+Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf) and [Paez & Mermudes (2018)](https://www.researchgate.net/publication/327581045_Four_new_species_and_new_synonymy_in_Stenocerus_Schoenherr_1826_Coleoptera_Anthribidae_Anthribinae_Stenocerini).
 {: .fs-5 .fw-300 }
 
 ---
@@ -29,8 +29,8 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-## _Stenocerus_ Schoenherr, 1826: 39
-(8 species)
+## [_Stenocerus_ Schoenherr, 1826: 39](https://anthribidae.github.io/anthribidae/anthribinae/stenocerini/stenocerus/)
+(11 species)
 
 | [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201511/ASUHIC0070878_habitus_lateral__1446498481_web.jpg" alt="Stenocerus angulicollis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=340338) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201511/ASUHIC0070878_habitus_dorsal_1_1446498481_web.jpg" alt="Stenocerus angulicollis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=340338)    
 |:--:| 
