@@ -31,7 +31,7 @@ Species and distribution according to [Rheinheimer (2004](https://www.zobodat.at
 
 |<img src="https://www.simplemappr.net/map/19118?legend=false" alt="" />|
 |:--:| 
-|_Stenocerus angulicollis_ Jekel: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](gbif.org). Images: Samanta Orellana.|
+|Known distribution of Stenocerus Schoenherr. Source: Rheinhemer (2004). Map: Samanta Orellana, generated with SimpleMappr.net|
 
 ---
 
