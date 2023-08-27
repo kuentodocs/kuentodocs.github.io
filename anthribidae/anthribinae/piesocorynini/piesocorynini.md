@@ -21,9 +21,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 1. TOC
 {:toc}
 
-|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015376_lateral_edited_1651988221.jpg" alt="Piesocorynus plagifer" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=651691) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070972_habitus_lateral__1432931340_web.jpg" alt="Brachycorynus distentus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341777) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027400_lateral_edited_1662749208.jpg" alt="Brevibarra" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=739850) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015242_lateral_edited_1613842075.jpg" alt="Lagopezus tenuicornis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=629155)| 
+|[<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015376_lateral_edited_1651988221.jpg" alt="Piesocorynus plagifer" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=651691) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201505/ASUHIC0070972_habitus_lateral__1432931340_web.jpg" alt="Brachycorynus distentus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=341777) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027400_lateral_edited_1662749208.jpg" alt="Brevibarra" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=739850) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015242_lateral_edited_1613842075.jpg" alt="Lagopezus tenuicornis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=629155)[<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015531_lateral_edited_1693158535.jpg" alt="Phaenotheriopsis conciliatus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=699558)| 
 |:--:| 
-|**Diversity of Piesocorynini.** 1.) _Piesocorynus plagifer_ Jordan, lateral view. 2.) _Brachycorynus distentus_ (Frieser), lateral view. 3.) _Brevibarra_ sp. Jordan, lateral view. 4. *Lagopezus tenuicornis* (Fabricius) . Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana and ASUHIC.|
+|**Diversity of Piesocorynini.** 1.) _Piesocorynus plagifer_ Jordan, lateral view. 2.) _Brachycorynus distentus_ (Frieser), lateral view. 3.) _Brevibarra_ sp. Jordan, lateral view. 4.) *Lagopezus tenuicornis* (Fabricius). 5.) _Phaenotheriopsis conciliatus_ Valentine. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana and ASUHIC.|
 
 ---
 
@@ -99,6 +99,11 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ## _Phaenotheriopsis_ Wolfrum, 1931: 70
 (6 species)
+
+|[<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015531_lateral_edited_1693158535.jpg" alt="Phaenotheriopsis conciliatus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=699558) [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015531_dorsal_edited_1693158776.jpg" alt="Phaenotheriopsis conciliatus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=699558)| 
+|:--:| 
+|_Phaenotheriopsis conciliatus_ Valentine: 1.) lateral view, 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+
 
 |<img src="https://www.simplemappr.net/map/19144" alt="" />| 
 |:--:| 
