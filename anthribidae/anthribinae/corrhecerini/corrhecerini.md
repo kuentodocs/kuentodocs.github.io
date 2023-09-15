@@ -23,14 +23,19 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015243_lateral_edited_1637888538.jpg" alt="Nemotrichus dorsomaculatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=629156) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079279_habitus_lateral__1429125469_web.jpg" alt="Nemotrichus inermis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=348930) | 
+| [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0028782_lateral_edited_1694804312.jpg" alt="Corrhecerus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=653011) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015243_lateral_edited_1637888538.jpg" alt="Nemotrichus dorsomaculatus" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=629156) [<img src="https://serv.biokic.asu.edu/imglib/storage/portals/scan/misc/201504/ASUHIC0079279_habitus_lateral__1429125469_web.jpg" alt="Nemotrichus inermis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=348930) | 
 |:--:| 
-|**Diversity of Corrhecerini.** 1.) *Nemotrichus dorsomaculatus* Jordan, lateral view. 2.) _Nemotrichus inermis_ Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana and ASUHIC.|
+|**Diversity of Corrhecerini.** 1.) _Corrhecerus_ sp., lateral view. 2.) *Nemotrichus dorsomaculatus* Jordan, lateral view. 3.) _Nemotrichus inermis_ Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana and ASUHIC.|
 
 ---
 
 ## [_Corrhecerus_ Schoenherr, 1826: 40](https://anthribidae.github.io/anthribidae/anthribinae/corrhecerini/corrhecerus)
 (9 species)
+
+|  [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0028782_lateral_edited_1694804312.jpg" alt="Corrhecerus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=653011) [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0028782_dorsal_edited_1694808859.jpg" alt="Corrhecerus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=653011) [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0028782_frontal_edited_1694809745.jpg" alt="Corrhecerus" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=653011) | 
+|:--:| 
+|_Corrhecerus_ sp.: 1.) lateral view. 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana|
+
 
 |<img src="https://www.simplemappr.net/map/18880" alt="" />| 
 |:--:| 
