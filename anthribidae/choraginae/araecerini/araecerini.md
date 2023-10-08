@@ -57,6 +57,15 @@ Note: Rheinhemer mistakes Honduras with Belize (previously known as "_British Ho
 
 ---
 
+## _Aurigeripilus_ Mermudes, 2015: 
+(1 species)
+
+|<img src="https://www.simplemappr.net/map/21737" alt="" />| 
+|:--:| 
+|Known distribution of _Aurigeripilus_ Mermudes. Source: [Mermudes (2015)](https://www.biotaxa.org/Zootaxa/article/view/zootaxa.3918.4.8). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+---
+
 ## _Cyptoxenus_ Valentine, 1982: 197
 (1 species)
 
@@ -76,7 +85,7 @@ Note: Rheinhemer mistakes Honduras with Belize (previously known as "_British Ho
 ---
 
 ## _Neoxenus_ Valentine, 1998: 1135
-(6 species)
+(7 species)
 
 | [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027423_lateral_edited_1638935403.jpg" alt="Neoxenus polius" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740041) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027423_dorsal_edited_1638936310.jpg" alt="Neoxenus polius" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740041) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027423_frontal_edited_1638936335.jpg" alt="Neoxenus polius" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740041)| 
 |:--:| 
@@ -84,4 +93,4 @@ Note: Rheinhemer mistakes Honduras with Belize (previously known as "_British Ho
 
 |<img src="https://www.simplemappr.net/map/18911" alt="" />| 
 |:--:| 
-|Known distribution of _Neoxenus_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+|Known distribution of _Neoxenus_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Mermudes (2015)](https://www.biotaxa.org/Zootaxa/article/view/zootaxa.3918.4.8). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
