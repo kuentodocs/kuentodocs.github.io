@@ -40,7 +40,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |Known distribution of _Apolecta_ Pascoe. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Jordan (1907)](https://www.biodiversitylibrary.org/item/14611#page/393/mode/1up). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
-## _Anacerastes_ Labram & Imhoff, 1840: fasc.6
+## _Anacerastes_ Imhoff, 1838: 33
 (10 species)
 
 |<img src="https://www.simplemappr.net/map/21836" alt="" />| 
