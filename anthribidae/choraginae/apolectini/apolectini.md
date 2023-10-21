@@ -36,8 +36,68 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |:--:| 
 |_Apolecta depressipennis_ Jordan: 1.) lateral view. 2.) dorsal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
-
 |<img src="https://www.simplemappr.net/map/18920" alt="" />| 
 |:--:| 
 |Known distribution of _Apolecta_ Pascoe. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf), [Jordan (1907)](https://www.biodiversitylibrary.org/item/14611#page/393/mode/1up). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
+## _Anacerastes_ Labram & Imhoff, 1840: fasc.6
+(10 species)
+
+|<img src="https://www.simplemappr.net/map/21836" alt="" />| 
+|:--:| 
+|Known distribution of _Anacerastes_ Labram & Imhoff. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+## _Apolectella_ Jordan, 1916: 349
+(6 species)
+
+|<img src="https://www.simplemappr.net/map/21837" alt="" />| 
+|:--:| 
+|Known distribution of _Apolectella_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+## _Batyrhinius_ Fairmaire, 1901: 202
+(1 species)
+
+|<img src="https://www.simplemappr.net/map/21840" alt="" />| 
+|:--:| 
+|Known distribution of _Apolectella_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+## _Caranistes_ Schönherr, 1839: 270
+(29 species)
+
+|<img src="https://www.simplemappr.net/map/21840" alt="" />| 
+|:--:| 
+|Known distribution of _Caranistes_ Schönherr. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+## _Dinephrius_ Jordan, 1924: 227
+(7 species)
+
+|<img src="https://www.simplemappr.net/map/21842" alt="" />| 
+|:--:| 
+|Known distribution of _Dinephrius_ Jordan. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+## _Epicerastes_ Kolbe, 1895: 385
+(16 species)
+
+|<img src="https://www.simplemappr.net/map/21838" alt="" />| 
+|:--:| 
+|Known distribution of _Epicerastes_ Kolbe. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+## _Phrynoidius_ Fairmaire, 1897: 194
+(1 species)
+
+|## _Protomerus_ Fairmaire, 1903: 247
+(1 species)
+
+|<img src="https://www.simplemappr.net/map/21839" alt="" />| 
+|:--:| 
+|Known distribution of _Protomerus_ Fairmaire. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+| 
+|:--:| 
+|Known distribution of _Phrynoidiuss_ Fairmaire. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
+
+## _Protomerus_ Fairmaire, 1903: 247
+(1 species)
+
+|<img src="https://www.simplemappr.net/map/21839" alt="" />| 
+|:--:| 
+|Known distribution of _Protomerus_ Fairmaire. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
