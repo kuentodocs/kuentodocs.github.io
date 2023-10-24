@@ -23,9 +23,22 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027370_lateral_edited_1651938315.jpg" alt="Holostilpna" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740032) | 
+| [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_lateral_edited_1698119533.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027370_lateral_edited_1651938315.jpg" alt="Holostilpna" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740032) | 
 |:--:| 
-|**Diversity of Choragini.** 1.) *Holostilpna* sp. Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+|**Diversity of Choragini.** 1.) Choragus sayi LeConte, lateral view. 2.) *Holostilpna* sp. Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+
+---
+
+## _Choragus_ Kirby, 1819: 447
+(52 species)
+
+| [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_lateral_edited_1698119533.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124)| 
+|:--:| 
+|_Choragus sayi_ LeConte: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+
+|<img src="https://www.simplemappr.net/map/18919" alt="" />| 
+|:--:| 
+|Known distribution of _Choragus_ Kirby. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ---
 
@@ -35,15 +48,6 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 |<img src="https://www.simplemappr.net/map/18916" alt="" />| 
 |:--:| 
 |Known distribution of _Apteroxenus_ Valentine. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
-
----
-
-## _Choragus_ Kirby, 1819: 447
-(52 species)
-
-|<img src="https://www.simplemappr.net/map/18919" alt="" />| 
-|:--:| 
-|Known distribution of _Choragus_ Kirby. Source: [Rheinhemer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf). Map: Samanta Orellana generated with [SimpleMappr.net](https://www.simplemappr.net/) |
 
 ---
 
