@@ -32,9 +32,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 ## _Choragus_ Kirby, 1819: 447
 (52 species)
 
-| [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_lateral_edited_1698119533.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124)| 
+| [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_lateral_edited_1698119533.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124) [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_dorsal_edited_1698122927.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124) [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_frontal_edited_1698123018.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124)| 
 |:--:| 
-|_Choragus sayi_ LeConte: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+|_Choragus sayi_ LeConte: 1.) lateral view, 2.) dorsal view, 3.) frontal view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 |<img src="https://www.simplemappr.net/map/18919" alt="" />| 
 |:--:| 
