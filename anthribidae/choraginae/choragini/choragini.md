@@ -23,9 +23,9 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 ---
 
-| [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_lateral_edited_1698119533.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027370_lateral_edited_1651938315.jpg" alt="Holostilpna" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740032) | 
+| [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015597_lateral_edited_1698119533.jpg" alt="Choragus sayi" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=704124) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0027/ASUCOB0027370_lateral_edited_1651938315.jpg" alt="Holostilpna" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=740032) [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028500_lateral_edited_1682827472.jpg" alt="Pseudochoragus nitens" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=881535) | 
 |:--:| 
-|**Diversity of Choragini.** 1.) Choragus sayi LeConte, lateral view. 2.) *Holostilpna* sp. Jordan, lateral view. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+|**Diversity of Choragini.** 1.) Choragus sayi LeConte, lateral view. 2.) *Holostilpna* sp. Jordan, lateral view. 3.) _Pseudochoragus nitens_ (LeConte). Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 ---
 
@@ -87,7 +87,7 @@ Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net
 
 | [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0028/ASUCOB0028500_lateral_edited_1682827472.jpg" alt="Pseudochoragus nitens" width="320" height="213.4">](https://ecdysis.org/collections/individual/index.php?occid=881535)| 
 |:--:| 
-|_Pseudochoragus nitens_ LeConte: 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
+|_Pseudochoragus nitens_ (LeConte): 1.) lateral view. Specimen deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana.|
 
 |<img src="https://www.simplemappr.net/map/18917" alt="" />| 
 |:--:| 
