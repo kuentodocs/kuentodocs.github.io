@@ -104,6 +104,7 @@ According to [Orellana & Barrios (2021)](https://www.researchgate.net/publicatio
 
 [**_Phaenithon_ Schoenherr**](https://anthribidae.github.io/anthribidae/anthribinae/basitropini/phaenithon/)
 
+- _Phaenithon albosparsus_ Labram & Imhoff, 1841
 - _Phaenithon bajulus_ Jekel, 1855
 - _Phaenithon baseopagus_ Jordan, 1937
 - _Phaenithon caeruleus_ Jordan, 1906
