@@ -1,12 +1,9 @@
 ---
 layout: default
-title: Bedel 1882
-parent: Historic Systems
-grand_parent: Classification
-has_children: false
-nav_order: 1
+title: Previous Systems
+has_children: true
+nav_order: 4
 ---
-
 
 # Bedel, 1882 (OUTDATED)
 
