@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 
-# Subfamily Choraginae Kirby
+# Former Subfamily Choraginae Kirby
 {: .no_toc }
 
 Classification according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001).
