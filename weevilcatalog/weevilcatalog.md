@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Weevil Catalog
-parent: Home
 has_children: true
-nav_order: 1
+nav_order: 3
 ---
 
 # Weevil Collection Catalog
