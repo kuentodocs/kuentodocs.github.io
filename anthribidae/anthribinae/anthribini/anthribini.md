@@ -1,14 +1,42 @@
 ---
 layout: default
-title: Anthribini
-parent: Anthribinae
-grand_parent: Classification
+title: Brachycerini
+parent: Brachycerinae
+grand_parent: KU Weevil Catalog
 has_children: false
 nav_order: 1
 ---
 
+Classification follows to the preliminar version of Beetles of Canada and the US, used during the [Weevil Course and Roundup 2025](https://www.curculionoidea.org/weevil-course-roundup-arizona). Genera position follows Alonso-Zarazaga & Lyal (1999, 2002, 2006, 2017). 
+{: .fs-5 .fw-300 }
 
-# Tribe Anthribini Billberg
+
+## Table of Content
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+# Subtribe Brachycerina Bilberg, 1820
+
+## _Brachycerus_ Olivier, 1789: 36
+(x species)
+
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015348_dorsal_edited_1605579130.jpg" alt="Bagous" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=645279) [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015361_dorsal_edited_1623815867.jpg" alt="Bruchela suturalis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650188) |
+|:--:| 
+|1.) *Bagous spp* (Olivier, 1790: 202), dorsal view. 2.) *Bruchela suturalis* (Fabricius, 1792: 372), dorsal view. Specimens deposited at KU Snow Entomological Collection (KUNHM). Images and data available on [GBIF](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551).|
+
+---
+
+## _Pnigodes_ LeConte, 1876: 188
+(x species)
+
+| [<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015361_dorsal_edited_1623815867.jpg" alt="Bruchela suturalis" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650188) | 
+|:--:| 
+|1.) *Pnigodes spp* (Olivier, 1790: 202), dorsal view. 2.) *Bruchela suturalis* (Fabricius, 1792: 372), dorsal view. Specimens deposited at KU Snow Entomological Collection (KUNHM). Images and data available on [GBIF](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551).|
+# Tribe Brachycerini Billberg, 1820
 
 Tribes names according to [Bouchard _el al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001). Classification follows mostly Alonso-Zarazaga & Lyal (1999, 2002). Number of species and distribution according to [Rheinheimer (2004)](https://www.zobodat.at/pdf/Mitt-Ent-Ver-Stuttgart_39_2004_0001-0244.pdf).
 {: .fs-5 .fw-300 }
