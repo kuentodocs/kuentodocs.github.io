@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Weevil Catalog
+title: KU Weevil Catalog
 has_children: true
 nav_order: 3
 ---
