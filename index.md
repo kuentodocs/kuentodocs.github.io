@@ -2,21 +2,21 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Anthribidae"
+description: "EntoDocs"
 permalink: /
 ---
 
-# Anthribidae of the World
+# KU Entomology Docs
 {: .fs-9 }
 
-Website dedicated to the family Anthribidae (Coleoptera: Curculionoidea). Created by [Samanta Orellana](https://isearch.asu.edu/profile/3433157). 
+Documentation for day to day tasks. Check oficial KU Entomology website [here](https://biodiversity.ku.edu/entomology). 
 {: .fs-6 .fw-300 }
 
-[Anthribidae Groups](https://anthribidae.github.io/anthribidae/anthribidae/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Anthribidae Catalog](https://anthribidae.github.io/species){: .btn .fs-5 .mb-4 .mb-md-0 } 
-[Anthribidae Data](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2%2C1&taxa=Anthribidae&usethes=1&taxontype=4){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
+[Digitization](https://anthribidae.github.io/anthribidae/anthribidae/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Weevil Collection](https://anthribidae.github.io/species){: .btn .fs-5 .mb-4 .mb-md-0 } 
+[Franz Lab](https://serv.biokic.asu.edu/ecdysis/collections/list.php?db=2%2C1&taxa=Anthribidae&usethes=1&taxontype=4){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
 
 
-<img src="https://serv.biokic.asu.edu/imglib/ecdysis/ASU_ASUCOB/ASUCOB0014/ASUCOB0014307_lateral_edited_1613605757.jpg" alt="Eugonus">
+<img width="1920" height="892" alt="WeevilKU" src="https://github.com/user-attachments/assets/b97e5d0e-d4b6-4541-a738-bc36e7edc3a7" />
 
 
 
