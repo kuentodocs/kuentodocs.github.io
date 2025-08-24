@@ -14,4 +14,4 @@ The KU Snow Entomological Collection (KUNHM) is located at Room 140F in the Ento
 ).
 {: .fs-5 .fw-300 }
 
-
+![EntoCollection](https://github.com/user-attachments/assets/bcba756c-5b88-4369-855c-5c1cfde5a0fe)
