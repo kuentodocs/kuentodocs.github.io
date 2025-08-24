@@ -1,16 +1,17 @@
 ---
 layout: default
-title: Choraginae
-parent: Classification
+title: Collection
+parent: KU Ento
 has_children: true
-nav_order: 2
+nav_order: 1
 ---
 
 
-# Former Subfamily Choraginae Kirby
+# Snow Entomological Collection
 {: .no_toc }
 
-Classification according to [Bouchard _et al._ (2011)](https://zookeys.pensoft.net/articles.php?id=4001), [McKenna _et al. _(2025)](https://doi.org/10.1111/syen.12674), [Imada (2025)](https://www.jstage.jst.go.jp/article/jjsystent/31/1/31_148/_pdf/-char/en).
+The KU Snow Entomological Collection (KUNHM) is located at Room 140F in the Entomology Division. Is currently managed by [Dr. Zack Falin](https://biodiversity.ku.edu/people/zack-falin) and [Dr. Rachel Osborn](https://biodiversity.ku.edu/people/rachel-osborn![EntoCollection](https://github.com/user-attachments/assets/7468d595-31b5-4473-a6de-80d4866157a0)
+).
 {: .fs-5 .fw-300 }
 
 
