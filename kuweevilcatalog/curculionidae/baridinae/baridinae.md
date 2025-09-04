@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Baridinae
-parent: KU Weevil Catalog
+parent: KU Curculionidae
 has_children: true
 nav_order: 3
 ---
