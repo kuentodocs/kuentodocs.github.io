@@ -2,7 +2,7 @@
 layout: default
 title: Franz Lab
 has_children: true
-nav_order: 3
+nav_order: 4
 ---
 
 # Franz Lab of Weevil Systematics
