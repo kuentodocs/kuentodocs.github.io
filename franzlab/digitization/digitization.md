@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Digitization
-parent: KU Ento
+parent: Franz Lab
 has_children: true
 nav_order: 2
 ---
