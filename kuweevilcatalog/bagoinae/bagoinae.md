@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bagoinae
-parent: Weevil Catalog
+parent: KU Curculionidae
 has_children: false
 nav_order: 1
 ---
