@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Ceutorhynchinae
-parent: Weevil Catalog
-has_children: false
-nav_order: 3
+parent: KU Weevil Catalog
+has_children: true
+nav_order: 4
 ---
 
 
