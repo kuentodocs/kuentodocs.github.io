@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Brachycerinae
-parent: Weevil Catalog
-has_children: false
-nav_order: 2
+parent: KU Curculionidae
+has_children: true
+nav_order: 3
 ---
 
 
