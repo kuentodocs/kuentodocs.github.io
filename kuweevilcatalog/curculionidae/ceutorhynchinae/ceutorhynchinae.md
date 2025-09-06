@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ceutorhynchinae
-parent: KU Weevil Catalog
+parent: KU Curculionidae
 has_children: true
 nav_order: 4
 ---
