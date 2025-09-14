@@ -29,24 +29,23 @@ Classification follows to the preliminar version of Beetles of Canada and the US
 ### Madopterina
 ### Zygobaridina
 - _Apinocis_ Lea, 1927 (=_Anacentrinus_ Buchanan, 1932: 330)
-- _Barilepis_
-- _Barilepton_
-- _Barinus_
-- _Buchanianus_ (= _Zaglyptus_)
-- _Calandrinus_
-- _Catapastinus_
-- _Catapastus_
-- _Centrinites_
-- _Centrinogyna_
-- _Centrinopus_
-- _Centrinus_
-- _Cylindridia_
-- _Dirabius_
-- _Eisonyx_
-- _Geraeus_ (= _Centrinaspis_)
-- _Haplostethops_
-- _Idiostehtus_ (_Idiostethops_)
-- _Idiostethus_
+- _Barilepis_ Casey, 1920: 476
+- _Barilepton_ LeConte, 1876: 318
+- _Barinus_ Casey, 1887: 255
+- _Buchanianus_ Kissinger, 1957: 47 (=_Zaglyptus_ LeConte, 1876: 236)
+- _Calandrinus_ LeConte, 1876: 305
+- _Catapastinus_ Champion, 1908: 331
+- _Catapastus_ Casey, 1892: 664
+- _Centrinites_ Casey, 1892: 615
+- _Centrinogyna_ Casey, 1892: 620
+- _Centrinopus_ Casey, 1892: 601
+- _Centrinus_ Schönherr, 1825: c.586
+- _Cylindridia_ Casey, 1920: 493
+- _Dirabius_ Casey, 1920: 471
+- _Eisonyx_ LeConte, 1880: 216
+- _Geraeus_ Pascoe, 1889: 323 (=_Centrinaspis_ Casey, 1920: 391)
+- _Haplostethops_ Casey, 1920: 463
+- _Idiostehtus_ Casey, 1892: 649 (misspelling in collection _Idiostethops_)
 - _Lamprobaris_
 - _Limnobaris_
 - _Linogeraeus_
