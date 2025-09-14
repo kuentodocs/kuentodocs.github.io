@@ -21,7 +21,7 @@ The Franz Lab of Weevil Systematics is led by [Nico Franz](https://biodiversity.
 
 ### [Dr. Samanta Orellana](https://biodiversity.ku.edu/people/samanta-orellana) - Postdoctoral Researcher
 
-<img height="250" alt="Website - Headshot (1)_3" src="https://github.com/user-attachments/assets/0dac8dc8-3c89-4caa-a0fa-2365231da4e1" />
+<img  width="190" height="250" alt="Website - Headshot (1)_3" src="https://github.com/user-attachments/assets/0dac8dc8-3c89-4caa-a0fa-2365231da4e1" />
 
 ### [Madeline Shaw](https://eeb.ku.edu/people/shaw-madeline) - Graduate Student
 
