@@ -2,7 +2,7 @@
 layout: default
 title: Baridinae
 parent: KU Curculionidae
-has_children: true
+has_children: false
 nav_order: 3
 ---
 
