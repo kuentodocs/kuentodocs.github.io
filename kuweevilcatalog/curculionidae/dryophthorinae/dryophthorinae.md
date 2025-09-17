@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conoderinae
+title: Dryophthorinae
 parent: KU Curculionidae
 has_children: true
 nav_order: 10
