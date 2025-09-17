@@ -2,8 +2,8 @@
 layout: default
 title: Entiminae
 parent: KU Curculionidae
-has_children: true
-nav_order: 10
+has_children: false
+nav_order: 11
 ---
 
 
