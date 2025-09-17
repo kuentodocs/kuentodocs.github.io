@@ -15,17 +15,12 @@ Classification follows to the preliminar version of Beetles of Canada and the US
 
 ![001653234_lateral](https://github.com/user-attachments/assets/6939c1a7-7c61-45b9-9a04-a8fb387176ba)
 
-## Table of Content
-{: .no_toc .text-delta }
+---
 
-1. TOC
-{:toc}
-
-
-## Ambatini
-## Apostasimerini
-### Madopterina
-### Zygobaridina
+## Tribe Ambatini Lacordaire, 1863
+## Tribe Apostasimerini Schoenherr, 1844
+### Tribe Madopterina Lacordaire, 1865
+### Subtribe Zygobaridina Pierce, 1907
 - _Apinocis_ Lea, 1927 (=_Anacentrinus_ Buchanan, 1932: 330)
 - _Barilepis_ Casey, 1920: 476
 - _Barilepton_ LeConte, 1876: 318
@@ -62,8 +57,8 @@ Classification follows to the preliminar version of Beetles of Canada and the US
 - _Xystus_
 - _Zygobarella_
 
-## Baridini
-### Baridina
+## Tribe Baridini Schoenherr, 1836
+### Subtribe Baridina Schoenherr, 1836
 - _Ampeloglypter_
 - _Aulobaris_
 - _Baris_
@@ -80,28 +75,31 @@ Classification follows to the preliminar version of Beetles of Canada and the US
 - _Trepobaris_
 - _Trichobaris_
 
-### Diorymerina
+### Subtribe Diorymerina Jekel, 1865
 - _Diorymerus_
 - _Hiotus_
   
-### Eurhinina
+### Tribe Eurhinina Lacordaire, 1865
 - _Eurhinus_
   
-### Leptoschoinina
+### Tribe Leptoschoinina Lacordaire, 1865
 - _Leptoschoinus_
-### Madarina
+- 
+### Subtribe Madarina Jekel, 1865
 - _Glyptobaris_
 - _Madarellus_
 - _Madarus_
 - _Onychobaris_
 - _Stictobaris_
-## Madopterini
-## Nertinini
+  
+## Tribe Nertinini Voss, 1954
 - _Lydamis_
 - _Strongylotes_
-## Pantotelini
-### Cyrionychina
+- 
+## Tribe Pantotelini Lacordaire, 1865
+
+### Subribe Cyrionychina Casey, 1922
 - _Cyrionyx_
-## Peridinetini
+## Tribe Peridinetini Lacordaire, 1865
 - _Peridinetus_
 
