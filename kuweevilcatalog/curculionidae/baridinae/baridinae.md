@@ -104,6 +104,4 @@ Classification follows to the preliminar version of Beetles of Canada and the US
 - _Cyrionyx_
 ## Peridinetini
 - _Peridinetus_
-### Baridina
 
-## Madopterini
