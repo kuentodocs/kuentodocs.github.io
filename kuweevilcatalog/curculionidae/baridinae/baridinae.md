@@ -19,6 +19,9 @@ Classification follows to the preliminar version of Beetles of Canada and the US
 
 ## Tribe Ambatini Lacordaire, 1863
 ## Tribe Apostasimerini Schoenherr, 1844
+Nearctic
+{: .label .label-red }
+
 ### Tribe Madopterina Lacordaire, 1865
 ### Subtribe Zygobaridina Pierce, 1907
 - _Apinocis_ Lea, 1927 (=_Anacentrinus_ Buchanan, 1932: 330)
