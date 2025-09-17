@@ -13,6 +13,7 @@ nav_order: 8
 Classification follows to the preliminar version of Beetles of Canada and the US, used during the [Weevil Course and Roundup 2025](https://www.curculionoidea.org/weevil-course-roundup-arizona). Genera position follows Alonso-Zarazaga & Lyal (1999, 2002, 2006, 2017). 
 {: .fs-5 .fw-300 }
 
+![1506421_lateral](https://github.com/user-attachments/assets/d8f42c19-b094-4bd1-98bc-dd92f45bbdf0)
 
 ## Table of Content
 {: .no_toc .text-delta }
