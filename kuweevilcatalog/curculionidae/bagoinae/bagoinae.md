@@ -22,10 +22,6 @@ Classification follows to the preliminar version of Beetles of Canada and the US
 
 ---
 
-| [<img src="https://media01.symbiota.org/media/storage/portals/scan/ASU/201304/ASUHIC0023881_habitus_lat.jpg" alt="Bagous" width="320" height="213.4">](https://https://media01.symbiota.org/media/storage/portals/scan/ASU/201304/ASUHIC0023881_habitus_lat.jpg) [<img src="https://media01.symbiota.org/media/storage/portals/scan/ASU/201304/ASUHIC0023881_habitus_lat.jpg" alt="Bagous" width="320" height="213.4">](https://media01.symbiota.org/media/storage/portals/scan/ASU/201304/ASUHIC0023881_habitus_lat.jpg) |
-|:--:| 
-|1.) *Bagous spp* (Olivier, 1790: 202), dorsal view.Specimens deposited at KU Snow Entomological Collection (KUNHM). Images and data available on [GBIF](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551).|
-
 ![ASUHIC0023881_habitus_lat](https://github.com/user-attachments/assets/43dc09b3-26e6-4c08-9f3f-9da20a55cd95)
 
 
