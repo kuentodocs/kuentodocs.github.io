@@ -20,9 +20,8 @@ Classification follows to the preliminar version of Beetles of Canada and the US
 1. TOC
 {:toc}
 
-[<img src="https://biimages.biodiversity.ku.edu/fileget?coll=Pinned&type=O&filename=3a209fed-da66-4d9a-9b28-0de3c06f636d.jpg&downloadname=001653234_lateral.jpg" alt="Baridinae" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650188) [<img src="https://biimages.biodiversity.ku.edu/fileget?coll=Pinned&type=O&filename=3a209fed-da66-4d9a-9b28-0de3c06f636d.jpg&downloadname=001653234_lateral.jpg" alt="Baridinae" width="320" height="213.4">](https://serv.biokic.asu.edu/ecdysis/collections/individual/index.php?occid=650188)
-|:--:| 
-|1.) *Baridinae spp* (Olivier, 1790: 202), dorsal view. Specimens deposited at KU Snow Entomological Collection (KUNHM). Images and data available on [GBIF](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551).|
+![001653234_lateral](https://github.com/user-attachments/assets/6939c1a7-7c61-45b9-9a04-a8fb387176ba)
+
 
 ## Ambatini
 ## Apostasimerini
