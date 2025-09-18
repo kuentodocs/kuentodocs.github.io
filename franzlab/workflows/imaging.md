@@ -41,7 +41,7 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 
 ![Screenshot](https://github.com/user-attachments/assets/05725cfc-ab75-475b-ab8c-e7fa036ec4f1)
 
-### **Open EOS 6D Software**
+### Open EOS 6D Software
 1. Make sure the camera is on (or turn it off and on again to see the menu).
 2. Click on Remote Shooting.
 3. Click on the **folder icon** to choose target folder (create one with your name on the Desktop).
@@ -52,11 +52,10 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 5. In the Live View window, turn on select Depth-of-field preview.
 6. Turn on the left flash and center the specimen with the help of the live view (move the lens into the appropriate zoom).
 
-### Use Zerene to select the area to be imaged 
+### Open Zerene Software
 ![Zerene](https://github.com/user-attachments/assets/836f6c38-be7a-4d95-b1d3-4ae507c5e214)
 
-1. On the top menu, select **Tools > Stack Shot to open the Controller**
-
+1. To select the area to be imaged: **Top Menu > Tools > Stack Shot to open the Controller**. 
 <img src="https://github.com/user-attachments/assets/1f7b5689-0357-469c-bc3f-98f6b524cf84" alt="EOS" width="300">
 
 2. Click on **Fwd** (Forward, down) to find the lowest point of the specimen and **Set End**.
@@ -67,7 +66,7 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 7. If lighting and everything	else looks good, turn of the light and go back to the Zerene controller. Click on **Shoot Stack** to get the images.
 8. The files will be saved in the folder you selected before. 
 
-## Focus Stack the images in Zerene
+## Focus stack the images in Zerene
 1. To add the images to stack: **Top menu > Files > Add File**.
 2. To stack the images: **Top menu > Stack > Align & Stack All (PMax)**.
 3. To save the stacked image: **Top menu > File > Save Output Image**.
