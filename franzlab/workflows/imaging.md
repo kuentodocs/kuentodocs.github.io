@@ -2,7 +2,7 @@
 layout: default
 title: Imaging
 parent: Franz Lab
-has_children: true
+has_children: false
 nav_order: 3
 ---
 
