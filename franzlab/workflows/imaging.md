@@ -37,7 +37,7 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 3. Turn on the camera, flash control (attached to the camera), and flashes.
 4. Turn on the stacking system. 
 
-## Prepare the software for imaging
+## Prepare software for imaging
 
 ![Screenshot](https://github.com/user-attachments/assets/05725cfc-ab75-475b-ab8c-e7fa036ec4f1)
 
