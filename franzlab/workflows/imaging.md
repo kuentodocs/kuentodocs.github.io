@@ -19,9 +19,10 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 ------
 
 ## Prepare specimen for imaging
-1. Remove labels carefully using forceps.
-2. Place the specimen on a piece of gray clay and position it under a microscope.
-3. Remove debris using a fine brush if necessary.
+1. Remove labels carefully **using forceps**.
+2. Place the labels, in order, on the pinning block.
+3. Place the specimen on a piece of gray clay and position it under a microscope.
+4. Remove debris using a fine brush **if necessary**.
 
 ## Prepare equipment for imaging
 1. Turn on the computer, mouse and keyboard (make sure the mouse and keyboard are charged).
