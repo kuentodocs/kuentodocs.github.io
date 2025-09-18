@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 
-# Pinned Specimens Imaging
+# Imaging
 {: .no_toc }
 
 Imaging workflows for the weevil collection. Specimens should be imaged before imaging. **Please image one specimen at the time, as the workflow requires removing the labels.**  
@@ -25,19 +25,19 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 
 ----
 
-## Prepare specimen for imaging
+## Prepare the specimen for imaging
 1. Remove labels carefully **using forceps**.
 2. Place the labels, in order, on the pinning block.
 3. Place the specimen on a piece of gray clay and position it under a microscope.
 4. Remove debris using a fine brush **if necessary**.
 
-## Prepare equipment for imaging
+## Prepare the equipment for imaging
 1. Turn on the computer, mouse and keyboard (make sure the mouse and keyboard are charged).
 2. Login to the computer (User: Photographer, no password).
 3. Turn on the camera, flash control (attached to the camera), and flashes.
 4. Turn on the stacking system. 
 
-## Prepare software for imaging
+## Prepare the software for imaging
 
 ![Screenshot](https://github.com/user-attachments/assets/05725cfc-ab75-475b-ab8c-e7fa036ec4f1)
 
@@ -92,7 +92,7 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 |:--:|
 |Edited image, dorsal view.|
 
-## Prepare the specimen to return it to the collection
-1. Pin he labels back (locality, barcode).
+## Prepare the specimen to return it 
+1. Pin the labels back (locality, barcode).
 2. Add a “Photo taken” green label.
 3. Genitalia vials and determination labels should be pinned below the photo label. 
