@@ -15,6 +15,7 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 {: .fs-5 .fw-300 }
 
 ![001653237_lateral](https://github.com/user-attachments/assets/558afefe-5982-497a-9e03-071ce7a206d2)
+
 ------
 
 ## Prepare specimen for imaging
