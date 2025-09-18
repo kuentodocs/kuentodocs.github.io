@@ -38,7 +38,9 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 1. Make sure the camera is on (or turn it off and on again to see the menu).
 2. Click on Remote Shooting.
 3. Click on the **folder icon** to choose target folder (create one with your name on the Desktop).
-   ![EOS](https://github.com/user-attachments/assets/156c42eb-79e3-4b50-8653-22bb3d196fd6)
+
+[<img src="https://github.com/user-attachments/assets/156c42eb-79e3-4b50-8653-22bb3d196fd6" alt="EOS" width="300">](https://biodiversidad.gt/portal/collections/individual/index.php?occid=8126&clid=0)
+
 4. Select Live View Shoot (make sure the lens cap is off).
 5. In the Live View window, turn on select Depth-of-field preview.
 6. Turn on the left flash and center the specimen with the help of the live view (move the lens into the appropriate zoom).
@@ -47,7 +49,8 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 ![Zerene](https://github.com/user-attachments/assets/836f6c38-be7a-4d95-b1d3-4ae507c5e214)
 
 1. On the top menu, select **Tools > Stack Shot to open the Controller**
-![ZereneControl](https://github.com/user-attachments/assets/1f7b5689-0357-469c-bc3f-98f6b524cf84)
+
+<img src="https://github.com/user-attachments/assets/1f7b5689-0357-469c-bc3f-98f6b524cf84" alt="EOS" width="300">
 
 2. Click on **Fwd** (Forward, down) to find the lowest point of the specimen and **Set End**.
 3. Click on **Back** (up) to find the highest point of the specimen and **Set Start**.
@@ -73,10 +76,15 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 4. Save the TIFF file with the scale bar (**Save, not Save as to keep the same name**).
 5. Edit later to add logo and caption.
 
-![001653590_lateral](https://github.com/user-attachments/assets/c1dd73e4-120f-49d4-bf6e-8cb6cf1151e8)
+| [<img src="https://github.com/user-attachments/assets/c1dd73e4-120f-49d4-bf6e-8cb6cf1151e8" alt="Lateral">](https://biimages.biodiversity.ku.edu/fileget?coll=Pinned&type=O&filename=aec39903-9b24-4943-9d20-0c92f7622e54.jpg&downloadname=001653590_lateral.jpg) |
+|:--:|
+|Edited image, lateral view.|
 
 ## Prepare the specimen for next image, repeat all steps
-![001653590_dorsal](https://github.com/user-attachments/assets/8a082f82-f714-42ba-817c-5045b6d4bbc4)
+
+| [<img src="https://github.com/user-attachments/assets/8a082f82-f714-42ba-817c-5045b6d4bbc4" alt="Dorsal">](https://biimages.biodiversity.ku.edu/fileget?coll=Pinned&type=O&filename=d432916a-46ba-4413-b8f3-03c0d5d3317b.jpg&downloadname=001653590_dorsal.jpg) |
+|:--:|
+|Edited image, dorsal view.|
 
 ## Prepare the specimen to return it to the collection
 1. Pin he labels back (locality, barcode).
