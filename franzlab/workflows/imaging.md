@@ -39,7 +39,7 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 2. Click on Remote Shooting.
 3. Click on the **folder icon** to choose target folder (create one with your name on the Desktop).
 
-[<img src="https://github.com/user-attachments/assets/156c42eb-79e3-4b50-8653-22bb3d196fd6" alt="EOS" width="300">](https://biodiversidad.gt/portal/collections/individual/index.php?occid=8126&clid=0)
+<img src="https://github.com/user-attachments/assets/156c42eb-79e3-4b50-8653-22bb3d196fd6" alt="EOS" width="300">
 
 4. Select Live View Shoot (make sure the lens cap is off).
 5. In the Live View window, turn on select Depth-of-field preview.
