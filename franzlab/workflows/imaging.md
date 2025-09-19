@@ -34,23 +34,23 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 ## Prepare the equipment for imaging
 1. Turn on the computer, mouse and keyboard (make sure the mouse and keyboard are charged).
 2. Login to the computer (User: Photographer, no password).
-3. Turn on the camera, flash control (attached to the camera), and flashes.
-4. Turn on the stacking system. 
+3. Check the Wi-Fi connection. Login to the KUGUEST if necessary.
+4. Turn on the camera, flash control (attached to the camera), and flashes.
+5. Turn on the stacking system. 
 
 ## Prepare the software for imaging
 
 ![Screenshot](https://github.com/user-attachments/assets/05725cfc-ab75-475b-ab8c-e7fa036ec4f1)
 
 ### Open EOS 6D Software
-1. Make sure the camera is on (or turn it off and on again to see the menu).
-2. Click on Remote Shooting.
+1. Make sure the camera is on (or turn it off and on again to activate the options).
+2. Click on **Remote Shooting** to open the menu.
+   <img src="https://github.com/user-attachments/assets/156c42eb-79e3-4b50-8653-22bb3d196fd6" alt="EOS" width="300">
 3. Click on the **folder icon** to choose target folder (create one with your name on the Desktop).
-
-<img src="https://github.com/user-attachments/assets/156c42eb-79e3-4b50-8653-22bb3d196fd6" alt="EOS" width="300">
-
-4. Select Live View Shoot (make sure the lens cap is off).
-5. In the Live View window, turn on select Depth-of-field preview.
-6. Turn on the left flash and center the specimen with the help of the live view (move the lens into the appropriate zoom).
+4. If you don't chose a folder, your images will be saved in **Users>photographer>Pictures>2000**.
+5. Select Live View Shoot (make sure the lens cap is off).
+6. In the Live View window, turn on select Depth-of-field preview.
+7. Turn on the left flash and center the specimen with the help of the live view (move the lens into the appropriate zoom).
 
 ### Open Zerene Software
 ![Zerene](https://github.com/user-attachments/assets/836f6c38-be7a-4d95-b1d3-4ae507c5e214)
@@ -70,10 +70,11 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 1. To add the images to stack: **Top menu > Files > Add File**.
 2. To stack the images: **Top menu > Stack > Align & Stack All (PMax)**.
 3. To save the stacked image: **Top menu > File > Save Output Image**.
-4. Find the folder where you want to save the image.
-5. Save the file in **TIFF format** and name it using the catalog number and view (e.g. 123456_lateral).
+4. Save the file in **TIFF format**, 16 bits RGB, compression type _none_.
+5. Find the folder where you want to save the image and name it using the **catalog number and view (e.g. 123456_lateral)**.
 6. If your workflow includes batch upload, make sure to include 9 digits to make the files compatible with Specify (e.g. 000123456_lateral).
-7. Close the project on Zerene **Top Menu > File > Close Project**. 
+7. Click OK.
+8. Close the project on Zerene **Top Menu > File > Close Project**. 
 
 ## Add a Scale Bar in Photoshop
 1. Open the output image (TIFF file).
