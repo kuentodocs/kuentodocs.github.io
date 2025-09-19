@@ -43,8 +43,6 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 
 ## Prepare the software for imaging
 
-![Screenshot](https://github.com/user-attachments/assets/05725cfc-ab75-475b-ab8c-e7fa036ec4f1)
-
 ### Open EOS 6D Software
 1. Make sure the camera is on (or turn it off and on again to activate the options).
 2. Click on **Remote Shooting** to open the menu.
@@ -78,6 +76,8 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 6. If your workflow includes batch upload, make sure to include 9 digits to make the files compatible with Specify (e.g. 000123456_lateral).
 7. Click OK.
 8. Close the project on Zerene **Top Menu > File > Close Project**. 
+
+![Screenshot](https://github.com/user-attachments/assets/05725cfc-ab75-475b-ab8c-e7fa036ec4f1)
 
 ## Add a Scale Bar in Photoshop
 1. Open the output image (TIFF file).
