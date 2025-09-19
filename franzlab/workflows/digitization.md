@@ -10,7 +10,7 @@ nav_order: 2
 # Digitization
 {: .no_toc }
 
-Digitization workflows for the weevil collection.
+Digitization workflows for the weevil collection. Data publicly available on [GBIF](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551). 
 {: .fs-5 .fw-300 }
 
 
@@ -19,9 +19,8 @@ Specimens collected in current projects.
 
 1. Accession the specimens (coordinate with collection managers)
 2. Generate collecting event codes and add them to the labels when possible
-   - Collecting events
-   - https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551/event/US.KS.FranzN2025.03.10%2001
-4. Digitize the specimens in [Specify 7](https://entomology.specify.ku.edu/)
+3. Digitize the specimens in [Specify 7](https://entomology.specify.ku.edu/)
+4. 
 
 
 ### Digitizing specimens
