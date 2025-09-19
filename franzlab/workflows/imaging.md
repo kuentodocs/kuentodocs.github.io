@@ -36,7 +36,10 @@ Imaging workflows for the weevil collection. Specimens should be imaged before i
 2. Login to the computer (User: Photographer, no password).
 3. Check the Wi-Fi connection. Login to the KUGUEST if necessary.
 4. Turn on the camera, flash control (attached to the camera), and flashes.
-5. Turn on the stacking system. 
+5. Turn on the stacking system.
+
+   ![ImagingSystem](https://github.com/user-attachments/assets/a92fc42a-acca-4dc2-a648-248a69281a97)
+
 
 ## Prepare the software for imaging
 
