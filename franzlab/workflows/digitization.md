@@ -38,15 +38,10 @@ Suggested query:
 
 - If the locality doesn't exist, generate a new one. 
 
-| [<img src="https://github.com/user-attachments/assets/e56ef1f7-d124-4b1d-a91e-9df769e3efcf" alt="New Locality"  width="480" height="500">] |
+| <img src="https://github.com/user-attachments/assets/e56ef1f7-d124-4b1d-a91e-9df769e3efcf" alt="New Locality"  width="480" height="500"> |
 
 Example:
 
 ![LocalityExample](https://github.com/user-attachments/assets/1d69e8ae-caeb-43d5-a37c-355a2b9e09da)
 
 
--
-
-
-
-5. 
