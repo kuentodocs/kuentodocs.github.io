@@ -30,6 +30,7 @@ Specimens collected in current projects.
 - Explore the existing Collecting Events
 Collecting events should match locality, date, collector and method.
 Suggested querie:
+
 | [<img src="https://github.com/user-attachments/assets/976753cd-7fc5-4dbc-a3a0-b836ac9b91af" alt="Event Querie"  width="480" height="500">](https://entomology.specify.ku.edu/specify/query/521/) |
 
 
