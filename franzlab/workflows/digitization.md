@@ -16,7 +16,7 @@ Digitization workflows for the weevil collection. Data publicly available on [GB
 ---
 
 {: .highlight }
-Specimens should be **accessioned** before digitization. 
+New secimens should be **accessioned** before digitization. 
 
 
 ## Proactive Digitization
@@ -29,7 +29,9 @@ Specimens collected in current projects.
 ### Digitizing specimens
 
 - Access the Specify [KUEntoPinned](https://entomology.specify.ku.edu) instance. Coordinate with collection managers to get access.
-<img width="1113" height="817" alt="image" src="https://github.com/user-attachments/assets/f5c4854a-d069-4c12-bc3b-199d356c7df2"/>
+
+| [<img src="https://github.com/user-attachments/assets/f5c4854a-d069-4c12-bc3b-199d356c7df2" alt="Event Query"  width="480" height="500">](https://entomology.specify.ku.edu/) |
+
 
 - Explore the existing Collecting Events
 _Collecting events_ should match locality, date, collector and method.
