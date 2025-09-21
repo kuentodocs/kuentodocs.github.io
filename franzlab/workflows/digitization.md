@@ -25,13 +25,13 @@ New secimens should be **accessioned** before digitization.
 | [<img src="https://github.com/user-attachments/assets/f5c4854a-d069-4c12-bc3b-199d356c7df2" alt="Event Query"  width="480" height="500">](https://entomology.specify.ku.edu/) |
 
 
-- Explore the existing Collecting Events
-_Collecting events_ should match locality, date, collector and method.
+- Explore the existing _collecting events_, which should match for locality, date, collector and method.
+
 Suggested query:
 
 | [<img src="https://github.com/user-attachments/assets/976753cd-7fc5-4dbc-a3a0-b836ac9b91af" alt="Event Query"  width="480" height="500">](https://entomology.specify.ku.edu/specify/query/521/) |
 
-- If the _Collecting event_ is not available, check for the locality.  
+- If the _collecting event_ is not available, check for the locality.  
 
 
 | [<img src="https://github.com/user-attachments/assets/4b3f9dd8-5c0a-4347-9dca-8379d4678a5c" alt="Locality Query"  width="480" height="500">](https://entomology.specify.ku.edu/specify/query/524/) |
