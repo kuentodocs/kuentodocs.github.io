@@ -15,7 +15,7 @@ Digitization workflows for the weevil collection. Data publicly available on [GB
 
 ---
 
-{: .important }
+{: .highlight }
 New secimens should be **accessioned** before digitization. 
 
 ### Digitizing specimens
