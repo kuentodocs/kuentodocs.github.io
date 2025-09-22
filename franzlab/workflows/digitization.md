@@ -105,7 +105,10 @@ Once you have the collecting event number, you can digitize the specimens (_coll
 
 - Open a _New Collection Object_ form [(Left Menu>Data Entry>Collection Object)](https://entomology.specify.ku.edu/specify/view/collectionobject/new/).
 
-| [<img src="https://github.com/user-attachments/assets/1348e408-2f58-49da-8711-485cbedb47c1" alt="New Collection Object"  width="480" height="500">](https://github.com/user-attachments/assets/574b8017-00ff-42c8-a936-44e88fa72a0c) |
+![CollObject](https://github.com/user-attachments/assets/ebb76414-a43a-4935-8700-1187be9cd777)
+
+
+| [<img src="https://github.com/user-attachments/assets/ebb76414-a43a-4935-8700-1187be9cd777" alt="New Collection Object"  width="480" height="500">](https://github.com/user-attachments/assets/574b8017-00ff-42c8-a936-44e88fa72a0c) |
 
 ![CollObjectTable](https://github.com/user-attachments/assets/cf7bdd55-e212-45eb-8ccf-623d1bae08f6)
 
