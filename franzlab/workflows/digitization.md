@@ -15,9 +15,6 @@ Digitization workflows for the weevil collection. Data publicly available on [GB
 
 ---
 
-{: .highlight }
-New secimens should be **accessioned** before digitization. 
-
 <div class="code-example" markdown="1">
 
 <span class="fs-5">
@@ -33,11 +30,12 @@ New secimens should be **accessioned** before digitization.
 
 | [<img src="https://github.com/user-attachments/assets/f5c4854a-d069-4c12-bc3b-199d356c7df2" alt="Event Query"  width="480" height="500">](https://entomology.specify.ku.edu/) |
 
-- Prepare the specimen(s) to digitize. If specimens have been collected recently (e.g. current Franz Lab projects), make sure they are **accessioned** before digitizating. Coordinate with collection managers to get appropriate paperwork.
+{: .highlight }
+Prepare the specimen(s) to digitize. If specimens have been collected recently (e.g. current Franz Lab projects), make sure they are **accessioned** before digitizating. Coordinate with collection managers to get appropriate paperwork.
 
 | [<img src="https://github.com/user-attachments/assets/31f88073-e8f3-4485-a888-1f79dd2dbdda" alt="Labels"  width="480" height="500">](https://entomology.specify.ku.edu/) |
 
--   Explore the existing _collecting events_, which should match for locality, date, collector and method. Collecting events for 2025 fieldrips available [here](https://kansas.sharepoint.com/:x:/t/FranzLab/ERPYc_iq79lCkkPA7ZNbF6gB6hQDf9rCABoX3qKdrw8KLQ?e=x7YMvO).
+-   Explore the existing _collecting events_, which should match for locality, date, collector and method. Collecting events for 2025 fieltrips available [here](https://kansas.sharepoint.com/:x:/t/FranzLab/ERPYc_iq79lCkkPA7ZNbF6gB6hQDf9rCABoX3qKdrw8KLQ?e=x7YMvO).
 
 Suggested query:
 
