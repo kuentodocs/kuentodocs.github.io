@@ -24,16 +24,37 @@ New secimens should be **accessioned** before digitization.
 </div>
 
 
-### Digitizing specimens
+## Digitizing specimens
 
 - Access the Specify [KUEntoPinned](https://entomology.specify.ku.edu) instance. Coordinate with collection managers to get access.
 
 | [<img src="https://github.com/user-attachments/assets/f5c4854a-d069-4c12-bc3b-199d356c7df2" alt="Event Query"  width="480" height="500">](https://entomology.specify.ku.edu/) |
 
 {: .highlight }
-Prepare the specimen(s) to digitize. If specimens have been collected recently (e.g. current Franz Lab projects), make sure they are **accessioned** before digitizating. Coordinate with collection managers to get appropriate paperwork.
+Select the specimen(s) to digitize and prepare the **catalog numbers** (barcodes). If specimens have been collected recently (e.g. current Franz Lab projects), make sure they are **accessioned** before digitizating. Coordinate with collection managers to get appropriate paperwork.
 
 | [<img src="https://github.com/user-attachments/assets/31f88073-e8f3-4485-a888-1f79dd2dbdda" alt="Labels"  width="480" height="500">](https://entomology.specify.ku.edu/) |
+
+### Check data on the label
+**What do you see? **
+- Country, state, county, locality?
+- Coordinates, elevation?
+- Date?
+- Collector(s)?
+- Habitat, collecting method?
+- Field numbers?
+
+Every label is different. Don't worry if some elements are missing. 
+
+To digitize a specimen in Specify, you need two codes: a unique _catalog number_ (barcodes), and a _collecting event number_, that will be shared by all specimens collected during the same fieldtrip in a particular date, by the same collector(s), with the same method. For example, all insects collected by N. Franz during the night of Aug 24, 2005 would share the same _collecting event number_.  
+
+The **catalog numbers** (barcodes) are printed and provided by the collection managers. The **collecting event numbers** are generated in advance by the researchers OR are asigned by  the person in charge of digitization, in the case of older specimens. 
+
+![CollEventCodePanama](https://github.com/user-attachments/assets/340d8220-116d-4fa7-9bfd-2fb73d1e477b)
+![CollEventCodeUS](https://github.com/user-attachments/assets/7b107c3a-1707-4361-b501-0cca97905eea)
+
+---
+
 
 -   Explore the existing _collecting events_, which should match for locality, date, collector and method. Collecting events for 2025 fieltrips available [here](https://kansas.sharepoint.com/:x:/t/FranzLab/ERPYc_iq79lCkkPA7ZNbF6gB6hQDf9rCABoX3qKdrw8KLQ?e=x7YMvO).
 
