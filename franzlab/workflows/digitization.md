@@ -50,8 +50,10 @@ To digitize a specimen in Specify, you need two codes: a unique _catalog number_
 
 The **catalog numbers** (barcodes) are printed and provided by the collection managers. The **collecting event numbers** are generated in advance by the researchers OR are asigned by  the person in charge of digitization, in the case of older specimens. 
 
-![CollEventCodePanama](https://github.com/user-attachments/assets/340d8220-116d-4fa7-9bfd-2fb73d1e477b)
-![CollEventCodeUS](https://github.com/user-attachments/assets/7b107c3a-1707-4361-b501-0cca97905eea)
+
+| [<img src="https://github.com/user-attachments/assets/7b107c3a-1707-4361-b501-0cca97905eea" alt="CollEvUS"  width="480" height="500">](https://entomology.specify.ku.edu/specify/view/collectingevent/125414/) |
+
+| [<img src="https://github.com/user-attachments/assets/340d8220-116d-4fa7-9bfd-2fb73d1e477b" alt="CollEvPanama"  width="480" height="500">](https://entomology.specify.ku.edu/specify/view/collectingevent/1994/) |
 
 ---
 
