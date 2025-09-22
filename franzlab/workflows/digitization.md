@@ -48,7 +48,7 @@ Select the specimen(s) to digitize and prepare the **catalog numbers** (barcodes
 
 Every label is different. Don't worry if some elements are missing. 
 
-| [<img src="https://github.com/user-attachments/assets/af91134e-4bad-478c-933d-0105a92e7a9d" alt="Labels"  width="480" height="500">](https://entomology.specify.ku.edu/) |
+| <img src="https://github.com/user-attachments/assets/af91134e-4bad-478c-933d-0105a92e7a9d" alt="Labels"  width="480" height="500"> |
 
 ### Collecting event number
 
@@ -89,7 +89,8 @@ If the _collecting event_ **is available**, just copy it and **you are ready to 
 - Copy the locality string to use in Step 2.
   
 2. Once you have copied the locality string, create a new _Collecting Information_ ([Left Menu>Data entry>Collecting Event](https://entomology.specify.ku.edu/specify/view/collectingevent/new/)).
-| [<img src="https://github.com/user-attachments/assets/2685dc37-aca8-4c63-a7a8-90cb0f45d811" alt="Event Query"  width="480" height="500">](https://entomology.specify.ku.edu/specify/view/collectingevent/new/) |
+
+| [<img src="" alt="Event Query"  width="480" height="500">](https://entomology.specify.ku.edu/specify/view/collectingevent/new/) |
 
 ![CollEventTable](https://github.com/user-attachments/assets/e1d4bb3e-4e7b-4282-803c-4aee44da768d)
 
@@ -100,14 +101,12 @@ If the _collecting event_ **is available**, just copy it and **you are ready to 
 {: .highlight }
 Once you have the collecting event number, you can digitize the specimens (_collection objects_) associated with this event.
 
-| [<img src="https://github.com/user-attachments/assets/576cf7df-87ce-4d50-8257-4cda96e12582" alt="Labels"  width="480" height="500">](https://entomology.specify.ku.edu/) |
+| <img src="https://github.com/user-attachments/assets/576cf7df-87ce-4d50-8257-4cda96e12582" alt="Labels"  width="400"> |
 
 1. Open a _New Collection Object_ form [(Left Menu>Data Entry>Collection Object)](https://entomology.specify.ku.edu/specify/view/collectionobject/new/).
 
-| [<img src="https://github.com/user-attachments/assets/578549ec-920f-4b8b-b21c-89d9f45ee363" alt="New Collection Object"  width="480" height="500">](https://entomology.specify.ku.edu/specify/view/collectionobject/new/) |
+| [<img src="https://github.com/user-attachments/assets/1348e408-2f58-49da-8711-485cbedb47c1" alt="New Collection Object"  width="480" height="500">](https://entomology.specify.ku.edu/specify/view/collectionobject/new/) |
 
-![CollObjectTable](https://github.com/user-attachments/assets/1348e408-2f58-49da-8711-485cbedb47c1)
+Click to see example: 
 
 | [<img src="https://github.com/user-attachments/assets/cbdfac37-d8a3-4cb8-8e47-6eae24d4a75d" alt="Collection Object"  width="480" height="500">](https://entomology.specify.ku.edu/specify/view/collectionobject/1481826/) |
-
-![CollObject](https://github.com/user-attachments/assets/cbdfac37-d8a3-4cb8-8e47-6eae24d4a75d)
