@@ -24,7 +24,11 @@ New secimens should be **accessioned** before digitization.
 
 | [<img src="https://github.com/user-attachments/assets/f5c4854a-d069-4c12-bc3b-199d356c7df2" alt="Event Query"  width="480" height="500">](https://entomology.specify.ku.edu/) |
 
+- Prepare the specimen(s) to digitize. If specimens have been collected recently, make sure they are **accessioned** before digitizing them. Older specimens deposited in the collection are already accessioned. Coordinate with collection managers to get appropriate paperwork.
 
+| [<img src="https://github.com/user-attachments/assets/31f88073-e8f3-4485-a888-1f79dd2dbdda" alt="Labels"  width="480" height="500">](https://entomology.specify.ku.edu/) |
+
+- 
 - Explore the existing _collecting events_, which should match for locality, date, collector and method.
 
 Suggested query:
