@@ -21,10 +21,6 @@ Classification follows to the preliminar version of Beetles of Canada and the US
 ## Tribe Apostasimerini Schoenherr, 1844
 {: .d-inline-block }
 
-Colecciones en vivo
-{: .label .label-red }
-
-## Tribe Apostasimerini Schoenherr, 1844
 Nearctic
 {: .label .label-red }
 
