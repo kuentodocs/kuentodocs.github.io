@@ -36,7 +36,10 @@ Select the specimen(s) to digitize and prepare the **catalog numbers** (barcodes
 | [<img src="https://github.com/user-attachments/assets/31f88073-e8f3-4485-a888-1f79dd2dbdda" alt="Labels"  width="480" height="500">](https://entomology.specify.ku.edu/) |
 
 ### Check data on the label
-**What do you see? **
+
+{: .highlight }
+**What do you see?**
+
 - Country, state, county, locality?
 - Coordinates, elevation?
 - Date?
