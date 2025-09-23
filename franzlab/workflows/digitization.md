@@ -15,6 +15,15 @@ Digitization workflows for the weevil collection. Data publicly available on [GB
 
 ---
 
+----
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+----
+
 <div class="code-example" markdown="1">
 
 <span class="fs-5">
