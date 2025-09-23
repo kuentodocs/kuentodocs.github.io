@@ -5,7 +5,7 @@ has_children: true
 nav_order: 4
 ---
 
-# Weevil Collection Catalog
+# KU Weevil Collection Catalog
 {: .no_toc }
 
 Curculionidae groups deposited in the KU Snow Entomological Collection. Interactive checklist available [here](https://weevil.symbiota.org/portal/checklists/checklist.php?pid=&clid=16).
