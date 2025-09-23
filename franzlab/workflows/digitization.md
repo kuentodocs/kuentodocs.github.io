@@ -105,14 +105,22 @@ Once you have the collecting event number, you can digitize the specimens (_coll
 
 - Open a _New Collection Object_ form [(Left Menu>Data Entry>Collection Object)](https://entomology.specify.ku.edu/specify/view/collectionobject/new/).
 
-![CollObject](https://github.com/user-attachments/assets/ebb76414-a43a-4935-8700-1187be9cd777)
-
-
-| [<img src="https://github.com/user-attachments/assets/ebb76414-a43a-4935-8700-1187be9cd777" alt="New Collection Object"  width="480" height="500">](https://github.com/user-attachments/assets/574b8017-00ff-42c8-a936-44e88fa72a0c) |
+| [<img src="https://github.com/user-attachments/assets/ebb76414-a43a-4935-8700-1187be9cd777" alt="New Collection Object"  width="480" height="500">](https://entomology.specify.ku.edu/specify/view/collectionobject/new/) |
 
 ![CollObjectTable](https://github.com/user-attachments/assets/cf7bdd55-e212-45eb-8ccf-623d1bae08f6)
 
+- Once the information is complete, click on **Save**. If you are digitizing more specimens from the same _collecting event_ (sample), click in _**Carry Forward**_ or _**Clone**_ to copy the information into a new form.
 
-Click to see example: 
+Click to see an example of a full form: 
 
 | [<img src="https://github.com/user-attachments/assets/cbdfac37-d8a3-4cb8-8e47-6eae24d4a75d" alt="Collection Object"  width="480" height="500">](https://entomology.specify.ku.edu/specify/view/collectionobject/1481826/) |
+
+- Go to [**Imaging**](https://kuentodocs.github.io/franzlab/workflows/imaging/) to learn how to produce images of your specimens and add them in the specimen (collection object) form.
+
+<div class="code-example" markdown="1">
+
+<span class="fs-5">
+[Imaging](https://kuentodocs.github.io/franzlab/workflows/imaging/){: .btn .btn-blue }
+</span>
+
+</div>
