@@ -27,13 +27,13 @@ Digitization workflows for the weevil collection. Data publicly available on [GB
 <div class="code-example" markdown="1">
 
 <span class="fs-5">
+
+## Before digitizing specimens
+
 New specimens should be **accessioned** before digitization.
 </span>
 
 </div>
-
-
-## Before digitizing specimens
 
 - Access the Specify [KUEntoPinned](https://entomology.specify.ku.edu) instance. Coordinate with collection managers to get access.
 
