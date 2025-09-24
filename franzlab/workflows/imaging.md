@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Imaging
+title: Imaging Weevils
 parent: Franz Lab
 has_children: false
 nav_order: 3
