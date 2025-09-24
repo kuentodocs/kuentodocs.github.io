@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 
-# Digitization
+# Weevil Digitization
 {: .no_toc }
 
 Digitization workflows for the weevil collection. Data publicly available on [GBIF](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551). 
