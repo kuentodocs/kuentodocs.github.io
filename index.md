@@ -12,7 +12,7 @@ permalink: /
 Documentation for day to day tasks. Check oficial KU Entomology website [here](https://biodiversity.ku.edu/entomology). 
 {: .fs-6 .fw-300 }
 
-[Digitization](https://kuentodocs.github.io/franzlab/workflows/digitization/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Weevil Collection](https://kuentodocs.github.io/kuweevilcatalog/kuweevilcatalog/){: .btn .fs-5 .mb-4 .mb-md-0 } 
+[Digitization](https://kuentodocs.github.io/franzlab/workflows/digitization/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Weevil Collection](https://weevil.symbiota.org/portal/collections/misc/collprofiles.php?collid=12){: .btn .fs-5 .mb-4 .mb-md-0 } 
 [Franz Lab](https://kuentodocs.github.io/franzlab/franzlab/){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
 
 
