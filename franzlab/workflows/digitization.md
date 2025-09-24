@@ -13,8 +13,6 @@ nav_order: 2
 Digitization workflows for the weevil collection. Data publicly available on [GBIF](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551). 
 {: .fs-5 .fw-300 }
 
----
-
 ----
 ## Table of Contents
 {: .no_toc .text-delta }
