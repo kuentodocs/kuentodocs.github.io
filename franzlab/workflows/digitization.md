@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Digitizing Weevils
-parent: Franz Lab
+parent: Workflows
 has_children: true
 nav_order: 2
 ---
