@@ -12,7 +12,7 @@ nav_order: 2
 Curculionoidea resources. 
 {: .fs-5 .fw-200 }
 
-![1506421_lateral](https://github.com/user-attachments/assets/98a03e54-fad2-488e-9f64-7f28a91267e9)
+![001653181_lateral](https://github.com/user-attachments/assets/555c362c-766b-4eee-8012-034cd5c3960e)
 
 ---
 
