@@ -49,7 +49,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "KU Entomology":
-    - "https://kuento.github.io"
+    - "https://kuentodocs.github.io"
 
 plugins:
   - jekyll-seo-tag
