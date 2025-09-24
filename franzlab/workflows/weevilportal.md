@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Weevil Portal
-parent: Franz Lab
+parent: Resources
 has_children: true
 nav_order: 3
 ---
