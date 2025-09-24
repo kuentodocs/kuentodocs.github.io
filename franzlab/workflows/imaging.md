@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 
-# Imaging
+# Imaging Weevils
 {: .no_toc }
 
 Imaging workflows for the weevil collection. Specimens should be **digitized** before imaging. **Please image one specimen at the time, as the workflow requires removing the labels.**  
