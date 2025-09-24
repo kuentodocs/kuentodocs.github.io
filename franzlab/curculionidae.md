@@ -1,7 +1,7 @@
 ---
 layout: default
 title: KU Curculionidae
-parent: Franz Lab
+parent: KU Ento
 has_children: true
 nav_order: 3
 ---
