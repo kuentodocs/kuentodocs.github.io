@@ -84,7 +84,7 @@ Imaging workflows for the weevil collection. Specimens should be **digitized** b
 1. Open the output image (TIFF file).
 2. Go to **Top Menu > Image> Analysis > Set Measurement Scale** and select the appropriate scale depending on the magnification used.
 3. Go to **Top Menu> Image > Analysis> Set Scale Marker** to add the scale bar (1 mm, 2 mm, 5 mm, depending on the size).
-4. Save the TIFF file with the scale bar (**Save, not Save as to keep the same name**).
+4. Save the TIFF file with the scale bar (**Save**, _not Save as_, to keep the same name).
 5. Edit later to add logo and caption.
 
 | [<img src="https://github.com/user-attachments/assets/c1dd73e4-120f-49d4-bf6e-8cb6cf1151e8" alt="Lateral">](https://biimages.biodiversity.ku.edu/fileget?coll=Pinned&type=O&filename=aec39903-9b24-4943-9d20-0c92f7622e54.jpg&downloadname=001653590_lateral.jpg) |
