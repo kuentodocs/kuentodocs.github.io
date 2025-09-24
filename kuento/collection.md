@@ -1,4 +1,4 @@
-<img width="1862" height="1307" alt="image" src="https://github.com/user-attachments/assets/4d0e66ce-40e8-4883-9877-3810a7a602f8" />---
+---
 layout: default
 title: Collection
 parent: KU Ento
