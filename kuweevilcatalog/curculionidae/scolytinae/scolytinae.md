@@ -3,7 +3,7 @@ layout: default
 title: Scolytinae
 parent: KU Curculionidae
 has_children: true
-nav_order: 17
+nav_order: 19
 ---
 
 
