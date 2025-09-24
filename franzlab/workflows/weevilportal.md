@@ -7,10 +7,10 @@ nav_order: 3
 ---
 
 
-# Digitizing Weevils
+# Weevil Portal
 {: .no_toc }
 
-Symbiota portal dedicated to integrate and generate weevil resources.  
+[Symbiota](https://symbiota.org) portal dedicated to integrate and generate weevil resources.  
 {: .fs-5 .fw-300 }
 
 ---
