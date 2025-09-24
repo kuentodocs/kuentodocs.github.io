@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Digitization
+title: Weevil Portal
 parent: Franz Lab
 has_children: true
 nav_order: 3
