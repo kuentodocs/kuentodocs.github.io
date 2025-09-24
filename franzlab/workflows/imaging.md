@@ -47,7 +47,9 @@ Imaging workflows for the weevil collection. Specimens should be **digitized** b
 ### Open EOS 6D Software
 1. Make sure the camera is on (or turn it off and on again to activate the options).
 2. Click on **Remote Shooting** to open the menu.
-   <img src="https://github.com/user-attachments/assets/156c42eb-79e3-4b50-8653-22bb3d196fd6" alt="EOS" width="300">
+
+<img src="https://github.com/user-attachments/assets/156c42eb-79e3-4b50-8653-22bb3d196fd6" alt="EOS" width="300">
+
 3. Click on the **folder icon** to choose target folder (create one with your name on the Desktop).
 4. If you don't chose a folder, your images will be saved in **Users>photographer>Pictures>2000**.
 5. Select Live View Shoot (make sure the lens cap is off).
