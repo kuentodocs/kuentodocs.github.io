@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Collection
+title: KU Collection
 parent: KU Ento
 has_children: true
 nav_order: 1
