@@ -1,9 +1,9 @@
 ---
 layout: default
 title: KU Curculionidae
-parent: Weevil Resources
+parent: Franz Lab
 has_children: true
-nav_order: 2
+nav_order: 3
 ---
 
 # Curculionidae of the KU Collection
