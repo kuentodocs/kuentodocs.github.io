@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Imaging Weevils
-parent: Franz Lab
+parent: Workflows
 has_children: false
 nav_order: 3
 ---
