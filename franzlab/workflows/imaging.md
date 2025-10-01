@@ -52,8 +52,8 @@ Imaging workflows for the weevil collection. Specimens should be **digitized** b
 
 3. Click on the **folder icon** to choose target folder (create one with your name on the Desktop).
 4. If you don't chose a folder, your images will be saved in **Users>photographer>Pictures>2000**.
-5. Select Live View Shoot (make sure the lens cap is off).
-6. In the Live View window, turn on select Depth-of-field preview.
+5. Select **Live View Shoot** (make sure the lens cap is off).
+6. In the Live View window, click **ON** for **Depth-of-field** preview.
 7. Turn on the left flash and center the specimen with the help of the live view (move the lens into the appropriate zoom).
 
 ### Open Zerene Software
