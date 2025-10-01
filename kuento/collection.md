@@ -25,6 +25,6 @@ The KU Entomological Collection is managed and digitized in **Specify 7**. Learn
 
 ## Data
 
-The SEMC data is mobilized monthly to the Global Biodiversity Information Facility. With over 1.4 million records available, SEMC is the largest Arthropoda dataset shared from a US institution.
+The SEMC data is mobilized weekly to the Global Biodiversity Information Facility. With over 1.4 million records available, SEMC is the largest Arthropoda dataset shared from a US institution.
 
 [![GBIF](https://github.com/user-attachments/assets/e62151b0-28ae-42f9-9612-faf42349c6a5)](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551)
