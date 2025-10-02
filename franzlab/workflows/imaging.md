@@ -33,11 +33,11 @@ Imaging workflows for the weevil collection. Specimens should be **digitized** b
 4. Remove debris using a fine brush **if necessary**.
 
 ## Prepare the equipment for imaging
-1. Turn on the computer, mouse and keyboard (make sure the mouse and keyboard are charged).
-2. Login to the computer (User: Photographer, no password).
-3. Check the Wi-Fi connection. Login to the KUGUEST if necessary.
-4. Turn on the camera, flash control (attached to the camera), and flashes.
-5. Turn on the stacking system.
+1. Turn on the **computer, mouse and keyboard **(make sure the mouse and keyboard are charged).
+2. **Login** to the computer (User: Photographer, no password).
+3. Check the Wi-Fi connection. **Login to the KUGUEST** if necessary.
+4. Turn on the **camera, flash control** (attached to the camera), and **flashes**.
+5. Turn on the **stacking system**.
 
    ![ImagingSystem](https://github.com/user-attachments/assets/a92fc42a-acca-4dc2-a648-248a69281a97)
 
@@ -102,4 +102,7 @@ Imaging workflows for the weevil collection. Specimens should be **digitized** b
 ## Prepare the specimen to return it 
 1. Pin the labels back (locality, barcode).
 2. Add a “Photo taken” green label.
-3. Genitalia vials and determination labels should be pinned below the photo label. 
+3. Genitalia vials and determination labels should be pinned below the photo label.
+
+## Turn off the equipment
+- Make sure all computer and camera equipment are turned off.
