@@ -37,7 +37,7 @@ Imaging workflows for the weevil collection. Specimens should be **digitized** b
 2. **Login** to the computer (User: Photographer, no password).
 3. Check the Wi-Fi connection. **Login to the KUGUEST** if necessary.
 4. Turn on the **camera, flash control** (attached to the camera), and **flashes**.
-5. Turn on the **stacking system**.
+5. Turn on the **stacking system** (push the button on the left side).
 
    ![ImagingSystem](https://github.com/user-attachments/assets/a92fc42a-acca-4dc2-a648-248a69281a97)
 
@@ -59,7 +59,7 @@ Imaging workflows for the weevil collection. Specimens should be **digitized** b
 ### Open Zerene Software
 ![Zerene](https://github.com/user-attachments/assets/836f6c38-be7a-4d95-b1d3-4ae507c5e214)
 
-1. To select the area to be imaged: **Top Menu > Tools > Stack Shot to open the Controller**. 
+1. To select the area to be imaged: **Top Menu > Tools > Stack Shot** to open the Controller. 
 <img src="https://github.com/user-attachments/assets/1f7b5689-0357-469c-bc3f-98f6b524cf84" alt="EOS" width="300">
 
 2. Click on **Fwd** (Forward, down) to find the lowest point of the specimen and **Set End**.
