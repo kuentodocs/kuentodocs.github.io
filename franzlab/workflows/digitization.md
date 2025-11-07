@@ -13,6 +13,10 @@ nav_order: 2
 Digitization workflows for the weevil collection. Data publicly available on [GBIF](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551). 
 {: .fs-5 .fw-300 }
 
+---
+
+![001657763_lateral](https://github.com/user-attachments/assets/328dc335-b6ff-4663-9fbb-f4334b6c7041)
+
 ----
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -28,7 +32,7 @@ Digitization workflows for the weevil collection. Data publicly available on [GB
 
 ## Before digitizing specimens
 
-New specimens should be **accessioned** before digitization.
+All specimens in SEMC have been **accessioned**, which means the proper paperwork has been approved to include them in the collection. New specimens should be at least **processed to be accesioned** before digitization.
 </span>
 
 </div>
