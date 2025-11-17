@@ -33,7 +33,7 @@ Digitization workflows for the weevil collection. Data publicly available on [GB
 ## Before digitizing specimens
 
 All specimens in SEMC have been **accessioned**, which means the proper paperwork has been approved to include them in the collection. New specimens should be at least **processed to be accesioned** before digitization.
-</span>
+
 
 </div>
 
