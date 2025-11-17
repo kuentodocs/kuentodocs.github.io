@@ -85,7 +85,7 @@ Imaging workflows for the weevil collection. Specimens should be **digitized** b
 ## Add a Scale Bar in Photoshop
 1. Open the output image (TIFF file).
 2. Go to **Top Menu > Image> Analysis > Set Measurement Scale** and select the appropriate scale depending on the magnification used.
-3. Go to **Top Menu> Image > Analysis> Set Scale Marker** to add the scale bar (1 mm, 2 mm, 5 mm, depending on the size).
+3. Go to **Top Menu> Image > Analysis> Place Scale Marker** to add the scale bar (1 mm, 2 mm, 5 mm, depending on the size).
 4. Save the TIFF file with the scale bar (**Save**, _not Save as_, to keep the same name).
 5. Edit later to add logo and caption.
 
