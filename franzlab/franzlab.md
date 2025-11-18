@@ -11,7 +11,7 @@ nav_order: 3
 The Franz Lab of Weevil Systematics is led by [Nico Franz](https://biodiversity.ku.edu/people/nico-franz) an is now based at the KU Biodiversity Institute and Natural History Museum. The Franz Lab is located in Room 140B in the KU Entomology Division.
 {: .fs-5 .fw-300 }
 
-![LabSlide](https://github.com/user-attachments/assets/83940d5d-0711-46b9-a40a-7dba564c74b4)
+![6a04ccb1-5a08-41b9-bd52-bba24b1a2fcd](https://github.com/user-attachments/assets/1482d9f6-6707-4126-a50a-2acea1d7751b)
 
 ----
 
