@@ -27,4 +27,3 @@ The Franz Lab of Weevil Systematics is led by [Nico Franz](https://biodiversity.
 ### [Valeria Rodriguez Parra](https://biodiversity.ku.edu/people/valeria-rodriguez-parra) - Graduate Student
 
 ### [Omotayo Agunbiade](https://museumstudies.ku.edu/people/omotayo-agunbiade) - Summer Intern (2025) 
-
