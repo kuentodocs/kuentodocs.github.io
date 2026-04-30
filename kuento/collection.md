@@ -16,6 +16,13 @@ The [KU Snow Entomological Collectio](https://biodiversity.ku.edu/entomology/col
 
 |[![EntoCollection](https://github.com/user-attachments/assets/bcba756c-5b88-4369-855c-5c1cfde5a0fe)](https://biodiversity.ku.edu/entomology/collection)|
 
+----
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ---
 
 ## **Digitization**
