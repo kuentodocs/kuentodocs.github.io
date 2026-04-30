@@ -100,7 +100,7 @@ Imaging workflows for the weevil collection. Specimens should be **digitized** b
 |Edited image, dorsal view.|
 
 ## Prepare the specimen to return it 
-1. Pin the labels back (locality, barcode).
+1. Pin the labels back (locality, barcode) **using a pinning block**.
 2. Add a “Photo taken” green label.
 3. Genitalia vials and determination labels should be pinned below the photo label.
 
