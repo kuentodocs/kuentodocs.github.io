@@ -10,28 +10,28 @@ nav_order: 1
 # Snow Entomological Collection
 {: .no_toc }
 
-The KU Snow Entomological Collection (SEMC or KUNHM) is located at Room 140F in the Entomology Division. Is currently managed by [Dr. Zack Falin](https://biodiversity.ku.edu/people/zack-falin) and [Dr. Rachel Osborn](https://biodiversity.ku.edu/people/rachel-osborn)
+The [KU Snow Entomological Collectio](https://biodiversity.ku.edu/entomology/collection) (SEMC or KUNHM) is located at Room 140F in the Entomology Division. Is currently managed by [Dr. Zack Falin](https://biodiversity.ku.edu/people/zack-falin) and [Dr. Rachel Osborn](https://biodiversity.ku.edu/people/rachel-osborn)
 ).
 {: .fs-5 .fw-300 }
 
-![EntoCollection](https://github.com/user-attachments/assets/bcba756c-5b88-4369-855c-5c1cfde5a0fe)
+|[![EntoCollection](https://github.com/user-attachments/assets/bcba756c-5b88-4369-855c-5c1cfde5a0fe)](https://biodiversity.ku.edu/entomology/collection)|
 
 ---
 
-## Digitization
+## **Digitization**
 
 The KU Entomological Collection is managed and digitized in **Specify 7**. Learn more in the [Digitization](https://kuentodocs.github.io/franzlab/workflows/digitization/) section.
 
 
-## Data
+## **Data**
 
-- **Global Data Aggregators**
+### **Global Data Aggregators**
   
 The SEMC data is mobilized weekly to the [Global Biodiversity Information Facility](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551). With over 1.4 million records available, SEMC is the largest Arthropoda dataset shared from a US institution.
 
-[<img width="1833" height="1312" alt="image" src="https://github.com/user-attachments/assets/2ae7704d-2828-478d-a9e4-9d715e65b61a" />](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551)
+|[<img width="1833" height="1312" alt="image" src="https://github.com/user-attachments/assets/2ae7704d-2828-478d-a9e4-9d715e65b61a" />](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551)|
 
-- **Regional Data Aggregators**
+### **Regional Data Aggregators**
 
 Data for specific regions or projects is also mobilized to **Symbiota Portals**, including the [Kansas Biodiversity Portal](https://ks.symbiota.org/portal/collections/misc/collprofiles.php?collid=1) and the [Guatemala Biodiversity Portal](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=97).
 
