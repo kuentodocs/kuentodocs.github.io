@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-# Snow Entomological Collection
+# **Snow Entomological Collection**
 {: .no_toc }
 
 The [KU Snow Entomological Collectio](https://biodiversity.ku.edu/entomology/collection) (SEMC or KUNHM) is located at Room 140F in the Entomology Division. Is currently managed by [Dr. Zack Falin](https://biodiversity.ku.edu/people/zack-falin) and [Dr. Rachel Osborn](https://biodiversity.ku.edu/people/rachel-osborn)
