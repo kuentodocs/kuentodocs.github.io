@@ -25,6 +25,22 @@ The KU Entomological Collection is managed and digitized in **Specify 7**. Learn
 
 ## Data
 
-The SEMC data is mobilized weekly to the Global Biodiversity Information Facility. With over 1.4 million records available, SEMC is the largest Arthropoda dataset shared from a US institution.
+- **Global Data Aggregators**
+  
+The SEMC data is mobilized weekly to the [Global Biodiversity Information Facility](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551). With over 1.4 million records available, SEMC is the largest Arthropoda dataset shared from a US institution.
 
-[![GBIF](https://github.com/user-attachments/assets/e62151b0-28ae-42f9-9612-faf42349c6a5)](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551)
+[<img width="1833" height="1312" alt="image" src="https://github.com/user-attachments/assets/2ae7704d-2828-478d-a9e4-9d715e65b61a" />](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551)
+
+- **Regional Data Aggregators**
+
+Data for specific regions or projects is also mobilized to **Symbiota Portals**, including the [Kansas Biodiversity Portal](https://ks.symbiota.org/portal/collections/misc/collprofiles.php?collid=1) and the [Guatemala Biodiversity Portal](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=97).
+
+|[<img width="1282" height="197" alt="image" src="https://github.com/user-attachments/assets/5c889954-15e1-4308-afab-3d4b47052129" />](https://ks.symbiota.org/portal/)
+[<img width="1652" height="1096" alt="image" src="https://github.com/user-attachments/assets/20adbca3-f2cd-4774-b77d-6dba826935c1" />](https://ks.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&stat=geography#geographystats)|
+
+
+
+|[<img width="1301" height="189" alt="image" src="https://github.com/user-attachments/assets/22682859-078f-497f-95ed-90ffeb96ce3e" />](https://biodiversidad.gt/portal/index.php)
+[<img width="1633" height="1167" alt="image" src="https://github.com/user-attachments/assets/4fbfe4aa-7069-4944-bd67-18646f2ac96a" />](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=97&stat=geography#geographystats)|
+
+
