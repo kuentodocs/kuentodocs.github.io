@@ -53,7 +53,7 @@ Imaging workflows for the weevil collection. Specimens should be **digitized** b
 3. Click on the **folder icon** to choose target folder (create one with your name on the Desktop).
 <img width="1216" height="897" alt="eosmenufolder" src="https://github.com/user-attachments/assets/75bfd7a1-a4b1-4379-b81c-c9308e79deb6" />
 
-|_To get consecutive file names, check the settings for the file names and set them as "Prefix+Number" (e.g. IMG_000001)._|
+|**To get consecutive file names, customize them as "Prefix+Number" (e.g. IMG_000001).**|
 
 |<img width="1248" height="912" alt="eosmenufolderconfig" src="https://github.com/user-attachments/assets/d5f5c76f-3152-4e69-9366-71f7cf37d64d" />|
 
