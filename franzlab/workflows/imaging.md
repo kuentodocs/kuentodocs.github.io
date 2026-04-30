@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 
-# Imaging Weevils
+# **Imaging Weevils**
 {: .no_toc }
 
 Imaging workflows for the weevil collection. Specimens should be **digitized** before imaging. **Please image one specimen at the time, as the workflow requires removing the labels.**  
@@ -15,7 +15,7 @@ Imaging workflows for the weevil collection. Specimens should be **digitized** b
 
 ---
 
-![001653237_lateral](https://github.com/user-attachments/assets/558afefe-5982-497a-9e03-071ce7a206d2)
+|![001653237_lateral](https://github.com/user-attachments/assets/558afefe-5982-497a-9e03-071ce7a206d2)|
 
 ----
 ## Table of Contents
@@ -26,31 +26,37 @@ Imaging workflows for the weevil collection. Specimens should be **digitized** b
 
 ----
 
-## Prepare the specimen for imaging
+## **Prepare the specimen for imaging**
 1. Remove labels carefully **using forceps**.
 2. Place the labels, in order, on the pinning block.
 3. Place the specimen on a piece of gray clay and position it under a microscope.
 4. Remove debris using a fine brush **if necessary**.
 
-## Prepare the equipment for imaging
+## **Prepare the equipment for imaging**
 1. Turn on the **computer, mouse and keyboard **(make sure the mouse and keyboard are charged).
 2. **Login** to the computer (User: Photographer, no password).
 3. Check the Wi-Fi connection. **Login to the KUGUEST** if necessary.
 4. Turn on the **camera, flash control** (attached to the camera), and **flashes**.
 5. Turn on the **stacking system** (push the button on the left side).
 
-   ![ImagingSystem](https://github.com/user-attachments/assets/a92fc42a-acca-4dc2-a648-248a69281a97)
+|![ImagingSystem](https://github.com/user-attachments/assets/a92fc42a-acca-4dc2-a648-248a69281a97)|
 
 
-## Prepare the software for imaging
+## **Prepare the software for imaging**
 
 ### Open EOS 6D Software
 1. Make sure the camera is on (or turn it off and on again to activate the options).
 2. Click on **Remote Shooting** to open the menu.
 
-<img src="https://github.com/user-attachments/assets/156c42eb-79e3-4b50-8653-22bb3d196fd6" alt="EOS" width="300">
+|<img width="593" height="687" alt="eosmenu" src="https://github.com/user-attachments/assets/f793abe0-452a-4539-b8a9-38599579dd75" />|
 
 3. Click on the **folder icon** to choose target folder (create one with your name on the Desktop).
+<img width="1216" height="897" alt="eosmenufolder" src="https://github.com/user-attachments/assets/75bfd7a1-a4b1-4379-b81c-c9308e79deb6" />
+
+|_To get consecutive file names, check the settings for the file names and set them as "Prefix+Number" (e.g. IMG_000001)._|
+
+|<img width="1248" height="912" alt="eosmenufolderconfig" src="https://github.com/user-attachments/assets/d5f5c76f-3152-4e69-9366-71f7cf37d64d" />|
+
 4. If you don't chose a folder, your images will be saved in **Users>photographer>Pictures>2000**.
 5. Select **Live View Shoot** (make sure the lens cap is off).
 6. In the Live View window, click **ON** for **Depth-of-field** preview.
