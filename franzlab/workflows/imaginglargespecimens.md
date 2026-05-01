@@ -35,26 +35,35 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 
 **4.-**  Remove debris using a fine brush **if necessary**.
 
+---
+
 ## **Prepare the equipment for imaging**
-1. Turn on the **computer, mouse and keyboard **(make sure the mouse and keyboard are charged).
-2. **Login** to the computer (User: Photographer, no password).
-3. Check the Wi-Fi connection. **Login to the KUGUEST** if necessary.
-4. Turn on the **camera, flash control** (attached to the camera, if batteries are empty please change them), and **flashes**.
-5. Turn on the **stacking system** (push the button on the left side).
+**1.-** Turn on the **computer, mouse and keyboard **(make sure the mouse and keyboard are charged).
+
+**2.-** **Login** to the computer (User: Photographer, no password).
+
+**3.-** Check the Wi-Fi connection. **Login to the KUGUEST** if necessary.
+
+**4.-** Turn on the **camera, flash control** (attached to the camera, if batteries are empty please change them), and **flashes**.
+
+**5.-** Turn on the **stacking system** (push the button on the left side).
 
 |![ImagingSystem](https://github.com/user-attachments/assets/a92fc42a-acca-4dc2-a648-248a69281a97)|
 
+---
 
 ## **Prepare the software for imaging**
 
 ### Open EOS 6D Software
-**1-** Make sure the camera is on (or turn it off and on again to activate the options).
-**2-** Click on **Remote Shooting** to open the menu.
+**1.-** Make sure the camera is on (or turn it off and on again to activate the options).
+
+**2.-** Click on **Remote Shooting** to open the menu.
 
 |<img width="593" height="687" alt="eosmenu" src="https://github.com/user-attachments/assets/f793abe0-452a-4539-b8a9-38599579dd75" />|
 
 **3-** Click on the **folder icon** to choose target folder (create one with your name on the Desktop).
-<img width="1216" height="897" alt="eosmenufolder" src="https://github.com/user-attachments/assets/75bfd7a1-a4b1-4379-b81c-c9308e79deb6" />
+
+|<img width="1216" height="897" alt="eosmenufolder" src="https://github.com/user-attachments/assets/75bfd7a1-a4b1-4379-b81c-c9308e79deb6" />|
 
 |**To get consecutive file names, customize them as "Prefix+Number" (e.g. IMG_000001).**|
 
@@ -73,6 +82,8 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 |<img width="7831" height="5027" alt="imagelarge" src="https://github.com/user-attachments/assets/fbd34c5c-d380-4ff9-af63-0196e6aa4c59" />|
 |:--:|
 |Image each section individually, following the next steps in Zerene.|
+
+---
 
 ### Open Zerene Software
 ![Zerene](https://github.com/user-attachments/assets/836f6c38-be7a-4d95-b1d3-4ae507c5e214)
@@ -95,6 +106,8 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 
 **8.-**  The files will be saved in the folder you selected before. 
 
+---
+
 ## **Focus stack the images in Zerene**
 **1.-**  To add the images to stack: **Top menu > Files > Add File**.
 
@@ -111,6 +124,8 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 **7.-**  Close the project on Zerene **Top Menu > File > Close Project**.
 
 **8.-**  Once you have all your stacked images for the specimen, go to Photoshop. 
+
+---
 
 ## **Align and blend multiple images in Photoshop**
 
@@ -130,6 +145,8 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 
 | <img width="6016" height="3264" alt="finalimage" src="https://github.com/user-attachments/assets/076414e6-1006-4a15-a2d9-236197cbd6aa" /> |
 
+---
+
 ## **Add a Scale Bar in Photoshop**
 **1.-**  Take an additional (partial) image with a known scale to use it as reference and follow the next steps.
 
@@ -147,7 +164,11 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 |:--:|
 |Edited image, dorsal view.|
 
+---
+
 ## Prepare the specimen for next image, repeat all steps
+
+---
 
 ## Prepare the specimen to return it 
 **1.-**  Pin the labels back (locality, barcode) **using a pinning block**.
