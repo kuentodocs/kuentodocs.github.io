@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KU Ento
+title: KU Entomology
 has_children: true
 nav_order: 2
 ---
