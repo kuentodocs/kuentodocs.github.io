@@ -54,7 +54,7 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 
 ## **Prepare the software for imaging**
 
-Open EOS 6D Software {: .btn .btn-blue } 
+[Open EOS 6D Software] {: .btn .btn-blue } 
 
 **1.-** Make sure the camera is on (or turn it off and on again to activate the options).
 
