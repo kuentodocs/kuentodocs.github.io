@@ -174,5 +174,7 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 **1.-**  Pin the labels back (locality, barcode) **using a pinning block**.
 
 **2.-**  Add a “Photo taken” green label.
-3. Genitalia vials and determination labels should be pinned below the photo label.
-4. Return the specimen to its unit tray and drawer.
+
+**3.-** Genitalia vials and determination labels should be pinned below the photo label.
+
+**4.-** Return the specimen to its unit tray and drawer.
