@@ -54,7 +54,8 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 
 ## **Prepare the software for imaging**
 
-### Open EOS 6D Software
+Open EOS 6D Software {: .btn .btn-blue } 
+
 **1.-** Make sure the camera is on (or turn it off and on again to activate the options).
 
 **2.-** Click on **Remote Shooting** to open the menu.
@@ -85,8 +86,9 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 
 ---
 
-### Open Zerene Software
-![Zerene](https://github.com/user-attachments/assets/836f6c38-be7a-4d95-b1d3-4ae507c5e214)
+Open Zerene Software {: .btn .btn-blue } 
+
+|![Zerene](https://github.com/user-attachments/assets/836f6c38-be7a-4d95-b1d3-4ae507c5e214)|
 
 **1-.**  To select the area to be imaged: **Top Menu > Tools > Stack Shot** to open the Controller. 
 
