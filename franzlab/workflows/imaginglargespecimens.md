@@ -27,6 +27,7 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 ----
 
 ## **Prepare the specimen for imaging**
+
 **1-.** Remove labels carefully **using forceps**. Not necessary if labels not visible.
 
 **2-.** Place the labels, in order, on the pinning block.
@@ -38,6 +39,7 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 ---
 
 ## **Prepare the equipment for imaging**
+
 **1.-** Turn on the **computer, mouse and keyboard **(make sure the mouse and keyboard are charged).
 
 **2.-** **Login** to the computer (User: Photographer, no password).
@@ -54,7 +56,7 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 
 ## **Prepare the software for imaging**
 
-[Open EOS 6D Software]{: .btn .btn-blue } 
+### **Open EOS 6D Software**
 
 **1.-** Make sure the camera is on (or turn it off and on again to activate the options).
 
@@ -86,7 +88,7 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 
 ---
 
-[Open Zerene Software]{: .btn .btn-blue } 
+### **Open Zerene Software**
 
 |![Zerene](https://github.com/user-attachments/assets/836f6c38-be7a-4d95-b1d3-4ae507c5e214)|
 
@@ -111,6 +113,7 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 ---
 
 ## **Focus stack the images in Zerene**
+
 **1.-**  To add the images to stack: **Top menu > Files > Add File**.
 
 **2.-**  To stack the images: **Top menu > Stack > Align & Stack All (PMax)**.
@@ -150,6 +153,7 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 ---
 
 ## **Add a Scale Bar in Photoshop**
+
 **1.-**  Take an additional (partial) image with a known scale to use it as reference and follow the next steps.
 
 **2.-**  Open the output image (TIFF file).
@@ -173,6 +177,7 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 ---
 
 ## Prepare the specimen to return it 
+
 **1.-**  Pin the labels back (locality, barcode) **using a pinning block**.
 
 **2.-**  Add a “Photo taken” green label.
