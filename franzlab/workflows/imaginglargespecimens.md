@@ -58,6 +58,9 @@ Imaging workflows for moths, butterflies and other large specimens. Specimens sh
 
 ### **Open EOS 6D Software**
 
+|<img width="110" height="125" alt="eos" src="https://github.com/user-attachments/assets/2ef9df54-ba97-4f61-b5d4-403dc10dd01c" />|
+
+
 **1.-** Make sure the camera is on (or turn it off and on again to activate the options).
 
 **2.-** Click on **Remote Shooting** to open the menu.
