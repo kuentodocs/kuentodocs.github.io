@@ -1,7 +1,7 @@
 ---
 layout: default
 title: KU Collection
-parent: KU Ento
+parent: KU Entomology
 has_children: true
 nav_order: 3
 ---
