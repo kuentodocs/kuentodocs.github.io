@@ -27,3 +27,13 @@ nav_order: 3
 
 ----
 
+# Join the Weevil Portal
+
+Anyone can access the Weevil Portal, however you will need to login to download data and generate resources (e.g. checklists). Click [**here**](https://weevil.symbiota.org/portal/profile/newprofile.php) to create an account.
+
+<img width="1207" height="615" alt="image" src="https://github.com/user-attachments/assets/0d0589fd-d2b4-44d2-8c0e-09afbcb10473" />
+
+Please get in touch with anyone in the Franz Lab if you need assistance.
+
+
+
