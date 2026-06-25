@@ -35,7 +35,8 @@ The KU Entomological Collection is managed and digitized in **Specify 7**. Learn
   
 SEMC data is mobilized weekly to the [Global Biodiversity Information Facility](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551). With over 1.4 million records available, SEMC is the largest Arthropoda dataset shared from a US institution.
 
-|[<img width="1833" height="1312" alt="image" src="https://github.com/user-attachments/assets/2ae7704d-2828-478d-a9e4-9d715e65b61a" />](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551)|
+[<img width="1570" height="1218" alt="image" src="https://github.com/user-attachments/assets/4de260b3-2cc2-47f3-b348-ea069ef08caa" />
+](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551)
 
 Records for specific regions or projects are also mobilized to **Symbiota Portals**, including the [Kansas Biodiversity Portal](https://ks.symbiota.org/portal/collections/misc/collprofiles.php?collid=1) and the [Guatemala Biodiversity Portal](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=97).
 
