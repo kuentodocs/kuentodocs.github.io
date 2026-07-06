@@ -44,7 +44,7 @@ Imaging workflows for the weevil collection. Specimens should be **digitized** b
 
 **4.-** Turn on the **camera, flash control** (attached to the camera), and **flashes**.
 
-**5.-** Turn on the **stacking system** (push the button on the left side).
+**5.-** Turn on the **stacking system** (push the button on the left side of the control). _If the stacking system control crashes, please don't unplug it and call for help._
 
 |![ImagingSystem](https://github.com/user-attachments/assets/a92fc42a-acca-4dc2-a648-248a69281a97)|
 
@@ -148,4 +148,4 @@ Imaging workflows for the weevil collection. Specimens should be **digitized** b
 **3.-** Genitalia vials and determination labels should be pinned below the photo label.
 
 ## Turn off the equipment
-- Make sure all computer and camera equipment are turned off.
+- Make sure all computer and camera equipment (including flashes and staking system control) are turned off.
