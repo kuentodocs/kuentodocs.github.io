@@ -77,6 +77,9 @@ Imaging workflows for the weevil collection. Specimens should be **digitized** b
 
 **7.-** Turn on the left flash and center the specimen with the help of the live view (move the lens into the appropriate zoom).
 
+**8.-** Set the flashes according to the zoom used. Increase intensity with higher magnification (e.g. flash at 2.5-3.5 for 1x-2x zoom, 4.5-5 for 3-4x zoom, or 5.6+ for 5x zoom).
+
+
 ### **Open Zerene Software**
 ![Zerene](https://github.com/user-attachments/assets/836f6c38-be7a-4d95-b1d3-4ae507c5e214)
 
