@@ -21,20 +21,26 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 ### [Dr. Samanta Orellana](https://biodiversity.ku.edu/people/samanta-orellana) - Postdoctoral Researcher (2025-2027)
 
-### [Madeline Shaw](https://eeb.ku.edu/people/shaw-madeline) - Graduate Student (2025-)
 
 ### [Valeria Rodriguez Parra](https://biodiversity.ku.edu/people/valeria-rodriguez-parra) - Graduate Student (2025-)
 
-### Sophia Dvorak - BIOL 490 Internship (Fall 2026)
+### [Madeline Shaw](https://eeb.ku.edu/people/shaw-madeline) - Graduate Student (2025-)
 
-###  Grey Steinmetz - BIOL 490 Internship (Fall 2026)
 
-### Camryn Bahner - BIOL 490 Internship (Fall 2026)
+## BIOL 490 Undergraduate Internship
 
-### Bremmer Campion - BIOL 490 Internship (Fall 2026)
+### Camryn Bahner - (Fall 2026)
+
+### Bremmer Campion - (Fall 2026)
+
+### Sophia Dvorak - (Fall 2026)
+
+###  Grey Steinmetz - (Fall 2026)
+
 
 ## Previous Members
 
+### Tegan Von Der Heyde - Undergraduate Research Assistant (Spring 2026)
+
 ### [Omotayo Agunbiade](https://museumstudies.ku.edu/people/omotayo-agunbiade) - Summer Intern (2025) 
 
-### Tegan Von Der Heyde - Undergraduate Research Assistant (Spring 2026)
