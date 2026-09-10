@@ -17,16 +17,14 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 ---
 
-<img style="float: left;" width="152" height="150" alt="NF" src="https://github.com/user-attachments/assets/f0e121c3-a21e-4e38-a7da-6349854e945b">
-
 ### [**Dr. Nico Franz**](https://biodiversity.ku.edu/people/nico-franz) 
+
+<img style="float: right;" width="152" height="150" alt="NF" src="https://github.com/user-attachments/assets/f0e121c3-a21e-4e38-a7da-6349854e945b">
 
 _Principal Investigator_. Dr. Franz is an evolutionary biologist and insect systematist specializing in weevils. His research program also focuses on developing innovative, equitable biocollections infrastructure and biodiversity data science services. Visit the [Symbiota](https://symbiota.org) website for more information. 
 
 
 ---
-
-<br>
 
 ## **Current Members**
 
@@ -42,9 +40,9 @@ _Postdoctoral Researcher._ Dr. Orellana is an entomologist and evolutionary biol
 
 <br>
 
-<img style="float: left;" width="152" height="150" alt="VR" src="https://github.com/user-attachments/assets/89c99c69-4621-4957-ac70-f07f19ede638">
-
 ### [**Valeria Rodriguez Parra**](https://biodiversity.ku.edu/people/valeria-rodriguez-parra) 
+
+<img style="float: right;" width="152" height="150" alt="VR" src="https://github.com/user-attachments/assets/89c99c69-4621-4957-ac70-f07f19ede638">
 
 _Graduate Student._ Ecology and Evolutionary Biology MA student.
 
