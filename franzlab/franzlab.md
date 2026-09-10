@@ -24,7 +24,7 @@ _Principal Investigator_. Dr. Franz is an evolutionary biologist and insect syst
 
 ---
 
-## Current Members
+## **Current Members**
 
 
 ### [**Dr. Samanta Orellana**](https://biodiversity.ku.edu/people/samanta-orellana) 
@@ -63,7 +63,7 @@ _EEB Graduate Student._
 
 ---
 
-## Previous Members
+## **Previous Members**
 
 ### Tegan Von Der Heyde - Undergraduate Research Assistant (Spring 2026)
 
