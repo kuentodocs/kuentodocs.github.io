@@ -11,13 +11,11 @@ nav_order: 3
 The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institute and Natural History Museum. 
 {: .fs-5 .fw-300 }
 
-|![LabSlide](https://github.com/user-attachments/assets/9f51b83a-2e0b-48fa-bd21-0d6adb635c3c)|
-
 
 ----
 
 
-## Current members
+## Current Members
 
 ### [Dr. Nico Franz](https://biodiversity.ku.edu/people/nico-franz) - Principal Investigator
 
@@ -26,6 +24,16 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 ### [Madeline Shaw](https://eeb.ku.edu/people/shaw-madeline) - Graduate Student (2025-)
 
 ### [Valeria Rodriguez Parra](https://biodiversity.ku.edu/people/valeria-rodriguez-parra) - Graduate Student (2025-)
+
+### Sophia Dvorak - BIOL 490 Internship (Fall 2026)
+
+###  Grey Steinmetz - BIOL 490 Internship (Fall 2026)
+
+### Camryn Bahner - BIOL 490 Internship (Fall 2026)
+
+### Bremmer Campion - BIOL 490 Internship (Fall 2026)
+
+## Previous Members
 
 ### [Omotayo Agunbiade](https://museumstudies.ku.edu/people/omotayo-agunbiade) - Summer Intern (2025) 
 
