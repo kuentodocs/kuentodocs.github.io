@@ -31,7 +31,7 @@ _Principal Investigator_. Dr. Franz is an evolutionary biologist and insect syst
 
 ### [**Dr. Samanta Orellana**](https://biodiversity.ku.edu/people/samanta-orellana) 
 
-| <img style="float: left;" width="182.6" height="180" alt="SO" src="https://github.com/user-attachments/assets/aa1d407e-1ef5-43d1-9d68-4780f576f4bc"> |
+<img style="float: left;" width="182.6" height="180" alt="SO" src="https://github.com/user-attachments/assets/aa1d407e-1ef5-43d1-9d68-4780f576f4bc">
 
 _Postdoctoral Researcher._ Dr. Orellana is an entomologist and evolutionary biologist focused on the systematics of [fungus weevils](https://samantaorellana.github.io/) and biodiversity data mobilization. As part of the [Symbiota](https://symbiota.org/about-us/) team and the [GBIF Network](https://www.gbif.org/mentors), she actively collaborates with Latin American collections to advance their biodiversity data initiatives.
 
@@ -39,7 +39,7 @@ _Postdoctoral Researcher._ Dr. Orellana is an entomologist and evolutionary biol
 
 ### [**Valeria Rodriguez Parra**](https://biodiversity.ku.edu/people/valeria-rodriguez-parra) 
 
-| <img style="float: left;" width="182.6" height="180" alt="VR" src="https://github.com/user-attachments/assets/89c99c69-4621-4957-ac70-f07f19ede638"> |
+<img style="float: left;" width="182.6" height="180" alt="VR" src="https://github.com/user-attachments/assets/89c99c69-4621-4957-ac70-f07f19ede638">
 
 _EEB Graduate Student._
 
@@ -47,7 +47,7 @@ _EEB Graduate Student._
 
 ### [**Madeline Shaw**](https://eeb.ku.edu/people/shaw-madeline)
 
-| <img style="float: left;" width="182.6" height="180" alt="MS" src="https://github.com/user-attachments/assets/026c39d4-6751-4d44-bd5a-c018ea17b4e3"> |
+<img style="float: left;" width="182.6" height="180" alt="MS" src="https://github.com/user-attachments/assets/026c39d4-6751-4d44-bd5a-c018ea17b4e3">
 
 _EEB Graduate Student._
 
