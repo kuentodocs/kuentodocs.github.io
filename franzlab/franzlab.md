@@ -21,17 +21,18 @@ https://github.com/kuentodocs/kuentodocs.github.io/blob/main/static/HeaderPhotoN
 
 ### [Dr. Nico Franz](https://biodiversity.ku.edu/people/nico-franz) - Principal Investigator
 
+---
 
 ## Current Members
 
 
 ### [Dr. Samanta Orellana](https://biodiversity.ku.edu/people/samanta-orellana) - Postdoctoral Researcher (2025-2027)
 
-
 ### [Valeria Rodriguez Parra](https://biodiversity.ku.edu/people/valeria-rodriguez-parra) - Graduate Student (2025-)
 
 ### [Madeline Shaw](https://eeb.ku.edu/people/shaw-madeline) - Graduate Student (2025-)
 
+---
 
 ## BIOL 490 Undergraduate Internship
 
@@ -43,6 +44,7 @@ https://github.com/kuentodocs/kuentodocs.github.io/blob/main/static/HeaderPhotoN
 
 ###  Grey Steinmetz - (Fall 2026)
 
+---
 
 ## Previous Members
 
