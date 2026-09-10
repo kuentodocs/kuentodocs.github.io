@@ -62,7 +62,7 @@ _Graduate Student._ Ecology and Evolutionary Biology MA student.
 
 <br>
 
-## **BIOL 490 Undergraduate Internship**
+## **BIOL 490 Undergraduate Interns**
 
 ### Camryn Bahner - (Fall 2026)
 
