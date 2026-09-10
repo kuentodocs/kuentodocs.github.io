@@ -16,7 +16,8 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 <img width="13362" height="2193" alt="weevils" src="https://github.com/user-attachments/assets/cccfb6a5-f57b-48d3-8c2c-5fda2013f1b7" />
 
 ---
- <img style="float: left;" width="152" height="150" alt="NF" src="https://github.com/user-attachments/assets/052bb230-595e-4edf-8c89-8b1af373619f">
+ <img style="float: left;" width="152" height="150" alt="NF" src="https://github.com/user-attachments/assets/ae7ac04b-00a1-476c-aa22-e280463b3cf5">
+
 
 ### [**Dr. Nico Franz**](https://biodiversity.ku.edu/people/nico-franz) 
 
