@@ -26,8 +26,7 @@ _Principal Investigator_. Dr. Franz is an evolutionary biologist and insect syst
 ## Current Members
 
 
-<img style="float: left;" width="150" height="165" alt="SO" src="https://github.com/kuentodocs/kuentodocs.github.io/blob/main/static/HeaderPhotoSO.png?raw=true">
-
+<img style="float: left;" width="182.6" height="180" alt="SO" src="https://github.com/user-attachments/assets/aa1d407e-1ef5-43d1-9d68-4780f576f4bc">
 
 ### [Dr. Samanta Orellana](https://biodiversity.ku.edu/people/samanta-orellana) 
 _Postdoctoral Researcher._ Dr. Orellana is an entomologist and evolutionary biologist focused on the systematics of [fungus weevils](https://samantaorellana.github.io/) and biodiversity data mobilization. As part of the [Symbiota](https://symbiota.org/about-us/) team and the [GBIF Network](https://www.gbif.org/mentors), she actively collaborates with Latin American collections to advance their biodiversity data initiatives.
