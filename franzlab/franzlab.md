@@ -30,6 +30,8 @@ _Principal Investigator_. Dr. Franz is an evolutionary biologist and insect syst
 
 ## **Current Members**
 
+---
+
 <br>
 
 <img style="float: left;" width="152" height="150" alt="SO" src="https://github.com/user-attachments/assets/aa1d407e-1ef5-43d1-9d68-4780f576f4bc">
