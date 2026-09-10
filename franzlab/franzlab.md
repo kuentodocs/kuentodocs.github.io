@@ -13,7 +13,7 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 ----
 
-<img width="13362" height="2193" alt="weevils" src="https://github.com/user-attachments/assets/cccfb6a5-f57b-48d3-8c2c-5fda2013f1b7" />
+| <img width="13362" height="2193" alt="weevils" src="https://github.com/user-attachments/assets/cccfb6a5-f57b-48d3-8c2c-5fda2013f1b7" />| 
 
 ---
 
@@ -30,6 +30,7 @@ _Principal Investigator_. Dr. Franz is an evolutionary biologist and insect syst
 
 ## **Current Members**
 
+<br>
 
 <img style="float: left;" width="152" height="150" alt="SO" src="https://github.com/user-attachments/assets/aa1d407e-1ef5-43d1-9d68-4780f576f4bc">
 
