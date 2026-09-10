@@ -14,9 +14,16 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 ----
 
-## Current Members
+https://github.com/kuentodocs/kuentodocs.github.io/blob/main/static/HeaderPhotoNF.png?raw=true
+
+---
+<img style="float: left;" width="300" height="330" alt="SOre" src="https://github.com/kuentodocs/kuentodocs.github.io/blob/main/static/HeaderPhotoNF.png?raw=true">
 
 ### [Dr. Nico Franz](https://biodiversity.ku.edu/people/nico-franz) - Principal Investigator
+
+
+## Current Members
+
 
 ### [Dr. Samanta Orellana](https://biodiversity.ku.edu/people/samanta-orellana) - Postdoctoral Researcher (2025-2027)
 
