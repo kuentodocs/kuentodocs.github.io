@@ -18,8 +18,7 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 ### [Dr. Nico Franz](https://biodiversity.ku.edu/people/nico-franz) 
 
-_Principal Investigator_. Dr. Franz is an evolutionary biologist and insect systematist specializing in weevils. His research program also focuses on developing innovative, equitable biocollections infrastructure and biodiversity data science services. Visit the [Symbiota](https://symbiota.org) website for more information. |
-|---|
+_Principal Investigator_. Dr. Franz is an evolutionary biologist and insect systematist specializing in weevils. His research program also focuses on developing innovative, equitable biocollections infrastructure and biodiversity data science services. Visit the [Symbiota](https://symbiota.org) website for more information. 
 
 
 ---
@@ -27,10 +26,12 @@ _Principal Investigator_. Dr. Franz is an evolutionary biologist and insect syst
 ## Current Members
 
 
-<img style="float: left;" width="182.6" height="180" alt="SO" src="https://github.com/user-attachments/assets/aa1d407e-1ef5-43d1-9d68-4780f576f4bc">
+| <img style="float: left;" width="182.6" height="180" alt="SO" src="https://github.com/user-attachments/assets/aa1d407e-1ef5-43d1-9d68-4780f576f4bc"> |
 
 ### [Dr. Samanta Orellana](https://biodiversity.ku.edu/people/samanta-orellana) 
 _Postdoctoral Researcher._ Dr. Orellana is an entomologist and evolutionary biologist focused on the systematics of [fungus weevils](https://samantaorellana.github.io/) and biodiversity data mobilization. As part of the [Symbiota](https://symbiota.org/about-us/) team and the [GBIF Network](https://www.gbif.org/mentors), she actively collaborates with Latin American collections to advance their biodiversity data initiatives.
+
+| <img style="float: left;" width="182.6" height="180" alt="SO" src="https://github.com/user-attachments/assets/89c99c69-4621-4957-ac70-f07f19ede638"> |
 
 ### [Valeria Rodriguez Parra](https://biodiversity.ku.edu/people/valeria-rodriguez-parra) - Graduate Student (2025-)
 
