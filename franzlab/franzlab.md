@@ -13,7 +13,7 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 ----
 
-| <img width="13362" height="2193" alt="weevils" src="https://github.com/user-attachments/assets/cccfb6a5-f57b-48d3-8c2c-5fda2013f1b7" />| 
+<img width="13362" height="2193" alt="weevils" src="https://github.com/user-attachments/assets/cccfb6a5-f57b-48d3-8c2c-5fda2013f1b7" />
 
 ---
 
