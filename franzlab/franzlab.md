@@ -35,6 +35,8 @@ _Postdoctoral Researcher._ Dr. Orellana is an entomologist and evolutionary biol
 
 ### [Valeria Rodriguez Parra](https://biodiversity.ku.edu/people/valeria-rodriguez-parra) - Graduate Student (2025-)
 
+| <img style="float: left;" width="182.6" height="180" alt="SO" src="https://github.com/user-attachments/assets/026c39d4-6751-4d44-bd5a-c018ea17b4e3"> |
+
 ### [Madeline Shaw](https://eeb.ku.edu/people/shaw-madeline) - Graduate Student (2025-)
 
 ---
