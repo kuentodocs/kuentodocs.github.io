@@ -39,7 +39,7 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 
 | <img width="369.4" height="280" alt="SOinCostaRica" src="https://github.com/user-attachments/assets/b80ff7bd-fe3f-458f-b5e7-8b70f813a47f" /> <img width="230" height="280" alt="SOinUCR" src="https://github.com/user-attachments/assets/f5908736-8944-497f-b4f1-7b0bc9d8c4cf" /> |
 |---|
-|Left: Samanta Orellana collecting beetles on fungi and decaying vegetation. Right: Visit to University of Costa Rica collections. Costa Rica, 2025. |
+|Samanta Orellana collecting beetles and visiting the University of Costa Rica collections. Costa Rica, 2025. |
 
 ---
 
