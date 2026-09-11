@@ -31,7 +31,7 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 
 | <img width="714" height="624.6" alt="VRworkshop" src="https://github.com/user-attachments/assets/260806bb-f672-421f-b6bf-1ff81ec32cbe" /> <img width="616" height="810.6" alt="MSworkshop" src="https://github.com/user-attachments/assets/f708a1d7-35c7-4348-bccb-f8adda61d558" /> |
 |---|
-|Valeria Rodríguez and Madeline Shaw preparing and identifying weevils. |
+|Valeria Rodríguez and Madeline Shaw preparing and identifying weevils. Southwestern Research Station, Portal, AZ, 2025 |
 
 
 ## International Fieldwork and Collection Visits
@@ -76,6 +76,8 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 | <img width="739" height="560" alt="posterOA" src="https://github.com/user-attachments/assets/88b1cfd7-e1ff-4996-a5e6-e77911f054b7" /> |
 |---|
 |**Agunbiade O**, Orellana KS, Franz N (2026) Digitizing and Publishing Naupactini Weevil Specimen Data and Images Based on a Modern Insect Research Collection Workflow (Coleoptera: Curculionoidea). Kansas Academy of Science Meeting, Lawrence, Kansas. |
+
+---
 
 ## KU Entomology Courses
 
