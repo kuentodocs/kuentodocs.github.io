@@ -29,7 +29,7 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 <img style="float: right;" width="152" height="150" alt="SO" src="https://github.com/user-attachments/assets/aa1d407e-1ef5-43d1-9d68-4780f576f4bc">
 
-_Postdoctoral Researcher._ Dr. Orellana is an entomologist and evolutionary biologist focused on the systematics of [fungus weevils](https://samantaorellana.github.io/) and biodiversity data mobilization. As part of the Symbiota team and the GBIF Network, she actively collaborates with Latin American collections to advance their biodiversity data initiatives.
+**_Postdoctoral Researcher._** Dr. Orellana is an entomologist and evolutionary biologist focused on the systematics of [fungus weevils](https://samantaorellana.github.io/) and biodiversity data mobilization. As part of the Symbiota team and the GBIF Network, she actively collaborates with Latin American collections to advance their biodiversity data initiatives.
 
 ---
 
@@ -39,7 +39,7 @@ _Postdoctoral Researcher._ Dr. Orellana is an entomologist and evolutionary biol
 
 <img style="float: right;" width="152" height="150" alt="VR" src="https://github.com/user-attachments/assets/89c99c69-4621-4957-ac70-f07f19ede638">
 
-_Graduate Student._ Ecology and Evolutionary Biology MA student.
+**_Graduate Student._** Ecology and Evolutionary Biology MA student.
 
 ---
 
@@ -49,7 +49,7 @@ _Graduate Student._ Ecology and Evolutionary Biology MA student.
 
 <img style="float: right;" width="152" height="150" alt="MS" src="https://github.com/user-attachments/assets/026c39d4-6751-4d44-bd5a-c018ea17b4e3">
 
-_Graduate Student._ Ecology and Evolutionary Biology MA student.
+**_Graduate Student._** Ecology and Evolutionary Biology MA student.
 
 ---
 
@@ -69,7 +69,23 @@ _Graduate Student._ Ecology and Evolutionary Biology MA student.
 
 ## **Previous Members**
 
-### Tegan Von Der Heyde - Undergraduate Research Assistant (Spring 2026)
+### Tegan Von Der Heyde
 
-### [Omotayo Agunbiade](https://museumstudies.ku.edu/people/omotayo-agunbiade) - Summer Intern (2025) 
+<img style="float: right;" width="152" height="150" alt="MS" src="https://github.com/user-attachments/assets/3c260d75-a8e1-4f8d-975d-48b240738d7a">
+
+**_Undergraduate Research Assistant_.**  Tegan joined the Lab in the Spring of 2026 to assist with the specimen digitization and imaging for the Weevils of Kansas project. 
+
+- **Conference Participation**. [Kansas Academy of Science](https://www.kansasacademyscience.org/meeting.html) Meeting in 2026. 
+
+- **Poster Presentation**. Drexler LC, Chitwood M, Diaz Hernandez C, Hernandez Hellebust S, **Von Der Heye TK**, Osborn R, Falin Z, Franz N, Gonzalez V, Orellana KS (2026) Undergraduate Research Experiences Within the Department of Entomology & KU Biodiversity Institute. Kansas Academy of Science Meeting, Lawrence, Kansas.
+
+### [Omotayo Agunbiade](https://museumstudies.ku.edu/people/omotayo-agunbiade) 
+
+<img style="float: right;" width="152" height="150" alt="MS" src="https://github.com/user-attachments/assets/8ca8d4c9-c49b-4b8a-99ef-690ce9efbbda">
+
+**_Graduate Student_.** Omotayo joined the lab in 2025 as a Summer Intern, assisting in the organization of the weevil collection and the Weevils of Kansas project. She continued working in her Capstone Project focused on the digitization and mobilization of Naupactini weevils. Omotayo graduated as MA in Museum Studies in the Spring of 2026.    
+
+- **Conference Participation**. [Society for the Preservation of Natural History Collections](https://spnhc2025.ku.edu/) Annual Meeting in 2025.  [Kansas Academy of Science](https://www.kansasacademyscience.org/meeting.html) Meeting in 2026. 
+
+- **Poster Presentation**. Agunbiade O, Orellana KS, Franz N (2026) Digitizing and Publishing Naupactini Weevil Specimen Data and Images Based on a Modern Insect Research Collection Workflow (Coleoptera: Curculionoidea). Kansas Academy of Science Meeting, Lawrence, Kansas.
 
