@@ -15,13 +15,6 @@ The [KU Snow Entomological Collectio](https://biodiversity.ku.edu/entomology/col
 
 |<img width="2201" height="1041" alt="semcimage" src="https://github.com/user-attachments/assets/067bef65-7c13-4d9b-bc52-e25374ddc381" />|
 
-----
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ---
 
 ## **Digitization**
@@ -38,14 +31,11 @@ SEMC data is mobilized weekly to the [Global Biodiversity Information Facility](
 [<img width="1570" height="1218" alt="image" src="https://github.com/user-attachments/assets/4de260b3-2cc2-47f3-b348-ea069ef08caa" />
 ](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551)
 
-Records for specific regions or projects are also mobilized to **Symbiota Portals**, including the [Kansas Biodiversity Portal](https://ks.symbiota.org/portal/collections/misc/collprofiles.php?collid=1) and the [Guatemala Biodiversity Portal](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=97).
+Records for specific regions or projects are also mobilized to **Symbiota Portals**, including the [Kansas Biodiversity Portal](https://ks.symbiota.org/portal/collections/misc/collprofiles.php?collid=1).
 
 |[<img width="1282" height="197" alt="image" src="https://github.com/user-attachments/assets/5c889954-15e1-4308-afab-3d4b47052129" />](https://ks.symbiota.org/portal/)
 [<img width="1652" height="1096" alt="image" src="https://github.com/user-attachments/assets/20adbca3-f2cd-4774-b77d-6dba826935c1" />](https://ks.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&stat=geography#geographystats)|
 
 ---
-
-|[<img width="1301" height="189" alt="image" src="https://github.com/user-attachments/assets/22682859-078f-497f-95ed-90ffeb96ce3e" />](https://biodiversidad.gt/portal/index.php)
-[<img width="1633" height="1167" alt="image" src="https://github.com/user-attachments/assets/4fbfe4aa-7069-4944-bd67-18646f2ac96a" />](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=97&stat=geography#geographystats)|
 
 
