@@ -71,7 +71,7 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 <img style="float: right;" width="152" height="150" alt="MS" src="https://github.com/user-attachments/assets/3c260d75-a8e1-4f8d-975d-48b240738d7a">
 
-**_Undergraduate Research Assistant_.**  Tegan joined the Lab in the Spring of 2026 to assist with the specimen digitization and imaging for the Weevils of Kansas project.
+**_Undergraduate Research Assistant_.**  Tegan joined the lab in the Spring of 2026 to assist with the specimen digitization and imaging for the Weevils of Kansas project.
 
 | <img width="739" height="560" alt="PosterUndergrads" src="https://github.com/user-attachments/assets/954585cb-296c-4daf-8931-1bf2fb297186" /> |
 |---|
