@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Workflows
+title: Activities
 parent: Franz Lab
-has_children: true
+has_children: false
 nav_order: 2
 ---
 
