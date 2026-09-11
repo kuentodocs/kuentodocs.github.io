@@ -63,6 +63,14 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 
 ---
 
+## **KU Entomology Courses**
+
+| <img width="840" height="560" alt="VRandMSinthelab" src="https://github.com/user-attachments/assets/e3ad419e-eaa7-4c58-ba8b-ae3c797c44ae" />  |
+|---|
+|Specimen preparation practice at PSB. Entomology Course, Fall 2026. |
+
+---
+
 ## **Presentations and Outreach**
 
 | <img width="739" height="560" alt="PosterUndergrads" src="https://github.com/user-attachments/assets/954585cb-296c-4daf-8931-1bf2fb297186" /> |
@@ -72,13 +80,4 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 | <img width="739" height="560" alt="posterOA" src="https://github.com/user-attachments/assets/88b1cfd7-e1ff-4996-a5e6-e77911f054b7" /> |
 |---|
 |**Agunbiade O**, Orellana KS, Franz N (2026) Digitizing and Publishing Naupactini Weevil Specimen Data and Images Based on a Modern Insect Research Collection Workflow (Coleoptera: Curculionoidea). Kansas Academy of Science Meeting, Lawrence, Kansas. |
-
----
-
-## **KU Entomology Courses**
-
-| <img width="840" height="560" alt="VRandMSinthelab" src="https://github.com/user-attachments/assets/e3ad419e-eaa7-4c58-ba8b-ae3c797c44ae" />  |
-|---|
-|Specimen preparation practice at PSB. Entomology Course, Fall 2026. |
-
 
