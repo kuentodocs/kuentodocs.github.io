@@ -45,6 +45,7 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 |---|
 |Samanta Orellana collecting beetles and visiting the University of Costa Rica collections. Costa Rica, 2025. |
 
+
 ---
 
 ## **Specimen Preparation and Collection Work at KU Entomology**
@@ -76,6 +77,10 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 ---
 
 ## **Presentations and Outreach**
+
+| <img width="840" height="560" alt="VRandMSinthelab" src="https://github.com/user-attachments/assets/ad76655d-3bd4-4585-b3d8-63993ebcddc4" />  |
+|---|
+|Samanta Orellana presenting at University of Costa Rica. September 2025. |
 
 | <img width="739" height="560" alt="PosterUndergrads" src="https://github.com/user-attachments/assets/954585cb-296c-4daf-8931-1bf2fb297186" /> |
 |---|
