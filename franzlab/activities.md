@@ -16,7 +16,7 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 ----
 
-## Weevil Course & Roundup 2025
+## **Weevil Course & Roundup**
 
 Previous and current members of the Franz Lab of Weevil Systematics participated in the Weevil Course 2025, in Portal, AZ. 
 
@@ -33,8 +33,9 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 |---|
 |Valeria Rodríguez and Madeline Shaw preparing and identifying weevils. Southwestern Research Station, Portal, AZ, 2025 |
 
+---
 
-## International Fieldwork and Collection Visits
+## **International Fieldwork and Collection Visits**
 
 | <img width="369.4" height="280" alt="SOinCostaRica" src="https://github.com/user-attachments/assets/b80ff7bd-fe3f-458f-b5e7-8b70f813a47f" /> <img width="230" height="280" alt="SOinUCR" src="https://github.com/user-attachments/assets/f5908736-8944-497f-b4f1-7b0bc9d8c4cf" /> |
 |---|
@@ -42,7 +43,7 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 
 ---
 
-## Specimen Preparation and Collection Work at KU Entomology
+## **Specimen Preparation and Collection Work at KU Entomology**
 
 | <img width="739" height="560" alt="sample" src="https://github.com/user-attachments/assets/1ab3a1e0-19b8-4166-85da-1b1290b06f32" />  |
 |---|
@@ -54,7 +55,7 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 
 ---
 
-## Specimen Digitization and Imaging
+## **Specimen Digitization and Imaging**
 
 | <img width="840" height="560" alt="VRandMSinthelab" src="https://github.com/user-attachments/assets/74d93a9c-08cb-44be-acda-0199b6455f28" />  |
 |---|
@@ -62,7 +63,7 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 
 ---
 
-## Outreach
+## **Outreach**
 
 | <img width="739" height="560" alt="PosterUndergrads" src="https://github.com/user-attachments/assets/954585cb-296c-4daf-8931-1bf2fb297186" /> |
 |---|
@@ -74,7 +75,7 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 
 ---
 
-## KU Entomology Courses
+## **KU Entomology Courses**
 
 | <img width="840" height="560" alt="VRandMSinthelab" src="https://github.com/user-attachments/assets/e3ad419e-eaa7-4c58-ba8b-ae3c797c44ae" />  |
 |---|
