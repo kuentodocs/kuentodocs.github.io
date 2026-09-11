@@ -73,9 +73,11 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 **_Undergraduate Research Assistant_.**  Tegan joined the Lab in the Spring of 2026 to assist with the specimen digitization and imaging for the Weevils of Kansas project.
 
-| - **Conference Participation**. [Kansas Academy of Science](https://www.kansasacademyscience.org/meeting.html) Meeting in 2026. 
+| **Conference Participation**. [Kansas Academy of Science](https://www.kansasacademyscience.org/meeting.html) Meeting in 2026. |
 
-- **Poster Presentation**. Drexler LC, Chitwood M, Diaz Hernandez C, Hernandez Hellebust S, **Von Der Heye TK**, Osborn R, Falin Z, Franz N, Gonzalez V, Orellana KS (2026) Undergraduate Research Experiences Within the Department of Entomology & KU Biodiversity Institute. Kansas Academy of Science Meeting, Lawrence, Kansas. |
+| <img width="739" height="560" alt="PosterUndergrads" src="https://github.com/user-attachments/assets/954585cb-296c-4daf-8931-1bf2fb297186" /> |
+|---|
+|Drexler LC, Chitwood M, Diaz Hernandez C, Hernandez Hellebust S, **Von Der Heye TK**, Osborn R, Falin Z, Franz N, Gonzalez V, Orellana KS (2026) Undergraduate Research Experiences Within the Department of Entomology & KU Biodiversity Institute. Kansas Academy of Science Meeting, Lawrence, Kansas. |
 
 ---
 
@@ -87,10 +89,11 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 **_Graduate Student_.** Omotayo joined the lab in 2025 as a Summer Intern, assisting in the organization of the weevil collection and the Weevils of Kansas project. She continued working in her Capstone Project focused on the digitization and mobilization of Naupactini weevils. Omotayo graduated as MA in Museum Studies in the Spring of 2026.    
 
-|
-- **Conference Participation**. [Society for the Preservation of Natural History Collections](https://spnhc2025.ku.edu/) Annual Meeting in 2025.  [Kansas Academy of Science](https://www.kansasacademyscience.org/meeting.html) Meeting in 2026. 
+| **Conference Participation**. [Society for the Preservation of Natural History Collections](https://spnhc2025.ku.edu/) Annual Meeting in 2025.  [Kansas Academy of Science](https://www.kansasacademyscience.org/meeting.html) Meeting in 2026. |
 
-- **Poster Presentation**. Agunbiade O, Orellana KS, Franz N (2026) Digitizing and Publishing Naupactini Weevil Specimen Data and Images Based on a Modern Insect Research Collection Workflow (Coleoptera: Curculionoidea). Kansas Academy of Science Meeting, Lawrence, Kansas. |
+| <img width="739" height="560" alt="posterOA" src="https://github.com/user-attachments/assets/88b1cfd7-e1ff-4996-a5e6-e77911f054b7" /> |
+|---|
+|**Agunbiade O**, Orellana KS, Franz N (2026) Digitizing and Publishing Naupactini Weevil Specimen Data and Images Based on a Modern Insect Research Collection Workflow (Coleoptera: Curculionoidea). Kansas Academy of Science Meeting, Lawrence, Kansas. |
 
 ---
 
