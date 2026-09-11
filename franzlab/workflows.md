@@ -3,7 +3,7 @@ layout: default
 title: Workflows
 parent: Franz Lab
 has_children: true
-nav_order: 1
+nav_order: 2
 ---
 
 # Franz Lab of Weevil Systematics
