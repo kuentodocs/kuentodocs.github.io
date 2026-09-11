@@ -77,7 +77,7 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 ## **Previous Members**
 
-### [**Omotayo Agunbiade**](https://museumstudies.ku.edu/people/omotayo-agunbiade) 
+### **Omotayo Agunbiade**
 
 <img style="float: right;" width="152" height="150" alt="MS" src="https://github.com/user-attachments/assets/8ca8d4c9-c49b-4b8a-99ef-690ce9efbbda">
 
