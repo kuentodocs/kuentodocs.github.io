@@ -65,7 +65,7 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 ---
 
-## KU Entomology Research Assistants
+## **KU Entomology Research Assistants**
 
 ### **Tegan Von Der Heyde**
 
