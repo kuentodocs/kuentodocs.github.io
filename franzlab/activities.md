@@ -29,6 +29,10 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 |---|
 |Valeria Rodríguez Parra beating vegetation. Portal, AZ, 2025 |
 
+| <img width="899" height="593" alt="VRcollecting" src="https://github.com/user-attachments/assets/c9a2d13b-fc15-45af-9b35-cb778cca5d8b" />  |
+|---|
+|Madeline Shaw beating vegetation. Portal, AZ, 2025 |
+
 | <img width="357" height="312" alt="VRworkshop" src="https://github.com/user-attachments/assets/260806bb-f672-421f-b6bf-1ff81ec32cbe" /> <img width="240" height="312" alt="MSworkshop" src="https://github.com/user-attachments/assets/f708a1d7-35c7-4348-bccb-f8adda61d558" /> |
 |---|
 |Valeria Rodríguez and Madeline Shaw preparing and identifying weevils. Southwestern Research Station, Portal, AZ, 2025 |
