@@ -33,11 +33,11 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 <br>
 
-### [**Valeria Rodriguez Parra**](https://biodiversity.ku.edu/people/valeria-rodriguez-parra) 
+### [**Valeria Rodríguez Parra**](https://biodiversity.ku.edu/people/valeria-rodriguez-parra) 
 
 <img style="float: right;" width="152" height="150" alt="VR" src="https://github.com/user-attachments/assets/89c99c69-4621-4957-ac70-f07f19ede638">
 
-**_Graduate Student._** Ecology and Evolutionary Biology MA student.
+**_Graduate Student._** _Ecology and Evolutionary Biology MA._ Valeria Rodríguez is an entomologist and biology student interested in the systematics, taxonomy, and evolution of Curculionidae. Her previous research focused on the diversity of weevils in tropical dry forest of the Colombian Caribbean. She is currently studying the phylogeny and species boundaries of the agave-associated weevil genus _Peltophorus_ using morphological and molecular data
 
 ---
 
