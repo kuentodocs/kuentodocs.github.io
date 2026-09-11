@@ -78,7 +78,7 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 
 ## **Presentations and Outreach**
 
-| <img width="840" height="560" alt="VRandMSinthelab" src="https://github.com/user-attachments/assets/ad76655d-3bd4-4585-b3d8-63993ebcddc4" />  |
+| <img width="800" height="500" alt="SO" src="https://github.com/user-attachments/assets/41844307-d476-458c-9e4d-94bf680c8455" />  |
 |---|
 |Samanta Orellana presenting at University of Costa Rica. September 2025. |
 
