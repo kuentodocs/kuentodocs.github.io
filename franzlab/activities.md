@@ -23,11 +23,11 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 
 | <img width="640" height="480" alt="Weevil Course" src="https://github.com/user-attachments/assets/1b814a8a-061f-4875-8336-21320cb9c6c8" />  |
 |---|
-|Group photo of the 2025 Weevil Course participants. Portal, AZ. |
+|Group photo of the 2025 Weevil Course participants. Portal, AZ. Courtesy of the Weevil Workers Group. |
 
 | <img width="739" height="560" alt="VRcollecting" src="https://github.com/user-attachments/assets/39b2bd11-ef21-43f4-9626-61833dd141ef" />  |
 |---|
-|Valeria Rodríguez Parra beating vegetation. |
+|Valeria Rodríguez Parra beating vegetation. Portal, AZ, 2025 |
 
 | <img width="357" height="312" alt="VRworkshop" src="https://github.com/user-attachments/assets/260806bb-f672-421f-b6bf-1ff81ec32cbe" /> <img width="240" height="312" alt="MSworkshop" src="https://github.com/user-attachments/assets/f708a1d7-35c7-4348-bccb-f8adda61d558" /> |
 |---|
@@ -51,7 +51,7 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 
 | <img width="600" height="560" alt="VRandMSinthelab" src="https://github.com/user-attachments/assets/06ae3527-f4ae-4394-8a73-6d0af729b375" />  |
 |---|
-|Valeria Rodríguez Parra and Madeline Shaw preparing specimens in the lab. |
+|Valeria Rodríguez Parra and Madeline Shaw preparing specimens at PSB, Lawrence, KS. |
 
 ---
 
@@ -59,11 +59,11 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 
 | <img width="840" height="560" alt="VRandMSinthelab" src="https://github.com/user-attachments/assets/74d93a9c-08cb-44be-acda-0199b6455f28" />  |
 |---|
-|Omotayo Agunbiade digitizing specimens. |
+|Omotayo Agunbiade digitizing specimens at PSB, Lawrence, KS. |
 
 ---
 
-## **Outreach**
+## **Presentations and Outreach**
 
 | <img width="739" height="560" alt="PosterUndergrads" src="https://github.com/user-attachments/assets/954585cb-296c-4daf-8931-1bf2fb297186" /> |
 |---|
