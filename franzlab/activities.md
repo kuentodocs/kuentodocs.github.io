@@ -29,21 +29,16 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 |---|
 |Valeria Rodríguez Parra beating vegetation. |
 
-| <img width="714" height="624.6" alt="VRworkshop" src="https://github.com/user-attachments/assets/260806bb-f672-421f-b6bf-1ff81ec32cbe" /> <img width="616" height="810.6" alt="MSworkshop" src="https://github.com/user-attachments/assets/f708a1d7-35c7-4348-bccb-f8adda61d558" /> |
+| <img width="357" height="312" alt="VRworkshop" src="https://github.com/user-attachments/assets/260806bb-f672-421f-b6bf-1ff81ec32cbe" /> <img width="240" height="312" alt="MSworkshop" src="https://github.com/user-attachments/assets/f708a1d7-35c7-4348-bccb-f8adda61d558" /> |
 |---|
 |Valeria Rodríguez and Madeline Shaw preparing and identifying weevils. Southwestern Research Station, Portal, AZ, 2025 |
 
 
 ## International Fieldwork and Collection Visits
 
-| <img width="739" height="560" alt="SOinCostaRica" src="https://github.com/user-attachments/assets/b80ff7bd-fe3f-458f-b5e7-8b70f813a47f" /> <img width="450" height="560" alt="SOinUCR" src="https://github.com/user-attachments/assets/f5908736-8944-497f-b4f1-7b0bc9d8c4cf" /> |
+| <img width="369.4" height="280" alt="SOinCostaRica" src="https://github.com/user-attachments/assets/b80ff7bd-fe3f-458f-b5e7-8b70f813a47f" /> <img width="230" height="280" alt="SOinUCR" src="https://github.com/user-attachments/assets/f5908736-8944-497f-b4f1-7b0bc9d8c4cf" /> |
 |---|
 |Left: Samanta Orellana collecting beetles on fungi and decaying vegetation. Right: Visit to University of Costa Rica collections. Costa Rica, 2025. |
-
-|   |
-|---|
-|Samanta Orellana collecting beetles on fungi and decaying vegetation. Costa Rica, 2025. |
-
 
 ---
 
