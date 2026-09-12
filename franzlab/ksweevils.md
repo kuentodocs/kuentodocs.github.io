@@ -63,6 +63,10 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 
 --- 
 
+## **Subfamily Bagoinae**
+
+---
+
 ## **Subfamily Baridinae**
 
 ---
@@ -156,7 +160,30 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 
 ---
 
+## **Subfamily Cyclominae**
+
+---
+
+## **Subfamily Dryophthorinae**
+
+---
+
+## **Subfamily Hyperinae**
+
+---
+
+## **Subfamily Mesoptiliinae**
+
+---
+
 ## **Subfamily Molytinae**
 
 ---
 
+## **Subfamily Platypodinae**
+
+---
+
+## **Subfamily Scolytinae**
+
+---
