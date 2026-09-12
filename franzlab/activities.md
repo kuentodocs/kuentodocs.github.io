@@ -3,10 +3,10 @@ layout: default
 title: Activities
 parent: Franz Lab
 has_children: false
-nav_order: 2
+nav_order: 6
 ---
 
-# **Lab Activities**
+# **Gallery**
 {: .no_toc }
 
 The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institute and Natural History Museum. 
