@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Activities
+title: Gallery
 parent: Franz Lab
 has_children: false
 nav_order: 6
