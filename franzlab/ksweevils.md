@@ -49,7 +49,8 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 ## **Subfamily Rhynchitinae**
 
 ---
-# **Family Brentidae**
+
+# [**Family Brentidae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=44)
 
 ---
 
