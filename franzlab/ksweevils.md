@@ -19,7 +19,12 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 
 # **Family Curculionidae**
 
-## ** Subfamily Entiminae**
+--- 
+
+## **Subfamily Entiminae**
+
+---
+
 ### **Tribe Byrsopagini**
 - _Anametis granulata_ (Say, 1831) [=_Dichoxenus granulatus_ (Say, 1831)]
 - _Dichoxenus setiger_ Horn, 1876
@@ -30,6 +35,10 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 - _Calomycterus setarius_ Roelofs, 1873
 - _Calyptillus cryptops_ Horn, 1876
 - _Cyrtepistomus castaneus_ (Roelofs, 1873)
+
+| <img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/678affd3-4e73-43d0-9ad9-501513605b79" /> |
+
+---
   
 ### **Tribe Eudiagogini**
 - _Aracanthus pallidus_ (Say, 1831)
