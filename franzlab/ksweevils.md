@@ -9,7 +9,7 @@ nav_order: 4
 # **Weevils of Kansas**
 {: .no_toc }
 
-Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification based in upcoming BOCUS chapter.  
+Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification based in upcoming BOCUS chapter. Interactive versions available in the [Kansas Biodiversity Portal](https://ks.symbiota.org/portal/checklists/checklist.php?clid=9&pid=2). 
 {: .fs-5 .fw-200 }
 
 ---
