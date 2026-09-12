@@ -27,8 +27,6 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 | <img width="840" height="560" alt="VRandMSinthelab" src="https://github.com/user-attachments/assets/74d93a9c-08cb-44be-acda-0199b6455f28" />  |
 
 | <img width="840" height="560" alt="VRandMSinthelab" src="https://github.com/user-attachments/assets/e3ad419e-eaa7-4c58-ba8b-ae3c797c44ae" />  |
-|---|
-|Specimen preparation practice at PSB. Entomology Course, Fall 2026. |
 
 ## **Workshops and Training**
 
@@ -55,11 +53,6 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 | <img width="369.4" height="280" alt="SOinCostaRica" src="https://github.com/user-attachments/assets/b80ff7bd-fe3f-458f-b5e7-8b70f813a47f" /> <img width="230" height="280" alt="SOinUCR" src="https://github.com/user-attachments/assets/f5908736-8944-497f-b4f1-7b0bc9d8c4cf" /> |
 |---|
 |Samanta Orellana collecting beetles and visiting the University of Costa Rica collections. Costa Rica, 2025. |
-
----
-
-## **KU Entomology Courses**
-
 
 ---
 
