@@ -18,7 +18,7 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 
 ---
 
-## **Subfamily Anthribidae**
+## **Subfamily Anthribinae**
 
 ---
 
