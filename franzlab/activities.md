@@ -16,26 +16,37 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 ----
 
-## **Weevil Course & Roundup**
 
-Previous and current members of the Franz Lab of Weevil Systematics participated in the Weevil Course 2025, in Portal, AZ. 
+## **Research and Education at KU Entomology**
 
+| <img width="800" height="600" alt="VRlab" src="https://github.com/user-attachments/assets/359ed02e-69ed-423a-ae53-24a225464d10" /> |
+
+
+| <img width="739" height="560" alt="sample" src="https://github.com/user-attachments/assets/1ab3a1e0-19b8-4166-85da-1b1290b06f32" />  |
+
+| <img width="840" height="560" alt="VRandMSinthelab" src="https://github.com/user-attachments/assets/74d93a9c-08cb-44be-acda-0199b6455f28" />  |
+
+| <img width="840" height="560" alt="VRandMSinthelab" src="https://github.com/user-attachments/assets/e3ad419e-eaa7-4c58-ba8b-ae3c797c44ae" />  |
+|---|
+|Specimen preparation practice at PSB. Entomology Course, Fall 2026. |
+
+## **Workshops and Training**
+
+| <img width="739" height="560" alt="VRcollecting" src="https://github.com/user-attachments/assets/39b2bd11-ef21-43f4-9626-61833dd141ef" />  |
+|---|
+| Valeria Rodríguez Parra collecting weevils during the Weevil Course & Roundup 2025 at the Southwestern Research Station, Portal, AZ. |
+
+| <img width="899" height="593" alt="VRcollecting" src="https://github.com/user-attachments/assets/c9a2d13b-fc15-45af-9b35-cb778cca5d8b" />  |
+|---|
+|Madeline Shaw collecting weevils during the Weevil Course & Roundup 2025 at the Southwestern Research Station, Portal, AZ. |
+
+| <img width="357" height="312" alt="VRworkshop" src="https://github.com/user-attachments/assets/260806bb-f672-421f-b6bf-1ff81ec32cbe" /> <img width="240" height="312" alt="MSworkshop" src="https://github.com/user-attachments/assets/f708a1d7-35c7-4348-bccb-f8adda61d558" /> |
+|---|
+| Valeria Rodríguez and Madeline Shaw preparing and identifying weevils. Southwestern Research Station, Portal, AZ, 2025 |
 
 | <img width="640" height="480" alt="Weevil Course" src="https://github.com/user-attachments/assets/1b814a8a-061f-4875-8336-21320cb9c6c8" />  |
 |---|
 |Group photo of the 2025 Weevil Course participants. Portal, AZ. Courtesy of the Weevil Workers Group. |
-
-| <img width="739" height="560" alt="VRcollecting" src="https://github.com/user-attachments/assets/39b2bd11-ef21-43f4-9626-61833dd141ef" />  |
-|---|
-|Valeria Rodríguez Parra beating vegetation. Portal, AZ, 2025 |
-
-| <img width="899" height="593" alt="VRcollecting" src="https://github.com/user-attachments/assets/c9a2d13b-fc15-45af-9b35-cb778cca5d8b" />  |
-|---|
-|Madeline Shaw beating vegetation. Portal, AZ, 2025 |
-
-| <img width="357" height="312" alt="VRworkshop" src="https://github.com/user-attachments/assets/260806bb-f672-421f-b6bf-1ff81ec32cbe" /> <img width="240" height="312" alt="MSworkshop" src="https://github.com/user-attachments/assets/f708a1d7-35c7-4348-bccb-f8adda61d558" /> |
-|---|
-|Valeria Rodríguez and Madeline Shaw preparing and identifying weevils. Southwestern Research Station, Portal, AZ, 2025 |
 
 ---
 
@@ -45,34 +56,10 @@ Previous and current members of the Franz Lab of Weevil Systematics participated
 |---|
 |Samanta Orellana collecting beetles and visiting the University of Costa Rica collections. Costa Rica, 2025. |
 
-
----
-
-## **Specimen Preparation and Collection Work at KU Entomology**
-
-| <img width="739" height="560" alt="sample" src="https://github.com/user-attachments/assets/1ab3a1e0-19b8-4166-85da-1b1290b06f32" />  |
-|---|
-|Insect sample under the microscope.|
-
-| <img width="600" height="560" alt="VRandMSinthelab" src="https://github.com/user-attachments/assets/06ae3527-f4ae-4394-8a73-6d0af729b375" />  |
-|---|
-|Valeria Rodríguez Parra and Madeline Shaw preparing specimens at PSB, Lawrence, KS. |
-
----
-
-## **Specimen Digitization and Imaging**
-
-| <img width="840" height="560" alt="VRandMSinthelab" src="https://github.com/user-attachments/assets/74d93a9c-08cb-44be-acda-0199b6455f28" />  |
-|---|
-|Omotayo Agunbiade digitizing specimens at PSB, Lawrence, KS. |
-
 ---
 
 ## **KU Entomology Courses**
 
-| <img width="840" height="560" alt="VRandMSinthelab" src="https://github.com/user-attachments/assets/e3ad419e-eaa7-4c58-ba8b-ae3c797c44ae" />  |
-|---|
-|Specimen preparation practice at PSB. Entomology Course, Fall 2026. |
 
 ---
 
