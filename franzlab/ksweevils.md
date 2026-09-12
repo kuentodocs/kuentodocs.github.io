@@ -25,7 +25,15 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 ### Tribe Araecerini
 ### Tribe Choragini
 ### Tribe Cratoparini
+
+---
+
 ### Tribe Piesocorinini
+
+| <img width="1400" height="933" alt="845f3429-77a3-461a-b82b-4aa0b9_1772524223_web" src="https://github.com/user-attachments/assets/4675c71c-b66e-4500-8e93-4530dbe6151d" /> |
+
+---
+
 ### Tribe Platyrhinini
 ### Tribe Platystomini
 ### Tribe Trigonorrhinini
