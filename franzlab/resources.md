@@ -16,6 +16,17 @@ Curculionoidea resources.
 
 ---
 
+## Weevil Portal
 
+Symbiota portal dedicated to weevil data.
+
+[<img src="https://github.com/user-attachments/assets/96e328ad-93dc-4ca4-9aa2-dff0790df093" alt="Anthribidae TP">](https://anthribidae.github.io/species)
+
+
+## Anthribidae Catalog
+
+Virtual catalog generated with TaxonWorks and TaxonPages.
+
+[<img src="https://github.com/user-attachments/assets/96e328ad-93dc-4ca4-9aa2-dff0790df093" alt="Anthribidae TP">](https://anthribidae.github.io/species)
 
 
