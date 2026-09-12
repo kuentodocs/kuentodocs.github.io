@@ -14,7 +14,7 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 
 ---
 
-# **Family Anthribidae**
+# [**Family Anthribidae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=45)
 
 ---
 
@@ -34,7 +34,7 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 
 ---
 
-# **Family Attelabidae**
+# [**Family Attelabidae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=41)
 
 ---
 
@@ -59,7 +59,7 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 
 ---
 
-# **Family Curculionidae**
+# [**Family Curculionidae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=40)
 
 --- 
 
