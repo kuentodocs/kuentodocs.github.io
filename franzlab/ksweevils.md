@@ -47,7 +47,9 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 
 ## **Subfamily Apioninae**
 
-<img width="6240" height="4160" alt="001659429_lateral" src="https://github.com/user-attachments/assets/0a47bbe5-01a0-4a89-a382-d7b831d66a76" />
+---
+
+| <img width="6240" height="4160" alt="001659429_lateral" src="https://github.com/user-attachments/assets/0a47bbe5-01a0-4a89-a382-d7b831d66a76" /> |
 
 ---
 
