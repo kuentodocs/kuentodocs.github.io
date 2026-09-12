@@ -6,20 +6,74 @@ has_children: false
 nav_order: 4
 ---
 
-# Weevils of Kansas
+# **Weevils of Kansas**
 {: .no_toc }
 
 Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification based in upcoming BOCUS chapter.  
 {: .fs-5 .fw-200 }
 
+---
+
+# **Family Anthribidae**
+
+---
+
+## **Subfamily Anthribidae**
+
+---
+
+### Tribe Araecerini
+### Tribe Choragini
+### Tribe Cratoparini
+### Tribe Piesocorinini
+### Tribe Platyrhinini
+### Tribe Platystomini
+### Tribe Trigonorrhinini
+### Tribe Tropiderini
+### Tribe Zygaenodini
+
+---
+
+# **Family Attelabidae**
+
+---
+
+## **Subfamily Rhynchitinae**
+
+---
+# **Family Brentidae**
+
+---
+
+## **Subfamily Apioninae**
+
 <img width="6240" height="4160" alt="001659429_lateral" src="https://github.com/user-attachments/assets/0a47bbe5-01a0-4a89-a382-d7b831d66a76" />
 
+---
+
+## **Subfamily Brentinae**
+
+---
+
+## **Subfamily Ithycerinae**
 
 ---
 
 # **Family Curculionidae**
 
 --- 
+
+## **Subfamily Baridinae**
+
+---
+
+## **Subfamily Conoderinae**
+
+---
+
+## **Subfamily Curculioninae**
+
+---
 
 ## **Subfamily Entiminae**
 
@@ -78,9 +132,9 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 - _Aphrastus taeniatus_ Say, 1831
 
 ### **Tribe Polydrusini**
-_Polydrusus americanus_ Gyllenhal, 1834
-_Polydrusus decoratus_ Woodruff, 1923
-_Polydrusus impressifrons_ Gyllenhal, 1834
+- _Polydrusus americanus_ Gyllenhal, 1834
+- _Polydrusus decoratus_ Woodruff, 1923
+- _Polydrusus impressifrons_ Gyllenhal, 1834
 
 ### **Tribe Psallidini**
 - _Mesagroicus minor_ Buchanan, 1929
@@ -100,4 +154,9 @@ _Polydrusus impressifrons_ Gyllenhal, 1834
 ### **Tribe Trachyphloeini**
 - _Pseudocneorhinus bifasciatus_ Roelofs, 1880
 
+---
+
+## **Subfamily Molytinae**
+
+---
 
