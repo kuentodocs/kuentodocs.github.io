@@ -54,13 +54,13 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 |---|
 |Samanta Orellana collecting beetles and visiting the University of Costa Rica collections. Costa Rica, 2025. |
 
----
-
-## **Presentations and Outreach**
-
 | <img width="800" height="500" alt="SO" src="https://github.com/user-attachments/assets/41844307-d476-458c-9e4d-94bf680c8455" />  |
 |---|
 |Samanta Orellana presenting at University of Costa Rica. September 2025. |
+
+---
+
+## **Presentations and Outreach**
 
 | <img width="739" height="560" alt="PosterUndergrads" src="https://github.com/user-attachments/assets/954585cb-296c-4daf-8931-1bf2fb297186" /> |
 |---|
