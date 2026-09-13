@@ -22,7 +22,7 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 
 ---
 
-| <img width="1400" height="933" alt="845f3429-77a3-461a-b82b-4aa0b9_1772524223_web" src="https://github.com/user-attachments/assets/4675c71c-b66e-4500-8e93-4530dbe6151d" /> |
+| [<img width="1400" height="933" alt="845f3429-77a3-461a-b82b-4aa0b9_1772524223_web" src="https://github.com/user-attachments/assets/4675c71c-b66e-4500-8e93-4530dbe6151d" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=10302) |
 
 ---
 
@@ -46,7 +46,7 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 
 ---
 
-| <img width="1400" height="933" alt="037bec46-9ab8-4519-b9c8-03de8f_1774400729_web" src="https://github.com/user-attachments/assets/715fb103-d767-4f2b-94dc-24d055fc3489" /> |
+| [<img width="1400" height="933" alt="037bec46-9ab8-4519-b9c8-03de8f_1774400729_web" src="https://github.com/user-attachments/assets/715fb103-d767-4f2b-94dc-24d055fc3489" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=463822) |
 
 
 ---
@@ -63,7 +63,7 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 
 ---
 
-| <img width="6240" height="4160" alt="001659429_lateral" src="https://github.com/user-attachments/assets/0a47bbe5-01a0-4a89-a382-d7b831d66a76" /> |
+| [<img width="6240" height="4160" alt="001659429_lateral" src="https://github.com/user-attachments/assets/0a47bbe5-01a0-4a89-a382-d7b831d66a76" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=462863) |
 
 ---
 
@@ -110,7 +110,7 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 - _Calyptillus cryptops_ Horn, 1876
 - _Cyrtepistomus castaneus_ (Roelofs, 1873)
 
-| <img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/678affd3-4e73-43d0-9ad9-501513605b79" /> |
+| [<img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/678affd3-4e73-43d0-9ad9-501513605b79" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=205309) |
 
 ---
   
