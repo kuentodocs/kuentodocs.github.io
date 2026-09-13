@@ -103,11 +103,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ## **Subfamily Apioninae**
 
----
-
 | [<img width="6240" height="4160" alt="001659429_lateral" src="https://github.com/user-attachments/assets/0a47bbe5-01a0-4a89-a382-d7b831d66a76" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=462863) |
-
----
 
 ### Tribe Apionini
 ### Tribe Aplemonini
@@ -124,9 +120,26 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ## **Subfamily Brentinae**
 
+| [<img width="1400" height="933" alt="309ce373-4e88-4d31-9c19-502426_1780389667_web" src="https://github.com/user-attachments/assets/5b891b42-8044-4a1c-857e-aaf7b4ee9eeb" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=125841) |
+
+### Tribe Brentini
+
+- _Arrenodes minutus_ (Drury, 1773)
+
+---
+
+### Tribe Cyladini
+
+- _Cylas formicarius_ (Fabricius, 1798) *Introduced
+
 ---
 
 ## **Subfamily Ithycerinae**
+
+| [<img width="1400" height="933" alt="6172003b-8418-49b5-a720-f6dc24_1786455280_web" src="https://github.com/user-attachments/assets/abf14721-93a8-405f-83cd-42e3c220d4f7" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=176606) |
+
+
+- _Ithycerus noveboracensis_ (Forster, 1771)
 
 ---
 
@@ -144,6 +157,9 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 | [<img width="6240" height="4160" alt="1bb3ae44-93a4-4f0d-9806-039c8eb227fd" src="https://github.com/user-attachments/assets/77a9f69b-47b8-4cb2-a70f-3b3b7a3e5a39" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=461760) |
 
+---
+
+## **Subfamily Brachycerinae**
 
 ---
 
