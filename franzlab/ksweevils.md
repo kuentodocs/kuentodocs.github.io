@@ -27,14 +27,30 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 ---
 
 ### Tribe Araecerini
+- _Araecerus fasciculatus_ (DeGeer, 1775) *Introduced
 ### Tribe Choragini
+- _Holostilpna jordani_ (Valentine, 1991)
+- _Holostilpna punctata_ (LeConte, 1876)
+- _Pseudochoragus nitens_ (LeConte, 1884)
 ### Tribe Cratoparini
+- _Euparius marmoreus_ (Olivier, 1800)
+- _Euparius paganus_ Gyllenhal, 1833 
 ### Tribe Piesocorinini
+- _Piesocorynus lateralis_ (Jordan, 1906)
+- _Piesocorynus mixtus_ LeConte, 1876
+- _Piesocorynus moestus_ (LeConte, 1824: 172)
 ### Tribe Platyrhinini
+- _Strabus bimaculatus_ (Olivier, 1795) 
 ### Tribe Platystomini
+- _Toxonotus cornutus_ (Say, 1831)
 ### Tribe Trigonorrhinini
+- _Trigonorhinus tomentosus_ (Say, 1827)
 ### Tribe Tropiderini
+- _Eurymycter fasciatus_ (Olivier, 1800)
+- _Eurymycter tricarinatus_ Pierce, 1930
+- _Gonotropis dorsalis_ (Thunberg, 1796) 
 ### Tribe Zygaenodini
+- _Ormiscus saltator_ Leconte, 1876
 
 ---
 
@@ -48,10 +64,15 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 
 | [<img width="1400" height="933" alt="037bec46-9ab8-4519-b9c8-03de8f_1774400729_web" src="https://github.com/user-attachments/assets/715fb103-d767-4f2b-94dc-24d055fc3489" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=463822) |
 
+### Tribe Attelabini
+---
+
+
+## **Subfamily Rhynchitinae**
 
 ---
 
-## **Subfamily Rhynchitinae**
+### Tribe Rhynchitini
 
 ---
 
@@ -64,6 +85,19 @@ Checklists for the weevils (Curculionoidea) recorded in Kansas. Classification b
 ---
 
 | [<img width="6240" height="4160" alt="001659429_lateral" src="https://github.com/user-attachments/assets/0a47bbe5-01a0-4a89-a382-d7b831d66a76" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=462863) |
+
+---
+
+### Tribe Apionini
+### Tribe Aplemonini
+### Tribe Aspidapini
+### Tribe Oxystomatini
+### Tribe Piezotrachelini
+
+### Incertae Sedis
+- _Coelocephalapion curticorne_ (Fall)
+- _Coelocephalapion decoloratum_ (Smith, 1884)
+- _Coelocephalapion persimile_ (Fall, 1898)
 
 ---
 
