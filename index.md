@@ -16,7 +16,7 @@ Documentation for day to day tasks in the Franz Lab of Weevil Systematics. Check
 [Weevil Collection at KU](https://weevil.symbiota.org/portal/collections/misc/collprofiles.php?collid=12){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
 
 
-<img width="1920" height="892" alt="WeevilKU" src="https://github.com/user-attachments/assets/b97e5d0e-d4b6-4541-a738-bc36e7edc3a7" />
+| <img width="1920" height="892" alt="WeevilKU" src="https://github.com/user-attachments/assets/b97e5d0e-d4b6-4541-a738-bc36e7edc3a7" /> |
 
 
 
