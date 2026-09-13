@@ -15,6 +15,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 [<img width="2098" height="1069" alt="image" src="https://github.com/user-attachments/assets/2f2b2363-6e5e-439a-9d0c-2e9286d6fd85" />
 ](https://ks.symbiota.org/portal/checklists/checklist.php?clid=9&pid=2)
+
 ---
 
 # [**Family Anthribidae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=45)
