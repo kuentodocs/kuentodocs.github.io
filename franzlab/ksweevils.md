@@ -83,8 +83,6 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 | [<img width="1400" height="933" alt="618812f8-78d0-4943-872b-9d5484_1772524214_web" src="https://github.com/user-attachments/assets/c37cde8a-469b-4e32-9fa5-b8a4ff69b749" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=208855) |
 
----
-
 ### Tribe Rhynchitini
 
 - _Eugnamptus angustatus_ (Herbst, 1797)
@@ -125,8 +123,6 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 ### Tribe Brentini
 
 - _Arrenodes minutus_ (Drury, 1773)
-
----
 
 ### Tribe Cyladini
 
@@ -195,8 +191,6 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Calyptillus cryptops_ Horn, 1876
 - _Cyrtepistomus castaneus_ (Roelofs, 1873)
 
----
-  
 ### **Tribe Eudiagogini**
 - _Aracanthus pallidus_ (Say, 1831)
 - _Colecerus marmoratus_ Horn, 1876
