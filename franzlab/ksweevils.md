@@ -21,7 +21,8 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
-| [<img width="1400" height="933" alt="845f3429-77a3-461a-b82b-4aa0b9_1772524223_web" src="https://github.com/user-attachments/assets/4675c71c-b66e-4500-8e93-4530dbe6151d" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=10302) |
+| [<img width="1400" height="933" alt="494395c6-01be-41fc-8592-310d02_1759587823_web" src="https://github.com/user-attachments/assets/80fb41b2-c7e1-42a6-8e26-7b4386474b45" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=161485) |
+
 
 ---
 
@@ -68,6 +69,10 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 
 ## **Subfamily Rhynchitinae**
+
+---
+
+| [<img width="1400" height="933" alt="618812f8-78d0-4943-872b-9d5484_1772524214_web" src="https://github.com/user-attachments/assets/c37cde8a-469b-4e32-9fa5-b8a4ff69b749" />](https;//ks.symbiota.org/portal/collections/individual/index.php?occid=208855) |
 
 ---
 
@@ -120,6 +125,11 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
+| [<img width="6240" height="4160" alt="1bb3ae44-93a4-4f0d-9806-039c8eb227fd" src="https://github.com/user-attachments/assets/77a9f69b-47b8-4cb2-a70f-3b3b7a3e5a39" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=461760) |
+
+
+---
+
 ## **Subfamily Conoderinae**
 
 ---
@@ -128,7 +138,16 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
+| [<img width="1400" height="933" alt="37b2d4ba-9f56-4d42-81a8-62e270_1778749728_web" src="https://github.com/user-attachments/assets/2d288b3c-b29c-4ef8-ba09-a446d6f68605" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=461772) |
+
+
+---
+
 ## [**Subfamily Entiminae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=33)
+
+---
+
+| [<img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/678affd3-4e73-43d0-9ad9-501513605b79" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=205309) |
 
 ---
 
@@ -142,8 +161,6 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Calomycterus setarius_ Roelofs, 1873
 - _Calyptillus cryptops_ Horn, 1876
 - _Cyrtepistomus castaneus_ (Roelofs, 1873)
-
-| [<img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/678affd3-4e73-43d0-9ad9-501513605b79" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=205309) |
 
 ---
   
