@@ -7,13 +7,13 @@ nav_order: 3
 ---
 
 
-# **Snow Entomological Collection**
+# **KU Entomological Collection**
 {: .no_toc }
 
-The [KU Snow Entomological Collectio](https://biodiversity.ku.edu/entomology/collection) (SEMC or KUNHM) is located at Room 150 in the Entomology Division. Is currently managed by [Dr. Zack Falin](https://biodiversity.ku.edu/people/zack-falin) and [Dr. Rachel Osborn](https://biodiversity.ku.edu/people/rachel-osborn).
+The [KU Snow Entomological Collection](https://biodiversity.ku.edu/entomology/collection) (KUNHM, formerly known as SEMC) is located at Room 150 in the Entomology Division. Is currently managed by [Dr. Zack Falin](https://biodiversity.ku.edu/people/zack-falin) and [Dr. Rachel Osborn](https://biodiversity.ku.edu/people/rachel-osborn).
 {: .fs-5 .fw-300 }
 
-|<img width="2201" height="1041" alt="semcimage" src="https://github.com/user-attachments/assets/067bef65-7c13-4d9b-bc52-e25374ddc381" />|
+|<img width="2201" height="1041" alt="semcimage" src="https://github.com/user-attachments/assets/067bef65-7c13-4d9b-bc52-e25374ddc381" /> <img width="1883" height="1085" alt="Colección" src="https://github.com/user-attachments/assets/925db5b5-367b-42b5-99ce-6bfd1306e2d3" />|
 
 ---
 
@@ -21,8 +21,10 @@ The [KU Snow Entomological Collectio](https://biodiversity.ku.edu/entomology/col
 
 The KU Entomological Collection is managed and digitized in **Specify 7**. Learn more in the [Digitization](https://kuentodocs.github.io/franzlab/workflows/digitization/) section.
 
-|<img width="2543" height="1312" alt="image" src="https://github.com/user-attachments/assets/06c1824f-46a1-404f-aa48-6ce10a4f11ac" />|
+| <img width="2543" height="1312" alt="image" src="https://github.com/user-attachments/assets/06c1824f-46a1-404f-aa48-6ce10a4f11ac" /> |
 
+
+---
 
 ## **Data Mobilization**
   
