@@ -35,7 +35,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 ### Tribe Cratoparini
 - _Euparius marmoreus_ (Olivier, 1800)
 - _Euparius paganus_ Gyllenhal, 1833 
-### Tribe Piesocorinini
+### Tribe Piesocorynini
 - _Piesocorynus lateralis_ (Jordan, 1906)
 - _Piesocorynus mixtus_ LeConte, 1876
 - _Piesocorynus moestus_ (LeConte, 1824: 172)
