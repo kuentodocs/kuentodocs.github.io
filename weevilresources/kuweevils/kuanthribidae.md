@@ -16,15 +16,21 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 
 # [**Family Anthribidae**](https://weevil.symbiota.org/portal/checklists/checklist.php?clid=10)
 
-## Subfamily Anthribinae
+## **Subfamily Anthribinae**
 
-### Tribe Anthribini
+---
+
+| [<img width="1400" height="933" alt="1194c6f5-c4b2-4567-843c-9343f0_1781702070_web" src="https://github.com/user-attachments/assets/788969fc-2521-409e-bdaf-efae8444e2df" />](https://weevil.symbiota.org/portal/collections/individual/index.php?occid=100595) |
+
+### **Tribe Anthribini**
 - _Anthribus	nebulosus_	Forster, 1770
 
-### Tribe Araecerini
+### **Tribe Araecerini**
 - _Araecerus fasciculatus_ (DeGeer, 1775)
+- _Araecerus_	spp.
+- _Xanthoderopygus_	spp.
 
-### Tribe Basitropini
+### **Tribe Basitropini**
 - _Basitropis_	spp.	
 - _Eugonus diversipes_ Frieser, 1978
 - _Eugonus particolor_ Jordan, 1904
@@ -36,11 +42,22 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 - _Phaenithon semigriseus_ (Germar, 1824)
 - _Phaenithon_	spp.		
 
-### Tribe Choragini
+### **Tribe Choragini**
+- _Acaromimus	sharpi_	Jordan, 1906
+- _Acaromimus_	spp.		
+- _Apteroxenus_ near	spp.
+- _Choragus_ near	spp.
+- _Dysnos_	spp.
+- _Euxenulus	piceus_	(LeConte, 1878)
+- _Euxenus	jordani_	Valentine, 1991
+- _Euxenus	punctatus_	LeConte, 1876
+- _Euxenus_	spp.
+- _Holostilpna_	spp.
+  
+### **Tribe Cisanthribini**
+- _Cisanthribus_ sp.
 
-### Tribe Cisanthribini
-
-### Tribe Corrhecerini
+### **Tribe Corrhecerini**
 - _Corrhecerus_	spp.
 - _Nemotrichus	inermis_	Jordan, 1906
 - _Nemotrichus	pilicornis_	(Fabricius, 1801)
@@ -50,7 +67,7 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 
 | ![001653181_lateral](https://github.com/user-attachments/assets/555c362c-766b-4eee-8012-034cd5c3960e) |
 
-### Tribe Cratoparini
+### **Tribe Cratoparini**
 - _Erotylopsis_	sp.
 - _Euparius clitelliger_ Fahraeus, 1839
 - _Euparius dorsalis_ Boheman, 1833
