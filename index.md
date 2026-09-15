@@ -16,7 +16,7 @@ Documentation for day to day tasks in the Franz Lab of Weevil Systematics. Check
 [Weevil Collection at KU](https://kuentodocs.github.io/weevilresources/kuweevils/){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
 
 
-| <img width="1920" height="892" alt="WeevilKU" src="https://github.com/user-attachments/assets/b97e5d0e-d4b6-4541-a738-bc36e7edc3a7" /> |
+| <img width="6240" height="4160" alt="6e10a309-e698-489f-85f9-f595ef5eb6dd" src="https://github.com/user-attachments/assets/19431ed0-0974-4c72-9a58-cbd2e228dd11" /> |
 
 
 
