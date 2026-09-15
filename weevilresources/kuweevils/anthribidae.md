@@ -41,7 +41,7 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 - _Phaenithon semigriseus_ (Germar, 1824)
 
 ### Tribe Choragini
-
+### Tribe Cisanthribini
 ### Tribe Corrhecerini
 
 ### Tribe Cratoparini
@@ -62,15 +62,26 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 - _Euparius torquatus_ Jekel, 1855 
 
 ### Tribe Discotenini
+- _Discotenes nigrotuberculata_ Schaeffer, 1904
+- _Eucyclotropis barynotus_ Jordan, 1904
+- _Hylotribus asperatus_ (Blanchard, 1851)
+- _Hylotribus signatipes_ (Blanchard, 1851)
+- _Hylotribus tuberculosus_ (Blanchard, 1851)
+
 ### Tribe Ecelonerini
 ### Tribe Gymnognathini
 ### Tribe Ischnocerini
+### Tribe Mecocerini
 ### Tribe Piesocorynini
 ### Tribe Platyrhinini
 ### Tribe Platystomini
+### Tribe Ptychoderini
+### Tribe Stenocerini
+### Tribe Tophoderini
 ### Tribe Trigonorhinini
 ### Tribe Tropiderini
 ### Tribe Xenocerini
+### Tribe Xylinadini
 ### Tribe Zygaenodini
 
 ## Subfamily Urodontinae
