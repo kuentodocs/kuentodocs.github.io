@@ -2,7 +2,7 @@
 layout: default
 title: Weevils of Kansas
 has_children: false
-nav_order: 3
+nav_order: 5
 ---
 
 # **Weevils of Kansas**
