@@ -36,11 +36,10 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 ### Tribe Cisanthribini
 ### Tribe Corrhecerini
 
+---
+| ![001653181_lateral](https://github.com/user-attachments/assets/555c362c-766b-4eee-8012-034cd5c3960e) |
+
 ### Tribe Cratoparini
-
-![001653181_lateral](https://github.com/user-attachments/assets/555c362c-766b-4eee-8012-034cd5c3960e)
-
-
 - _Euparius_ sp. Schoenherr, 1823
 - _Euparius clitelliger_ Fahraeus, 1839
 - _Euparius dorsalis_ Boheman, 1833
