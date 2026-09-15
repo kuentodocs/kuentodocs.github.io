@@ -14,14 +14,6 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 
 ---
 
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
 # [Family Anthribidae](https://weevil.symbiota.org/portal/checklists/checklist.php?clid=10)
 
 ## Subfamily Anthribinae
