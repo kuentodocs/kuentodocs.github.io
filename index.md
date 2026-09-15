@@ -12,8 +12,8 @@ permalink: /
 Documentation for day to day tasks in the Franz Lab of Weevil Systematics. Check oficial KU Entomology website [here](https://biodiversity.ku.edu/entomology). 
 {: .fs-6 .fw-300 }
 
-[Franz Lab](https://kuentodocs.github.io/franzlab/franzlab/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Workflows](https://kuentodocs.github.io/franzlab/workflows/){: .btn .fs-5 .mb-4 .mb-md-0 } 
-[Weevil Collection at KU](https://weevil.symbiota.org/portal/collections/misc/collprofiles.php?collid=12){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
+[Franz Lab](https://kuentodocs.github.io/franzlab/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Workflows](https://kuentodocs.github.io/franzlab/workflows/){: .btn .fs-5 .mb-4 .mb-md-0 } 
+[Weevil Collection at KU](https://kuentodocs.github.io/weevilresources/kuweevils/){: .btn btn-green .fs-5 .mb-4 .mb-md-0 } 
 
 
 | <img width="1920" height="892" alt="WeevilKU" src="https://github.com/user-attachments/assets/b97e5d0e-d4b6-4541-a738-bc36e7edc3a7" /> |
