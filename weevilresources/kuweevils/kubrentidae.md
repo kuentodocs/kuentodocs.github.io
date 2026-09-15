@@ -6,7 +6,7 @@ has_children: false
 nav_order: 5
 ---
 
-# Brentidae of the KU Collection
+# **Brentidae of the KU Collection**
 {: .no_toc }
 
 Brentidae groups deposited in the KU Entomological Collection.
@@ -14,7 +14,7 @@ Brentidae groups deposited in the KU Entomological Collection.
 
 ---
 
-# [Family Brentidae](https://weevil.symbiota.org/portal/checklists/checklist.php?clid=37)
+# [**Family Brentidae**](https://weevil.symbiota.org/portal/checklists/checklist.php?clid=37)
 
 ## Subfamily Apioninae
 
