@@ -3,7 +3,7 @@ layout: default
 title: KU Anthribidae
 parent: KU Weevils
 has_children: false
-nav_order: 2
+nav_order: 3
 ---
 
 # Anthribidae of the KU Collection
@@ -37,6 +37,10 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 ### Tribe Corrhecerini
 
 ### Tribe Cratoparini
+
+![001653181_lateral](https://github.com/user-attachments/assets/555c362c-766b-4eee-8012-034cd5c3960e)
+
+
 - _Euparius_ sp. Schoenherr, 1823
 - _Euparius clitelliger_ Fahraeus, 1839
 - _Euparius dorsalis_ Boheman, 1833
