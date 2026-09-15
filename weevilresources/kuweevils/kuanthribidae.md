@@ -85,7 +85,7 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 - _Euparius torquatus_ Jekel, 1855 
 - _Euparius_ spp.
 
-### Tribe Discotenini
+### **Tribe Discotenini**
 - _Discotenes nigrotuberculata_ Schaeffer, 1904
 - _Discotenes_ spp.
 - _Eucyclotropis barynotus_ Jordan, 1904
@@ -93,10 +93,10 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 - _Hylotribus signatipes_ (Blanchard, 1851)
 - _Hylotribus tuberculosus_ (Blanchard, 1851)
 
-### Tribe Ecelonerini
+### **Tribe Ecelonerini**
 - _Eucorynus_	spp.		
 
-### Tribe Gymnognathini
+### **Tribe Gymnognathini**
 - _Gymnognathus	dorsonotatus_	Fåhraeus, 1839
 - _Gymnognathus	hetarus_	Jordan, 1937
 - _Gymnognathus	ophiopsis_	Dalman, 1833
@@ -104,16 +104,16 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 - _Gymnognathus	vicinus_	Jekel, 1855
 - _Gymnognathus_	spp.
 
-### Tribe Ischnocerini
+### **Tribe Ischnocerini**
 - _Meconemus	infuscatus_	(Fåhraeus, 1839)
 - _Meconemus	tuberculatus_	Labram & Imhoff, 1838
 - _Meconemus_	spp.
 - Ischnocerini spp.		
 				
-### Tribe Mecocerini
+### **Tribe Mecocerini**
 - Mecocerini spp.
 
-### Tribe Piesocorynini
+### **Tribe Piesocorynini**
 - _Barridia_	spp.
 - _Brachycorynus	rectus_	(LeConte, 1876)
 - _Piesocorynus	dispar_	(Gyllenhal, 1833)
@@ -125,7 +125,11 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 - _Piezonemus	durus_	Jordan, 1904
 - _Piezonemus_	spp.		
 
-### Tribe Platyrhinini
+---
+
+| [<img width="1400" height="933" alt="c0a1093c-3950-4540-aaf5-80a571_1788431563_web" src="https://github.com/user-attachments/assets/44982856-06e2-4834-9950-8199b53aea32" />](https://weevil.symbiota.org/portal/collections/individual/index.php?occid=191548) |
+
+### **Tribe Platyrhinini**
 - _Anthiera	oculata_	(Jordan, 1906)
 - _Goniocloeus	bimaculatus_	(Olivier, 1795)
 - _Goniocloeus_	spp.
@@ -142,7 +146,7 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 
 - Platyrhinini spp.
 
-### Tribe Platystomini
+### **Tribe Platystomini**
 - _Exillis_	spp.
 - _Phloeobius_	spp.
 - _Phoenicobiella	chamaeropis_	(LeConte, 1876)
@@ -158,21 +162,21 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 - _Toxonotus	vagus_	(Horn, 1894)
 - _Toxonotus_	spp.
     
-### Tribe Ptychoderini
+### **Tribe Ptychoderini**
 - _Ptychoderes	nebulosus_	(Olivier, 1795)
 - _Ptychoderes	rugicollis_	Jordan, 1895
 - _Ptychoderes_	spp.
 
-### Tribe Stenocerini
+### **Tribe Stenocerini**
 - _Allandrus	bifasciatus_	LeConte, 1876
 - _Allandrus	brevicornis_	Frost, 1920
 - _Allandrus_	spp.
 - _Stenocerus	longulus_	Jekel, 1855
 
-### Tribe Tophoderini
+### **Tribe Tophoderini**
 - _Tophoderes_ spp.
 
-### Tribe Trigonorhinini
+### **Tribe Trigonorhinini**
 - _Trigonorhinus	alternatus_	(Say, 1826)
 - _Trigonorhinus	annulatus_	(Carr, 1930)
 - _Trigonorhinus	franseria_ (Barrett, 1931)
@@ -184,7 +188,7 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 - _Trigonorhinus	tomentosus_	(Say, 1827)
 - _Trigonorhinus_	spp.
 
-### Tribe Tropiderini
+### **Tribe Tropiderini**
 - _Eurymycter	fasciatus_	(Olivier, 1795)
 - _Eurymycter	tricarinatus_	Pierce, 1930
 - _Gonotropis	dorsalis_	(Thunberg, 1796)
@@ -193,13 +197,13 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 
 - Tropiderini spp.
   
-### Tribe Xenocerini
+### **Tribe Xenocerini**
 - _Xenocerus_	spp.
 
-### Tribe Xylinadini
+### **Tribe Xylinadini**
 - Xylinadini spp.
 
-### Tribe Zygaenodini
+### **Tribe Zygaenodini**
 - _Anthrenosoma_	spp.
 - _Cybosoma_	spp.
 - _Eugonops	championi_	Jordan, 1906
@@ -217,7 +221,7 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 
 - Zygaenodini spp.
 
-## Subfamily Urodontinae
+## **Subfamily Urodontinae**
 
 - _Bruchela	rufipes_	(Olivier, 1790)
 - _Bruchela	suturalis_	(Fabricius, 1792)
