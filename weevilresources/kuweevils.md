@@ -14,5 +14,4 @@ Curculionoidea deposited at the KU Entomology Collection.
 
 ---
 
-
-![001653181_lateral](https://github.com/user-attachments/assets/555c362c-766b-4eee-8012-034cd5c3960e)
+<img width="1393" height="720" alt="image" src="https://github.com/user-attachments/assets/d37ebd77-f885-4bbc-9a5f-671eb93f1e2f" />
