@@ -3,7 +3,7 @@ layout: default
 title: KU Curculionidae
 parent: KU Weevils
 has_children: false
-nav_order: 5
+nav_order: 6
 ---
 
 # Curculionidae of the KU Collection
