@@ -6,7 +6,7 @@ has_children: false
 nav_order: 3
 ---
 
-# Anthribidae of the KU Collection
+# **Anthribidae of the KU Collection**
 {: .no_toc }
 
 Anthribidae groups deposited in the KU Snow Entomological Collection.
@@ -14,7 +14,7 @@ Anthribidae groups deposited in the KU Snow Entomological Collection.
 
 ---
 
-# [Family Anthribidae](https://weevil.symbiota.org/portal/checklists/checklist.php?clid=10)
+# [**Family Anthribidae**](https://weevil.symbiota.org/portal/checklists/checklist.php?clid=10)
 
 ## Subfamily Anthribinae
 
