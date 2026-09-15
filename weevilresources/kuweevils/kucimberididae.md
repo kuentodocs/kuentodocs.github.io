@@ -6,7 +6,7 @@ has_children: false
 nav_order: 1
 ---
 
-# Cimberididae of the KU Collection
+# **Cimberididae of the KU Collection**
 {: .no_toc }
 
 Cimberididae groups deposited in the KU Snow Entomological Collection.
@@ -14,4 +14,4 @@ Cimberididae groups deposited in the KU Snow Entomological Collection.
 
 ---
 
-# Family Cimberididae
+# **Family Cimberididae**
