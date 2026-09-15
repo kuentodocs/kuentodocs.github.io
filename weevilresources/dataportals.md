@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Weevil Portal
+title: Data Portals
 parent: Weevil Resources
 has_children: true
 nav_order: 1
