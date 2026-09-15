@@ -6,7 +6,7 @@ has_children: false
 nav_order: 6
 ---
 
-# Curculionidae of the KU Collection
+# **Curculionidae of the KU Collection**
 {: .no_toc }
 
 Curculionidae groups deposited in the KU Entomological Collection.
@@ -14,7 +14,7 @@ Curculionidae groups deposited in the KU Entomological Collection.
 
 ---
 
-# [Family Curculionidae](https://weevil.symbiota.org/portal/checklists/checklist.php?clid=16)
+# [**Family Curculionidae**](https://weevil.symbiota.org/portal/checklists/checklist.php?clid=16)
 
 ## **Subfamily Bagoinae**
 
