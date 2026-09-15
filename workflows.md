@@ -5,7 +5,7 @@ has_children: true
 nav_order: 3
 ---
 
-# Franz Lab of Weevil Systematics
+# **Franz Lab Workflows**
 {: .no_toc }
 
 Workflows for the Franz Lab of Weevil Systematics at KU.
