@@ -6,7 +6,7 @@ has_children: false
 nav_order: 4
 ---
 
-# Attelabidae of the KU Collection
+# **Attelabidae of the KU Collection**
 {: .no_toc }
 
 Attelabidae groups deposited in the KU Entomological Collection.
@@ -14,7 +14,7 @@ Attelabidae groups deposited in the KU Entomological Collection.
 
 ---
 
-# [Family Attelabidae](https://weevil.symbiota.org/portal/checklists/checklist.php?clid=37)
+# [**Family Attelabidae**](https://weevil.symbiota.org/portal/checklists/checklist.php?clid=37)
 
 ## **Subfamily Attelabinae**
 
