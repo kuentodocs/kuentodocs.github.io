@@ -11,12 +11,6 @@ nav_order: 4
 Curculionoidea resources. 
 {: .fs-5 .fw-300 }
 
-## Table of Content
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ---
 
 
