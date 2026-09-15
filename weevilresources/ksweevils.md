@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Weevils of Kansas
+parent: Weevil Resources
 has_children: false
 nav_order: 5
 ---
