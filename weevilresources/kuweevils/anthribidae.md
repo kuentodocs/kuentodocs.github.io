@@ -3,7 +3,7 @@ layout: default
 title: KU Anthribidae
 parent: KU Weevils
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Anthribidae of the KU Collection
