@@ -211,7 +211,38 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 ## **Subfamily Baridinae**
 
 ### Tribe Apostasimerini
+- _Apinocis deplanatus_ (Casey, 1892) (= _Apinocis deplanata_)
 - _Barilepis grisea_ Casey, 1920
+- _Barilepton filiforme_ LeConte, 1876
+- _Barilepton quadricolle_ LeConte, 1876
+- _Barinus cribricollis_ Blatchley & Leng, 1916
+- _Barinus curticollis_ Casey, 1892
+- _Buchananius sulcatus_ Kissinger, 1957
+- _Calandrinus grandicollis_ LeConte, 1876
+- _Catapastus conspersus_ Casey, 1892
+- _Centrinites strigicollis_ Casey, 1892
+- _Centrinopus helvinus_ Casey, 1892
+- _Cylindridia perexilis_ Casey, 1920
+- _Cylindridia prolixa_ Casey, 1920
+- _Dirabius rectirostris_ Casey, 1920
+- _Dirabius rotundicollis_ Casey, 1920
+- _Eisonyx crassipes_ LeConte, 1880
+- _Geraeus modestus_ (Boheman, 1836)
+- _Geraeus penicillus_ (Herbst, 1797)
+- _Geraeus picumnus_ Champion, 1908
+- _Idiostethus tubulatus_ Casey, 189
+- _Linogeraeus finitimus_ Kuschel, 1983
+- _Linogeraeus laevirostris_ Prena, 2009
+- _Linogeraeus neglectus _Kuschel, 1983
+- _Linogeraeus perscitus_ (Herbst, 1797)
+- _Linogeraeus tonsilis_ Kuschel, 1983
+- _Oligolochus bracatus_ (Casey, 1892)
+- _Oligolochus ornatus_ (Casey, 1920)
+- _Plocamus echidna _Champion, 1908
+- _Plocamus hispidulus_ LeConte, 1876
+- _Sibariops confusus_ Casey, 1920
+- _Stethobaris incompta_ Casey, 1892
+- _Stethobaris ovata_ Casey, 1892
 
 ### Tribe Baridini
 - _Aulobaris naso_ LeConte, 1876
@@ -222,12 +253,34 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Haplostethops ellipsoideus_ Casey, 1920
 - _Haplostethops gravidula_ Casey,1920
 - _Hesperobaris suavis_ Casey, 1892
+- _Orthoris cylindrifer_ Casey, 1892
+- _Plesiobaris disjuncta_ Casey, 1892
+- _Pseudobaris angusta_ LeConte, 1876
+- _Pseudobaris farcta_ LeConte, 1876
+- _Pseudobaris nigrina_ (Say, 1832)
+- _Pseudobaris pectoralis_ LeConte, 1876
+- _Pseudobaris sobrina_ Blatchley & Leng, 1916
+- _Pycnobaris pruinosa_ Casey, 1892
+- _Rhoptobaris canescens_ LeConte, 1876
+- _Rhoptobaris scolopax_ (Say, 1832)
+- _Trichobaris texana_ LeConte, 1876
+- _Trichobaris trinotata_ (Say, 1832)
 
-### Tribe Madarini
-### _Incertae Sedis_
 ---
 
 | [<img width="6240" height="4160" alt="1bb3ae44-93a4-4f0d-9806-039c8eb227fd" src="https://github.com/user-attachments/assets/77a9f69b-47b8-4cb2-a70f-3b3b7a3e5a39" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=461760) |
+
+### Tribe Madarini
+- _Ampeloglypter ampelopsis_ Hustache, 1938
+- _Glyptobaris lecontei_ Champion, 1909
+- _Madarellus undulatus_ (Say, 1824)
+- _Odontocorynus falsus_ O'Brien & Wibmer,1982
+- _Odontocorynus pulverulentus_ Casey, 1892
+- _Odontocorynus salebrosus_ Casey, 1892
+- _Onychobaris millepora_ Casey, 1892
+- _Onychobaris pectorosa_ LeConte, 1876
+- _Onychobaris subtonsa_ LeConte, 1876
+- _Stictobaris cribrata_ Casey, 1895 
 
 ---
 
