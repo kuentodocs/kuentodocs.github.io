@@ -35,6 +35,21 @@ Curculionidae groups deposited in the KU Entomological Collection.
 
 | [<img width="6240" height="4160" alt="1bb3ae44-93a4-4f0d-9806-039c8eb227fd" src="https://github.com/user-attachments/assets/77a9f69b-47b8-4cb2-a70f-3b3b7a3e5a39" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=461760) |
 
+
+### **Tribe Madarini**
+
+### Subtribe Madarina
+- _Ampeloglypter ampelopsis_ Hustache, 1938
+- _Onychobaris millepora_ Casey, 1892
+- _Onychobaris pectorosa_ LeConte, 1876
+- _Onychobaris subtonsa_ LeConte, 1876
+
+### Subtribe Leptoschoinina 
+- _Odontocorynus falsus_ O'Brien & Wibmer,1982
+- _Odontocorynus pulverulentus_ Casey, 1892
+- _Odontocorynus salebrosus_ Casey, 1892
+
+
 ---
 
 ## **Subfamily Brachycerinae**
