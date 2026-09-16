@@ -88,7 +88,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
-## Subfamily Pterocolinae
+## **Subfamily Pterocolinae**
 
 | [<img width="6240" height="4160" alt="62916a93-2e2c-49c0-9fe7-6cca301ee95a" src="https://github.com/user-attachments/assets/546ba704-bafa-4a7a-9f27-003a0b845596" />](https://https://ks.symbiota.org/portal/taxa/index.php?tid=13074&taxauthid=1&clid=41) |
 
