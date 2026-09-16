@@ -9,13 +9,21 @@ nav_order: 2
 # **Weevils of Kansas**
 {: .no_toc }
 
-Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoing [Weevils of Kansas Survey](https://ks.symbiota.org/portal/checklists/checklist.php?clid=7&pid=1), specimens available in the [KU Entomology Collection](https://ks.symbiota.org/portal/collections/misc/collprofiles.php?collid=1), and Salsbury (2000). Classification based on upcoming BOCUS chapter. Interactive versions available in the [Kansas Biodiversity Portal](https://ks.symbiota.org/portal/checklists/checklist.php?clid=9&pid=2). 
+Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoing [Weevils of Kansas Survey](https://ks.symbiota.org/portal/checklists/checklist.php?clid=7&pid=1), specimens available in the [KU Entomology Collection](https://ks.symbiota.org/portal/collections/misc/collprofiles.php?collid=1), and Salsbury (2000). Classification follows follows the preliminar version of Beetles of Canada and the US, used during the Weevil Course and Roundup 2025. Genera position follows Alonso-Zarazaga & Lyal (1999, 2002, 2006, 2017). Interactive versions available in the [Kansas Biodiversity Portal](https://ks.symbiota.org/portal/checklists/checklist.php?clid=9&pid=2). 
 {: .fs-5 .fw-200 }
 
 ---
 
 [<img width="2098" height="1069" alt="image" src="https://github.com/user-attachments/assets/2f2b2363-6e5e-439a-9d0c-2e9286d6fd85" />
 ](https://ks.symbiota.org/portal/checklists/checklist.php?clid=9&pid=2)
+
+---
+
+## Tabla de contenidos
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
