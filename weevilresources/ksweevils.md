@@ -383,7 +383,19 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Curculio victoriensis_ Chittenden, 1903
   
 ### Tribe Ellescini
+- _Dorytomus brevicollis_ LeConte, 1876
+- _Dorytomus mucidus_ LeConte, 1876
+- _Dorytomus squamosus_ LeConte, 1876
+- _Ellescus ephippiatus_ Blatchley & Leng, 1916
+
 ### Tribe Mecinini
+- _Cleopomiarus hispidulus_ (LeConte, 1876)
+- _Mecinus circulatus_ (Marsham, 1802)
+- _Mecinus pascuorum_ (Gyllenhal, 1813)
+- _Mecinus pyraster_ (Herbst, 1795)
+- _Rhinusa tetra_ (Fabricius, 1792)
+
+
 ### Tribe Otidocephalini
 ### Tribe Piazorhinini
 ### Tribe Rhamphini
