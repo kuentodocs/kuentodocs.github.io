@@ -27,9 +27,90 @@ Curculionidae groups deposited in the KU Entomological Collection.
 - _Bagous transversus_ LeConte, 1876
 - _Pnigodes setosus_ LeConte, 1876
 
+### Tribe Ambatini
+- _Embates_ (= _Ambates_)
+
 ---
 
 ## **Subfamily Baridinae**
+
+### **Tribe Apostasimerini**
+
+### Subtribe Madopterini
+
+### Subtribe Zygopterina
+- _Apinocis blanditus_	Casey
+- _Apinocis	deplanatus_	(Casey 1892)
+- _Apinocis	nasutus_		
+Apinocis		planiusculus (2)		
+Apinocis (=Anacentrinus)		subnudus		
+Apinocis (=Anacentrinus)		spp. (2)		
+Barilepis				
+Barilepton				
+Barinus				
+Buchanianus (=Zaglyptus)				
+Calandrinus		grandicollis		
+Calandrinus		insignis		
+Catapastinus				
+Catapastus				
+Centrinites				
+Centrinogyna				
+Centrinopus				
+Centrinus				
+Cylindridia		perexilis		Casey 1920
+Cylindridia		prolixa		(LeConte 1876)
+Cylindridia		spp.		
+Dirabius		rectirostris		(LeConte 1876)
+Dirabius		rotundicollis		Casey 1920
+Eisonyx		crassipes		LeConte 1880
+Geraeus		modestus		(Boheman 1836)
+Geraeus		penicillus		(Herbst 1797)
+Geraeus		perscillus		(Gyllenhal 1836)
+Geraeus		picumnus		(Herbst 1797)
+Geraeus (=Centrinaspis)		punctirostris		
+Geraeus (=Centrinaspis)				
+Geraeus		spp.		
+Haplostethops		ellipsoideus		Casey 1892
+Haplostethops		gravidula		Casey 1920
+Idiostethus		dispersus		Casey 1892
+Idiostethus		subclavus		(LeConte 1878)
+Idiostethus		tubulatus		(Say 1831)
+Idiostehtus (Idiostethops)				
+Lamprobaris				
+Limnobaris				
+Linogeraeus		finitimus		(Casey 1892)
+Linogeraeus		laevirostris		(LeConte 1876)
+Linogeraeus		neglectus		(LeConte 1876)
+Linogeraeus		perscitus		(Herbst 1797)
+Linogeraeus		tonsilis		(Boheman 1844)
+Microcholus				
+Nicentrus		decipiens		(LeConte 1876)
+Nicentrus		lecontei		Champion 1908
+Nicentrus		spp.		
+Odontocorynus		calcarifer		Prena 2008
+Odontocorynus		falsus		(LeConte 1876)
+Odontocorynus		pulverulentus		(Casey 1892)
+Odontocorynus		salebrosus		(Casey 1892)
+Odontocorynus		umbellae		(Fabricius 1801)
+Odontocorynus		spp.		
+Oligolochus		bracatus		(Casey 1892)
+Oligolochus		ornatus		(Casey 1920)
+Pachybaris				
+Plocamus		echidna		(LeConte 1876)
+Plocamus		hispidulus		LeConte 1876
+Plocamus (=Eunyssobia)				
+Pseudocentrinus				
+Pycnogeraeus				
+Sibariops		confinus		(LeConte 1876)
+Sibariops		confusus		(Boheman 1836)
+Sibariops		kansana or puteifera		
+Stethobaris		incompta		Casey 1892
+Stethobaris		ovata		(LeConte 1869)
+Stethobaris		sp.		
+Trichodirabius				
+Xystus				
+Zygobarella		xanthoxyli		(Pierce 1907)
+				
 
 ---
 
