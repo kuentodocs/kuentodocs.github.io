@@ -1,7 +1,7 @@
 ---
 layout: default
 title: KU Cimberididae
-parent: KU Weevils
+parent: Weevil Collection
 has_children: false
 nav_order: 1
 ---
