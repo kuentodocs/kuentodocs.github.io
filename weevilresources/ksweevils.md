@@ -321,7 +321,47 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
+## **Subfamily Cossoninae**
+- _Acamptus echinus_ Casey, 1892
+- _Acamptus rigidus_ Leconte, 1876
+- _Acamptus texanus_ Zimmerman, 1974
+- _Aphanommata tenuis_ (Casey, 1892)
+- _Cossonus corticola_ Say, 1832
+- _Cossonus impressifrons_ Lea, 1896
+- _Cossonus rufipennis_ Buchanan, 1936
+- _Phloeophagus canadensis_ Van Dyke, 1927
+- _Rhyncolus discors_ Casey, 1892
+- _Stenomimus pallidus_ Boheman, 1845
+- _Stenoscelis brevis_ Boheman, 1845
+- _Tomolips quercicola_ Boheman, 1845
+
+---
 ## **Subfamily Curculioninae**
+
+| [<img width="1400" height="933" alt="37b2d4ba-9f56-4d42-81a8-62e270_1778749728_web" src="https://github.com/user-attachments/assets/2d288b3c-b29c-4ef8-ba09-a446d6f68605" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=461772) |
+
+### Tribe Anthonomini
+- _Anthonomopsis mixtus_ Dietz, 1891
+
+### Tribe Curculionini
+- _Curculio caryae_ Horn, 1873
+- _Curculio humeralis_ Casey, 1897
+- _Curculio longidens_ Chittenden, 1927
+- _Curculio obtusus_ Gravenhorst, 1807
+- _Curculio orthorhynchus_ Chittenden, 1908
+- _Curculio pardalis_ Chittenden, 1908
+- _Curculio proboscideus_ Fabricius, 1775
+- _Curculio strictus_ Casey, 1897
+- _Curculio sulcatulus_ Casey, 1897
+- _Curculio victoriensis_ Chittenden, 1903
+  
+### Tribe Ellescini
+### Tribe Mecinini
+### Tribe Otidocephalini
+### Tribe Piazorhinini
+### Tribe Rhamphini
+### Tribe Smicronychini
+### Tribe Tychiini
 
 ---
 
