@@ -303,8 +303,20 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 ## **Subfamily Conoderinae**
 
 ### Tribe Lechriopini
+- _Eulechriops minuta_ (LeConte, 1824)
+- _Lechriops oculatus_ Heller, 1895
+- _Psomus armatus_ (Dietz, 1891)
+
 ### Tribe Othippiini
+
 ### Tribe Zygopini
+- _Acoptus suturalis_ LeConte, 1876
+- _Cylindrocopturus adspersus_ (LeConte, 1876)
+- _Cylindrocopturus binotatus_ Blatch. & Leng., 1916
+- _Cylindrocopturus longulus_ (LeConte, 1876)
+- _Cylindrocopturus nanulus_ (LeConte, 1876)
+- _Cylindrocopturus operculatus_ Blatchl. & Leng, 1916
+- _Cylindrocopturus quercus_ (Say, 1832)
 
 ---
 
