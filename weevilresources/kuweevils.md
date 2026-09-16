@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KU Weevils
+title: Weevil Collection
 parent: Weevil Resources
 has_children: true
 nav_order: 3
