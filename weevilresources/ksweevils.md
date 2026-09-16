@@ -238,7 +238,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Linogeraeus tonsilis_ Kuschel, 1983
 - _Oligolochus bracatus_ (Casey, 1892)
 - _Oligolochus ornatus_ (Casey, 1920)
-- _Plocamus echidna _Champion, 1908
+- _Plocamus echidna_ Champion, 1908
 - _Plocamus hispidulus_ LeConte, 1876
 - _Sibariops confusus_ Casey, 1920
 - _Stethobaris incompta_ Casey, 1892
