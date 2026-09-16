@@ -35,38 +35,38 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 | [<img width="1400" height="933" alt="494395c6-01be-41fc-8592-310d02_1759587823_web" src="https://github.com/user-attachments/assets/80fb41b2-c7e1-42a6-8e26-7b4386474b45" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=161485) |
 
-### **Tribe Araecerini**
+### Tribe Araecerini
 - _Araecerus fasciculatus_ (DeGeer, 1775) *Introduced
   
-### **Tribe Choragini**
+### Tribe Choragini
 - _Holostilpna jordani_ (Valentine, 1991)
 - _Holostilpna punctata_ (LeConte, 1876)
 - _Pseudochoragus nitens_ (LeConte, 1884)
   
-### **Tribe Cratoparini**
+### Tribe Cratoparini
 - _Euparius marmoreus_ (Olivier, 1800)
 - _Euparius paganus_ Gyllenhal, 1833 
 
-### **Tribe Piesocorynini**
+### Tribe Piesocorynini
 - _Piesocorynus lateralis_ (Jordan, 1906)
 - _Piesocorynus mixtus_ LeConte, 1876
 - _Piesocorynus moestus_ (LeConte, 1824: 172)
 
-### **Tribe Platyrhinini**
+### Tribe Platyrhinini
 - _Strabus bimaculatus_ (Olivier, 1795) 
 
-### **Tribe Platystomini**
+### Tribe Platystomini
 - _Toxonotus cornutus_ (Say, 1831)
 
-### **Tribe Trigonorrhinini**
+### Tribe Trigonorrhinini
 - _Trigonorhinus tomentosus_ (Say, 1827)
 
-### **Tribe Tropiderini**
+### Tribe Tropiderini
 - _Eurymycter fasciatus_ (Olivier, 1800)
 - _Eurymycter tricarinatus_ Pierce, 1930
 - _Gonotropis dorsalis_ (Thunberg, 1796) 
 
-### **Tribe Zygaenodini**
+### Tribe Zygaenodini
 - _Ormiscus saltator_ Leconte, 1876
 
 ---
@@ -79,7 +79,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 | [<img width="1400" height="933" alt="037bec46-9ab8-4519-b9c8-03de8f_1774400729_web" src="https://github.com/user-attachments/assets/715fb103-d767-4f2b-94dc-24d055fc3489" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=463822) |
 
-### **Tribe Attelabini**
+### Tribe Attelabini
 
 - _Himatolabus pubescens_ (Say, 1826)
 - _Homoeolabus analis_ (Illiger, 1794)
@@ -88,7 +88,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
-## **Subfamily Pterocolinae**
+## Subfamily Pterocolinae
 
 | [<img width="6240" height="4160" alt="62916a93-2e2c-49c0-9fe7-6cca301ee95a" src="https://github.com/user-attachments/assets/546ba704-bafa-4a7a-9f27-003a0b845596" />](https://https://ks.symbiota.org/portal/taxa/index.php?tid=13074&taxauthid=1&clid=41) |
 
@@ -100,7 +100,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 | [<img width="1400" height="933" alt="618812f8-78d0-4943-872b-9d5484_1772524214_web" src="https://github.com/user-attachments/assets/c37cde8a-469b-4e32-9fa5-b8a4ff69b749" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=208855) |
 
-### **Tribe Rhynchitini**
+### Tribe Rhynchitini
 
 - _Eugnamptus angustatus_ (Herbst, 1797)
 - _Eugnamptus puncticeps_ LeConte 1876
@@ -120,16 +120,16 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 | [<img width="6240" height="4160" alt="001659429_lateral" src="https://github.com/user-attachments/assets/0a47bbe5-01a0-4a89-a382-d7b831d66a76" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=462863) |
 
-### **Tribe Apionini**
+### Tribe Apionini
 - _Sayapion segnipes_ (Say, 1831)  
 
-### **Tribe Aplemonini**
+### Tribe Aplemonini
 - _Perapion pulchrum_ (Blatchley, 1916)
 
-### **Tribe Aspidapiini**
+### Tribe Aspidapiini
 - _Alocentron attenuatum_ (Smith) 
 
-### **Tribe Oxystomatini**
+### Tribe Oxystomatini
 - _Kissingeria alernatum_ (Fall, 1898)
 - _Kissingeria amaura_ (Kissinger, 1968)
 - _Kissingeria capitone_ (Kissinger, 1968)
@@ -151,7 +151,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Trichapion sayi_ (Gyllenhal, 1833)
 - _Trichapion tenuirostrum_ (Smith, 1884) 
 
-### **Tribe Piezotrachelini**
+### Tribe Piezotrachelini
 - _Fallapion anceps_ (Fall, 1898)
 - _Fallapion bischoffi_ (Fall)
 - _Fallapion ellipticum_ (Smith, 1884)
@@ -163,7 +163,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Fallapion pensylvanicum_ (Boheman, 1839)
 - _Fallapion robustum_ (Smith, 1884)
 
-### _**Incertae Sedis**_
+### _Incertae Sedis_
 - _Coelocephalapion curticorne_ (Fall)
 - _Coelocephalapion decoloratum_ (Smith, 1884)
 - _Coelocephalapion persimile_ (Fall, 1898)
@@ -174,11 +174,11 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 | [<img width="1400" height="933" alt="309ce373-4e88-4d31-9c19-502426_1780389667_web" src="https://github.com/user-attachments/assets/5b891b42-8044-4a1c-857e-aaf7b4ee9eeb" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=125841) |
 
-### **Tribe Brentini**
+### Tribe Brentini
 
 - _Arrenodes minutus_ (Drury, 1773)
 
-### **Tribe Cyladini**
+### Tribe Cyladini
 
 - _Cylas formicarius_ (Fabricius, 1798) *Introduced
 
@@ -249,30 +249,30 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
-### **Tribe Byrsopagini**
+### Tribe Byrsopagini
 - _Anametis granulata_ (Say, 1831) [=_Dichoxenus granulatus_ (Say, 1831)]
 - _Dichoxenus setiger_ Horn, 1876
 - _Peritaxia hispida_ Horn, 1876
 - _Phyxelis rigidus_ (Say, 1831)
   
-### **Tribe Cyphicerini**
+### Tribe Cyphicerini
 - _Calomycterus setarius_ Roelofs, 1873
 - _Calyptillus cryptops_ Horn, 1876
 - _Cyrtepistomus castaneus_ (Roelofs, 1873)
 
-### **Tribe Eudiagogini**
+### Tribe Eudiagogini
 - _Aracanthus pallidus_ (Say, 1831)
 - _Colecerus marmoratus_ Horn, 1876
   
-### **Tribe Eustylini**
+### Tribe Eustylini
 - _Brachystylus sayi_ Alonso-Zarazaga, 1994
   
-### **Tribe Geonemini**
+### Tribe Geonemini
 - _Cathormiocerus_ sp. Schönherr 1842
 - _Epicaerus imbricatus_ (Say, 1824)
 - _Graphorhinus vadosus_ Say, 1831
 
-### **Tribe Naupactini**
+### Tribe Naupactini
 - _Aramigus pallidus_ Horn, 1876 [=_Naupactus pallidus_, _Naupactus tessellatus_, _Pantomorus tessellatus_ (Say, 1824)]
 - _Naupactus leucoloma_ Boheman, 1840
 - _Phacepholis candidus_ Horn, 1876
@@ -281,7 +281,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Phacepholis planitiatus_ (Buchanan, 1939)
 - _Phacepholis viridis_ (Champion, 1911)
 
-### **Tribe Ophryastini**
+### Tribe Ophryastini
 - _Ophryastes ovipennis_ Sharp, 1891
 - _Ophryastes sordidus_ LeConte, 1853
 - _Ophryastes sulcirostris_ (Say, 1824)
@@ -289,35 +289,35 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Ophryastes vittatus_ (Say, 1824)
 - _Sapotes_ sp. Casey, 1888
 
-### **Tribe Otiorhynchini**
+### Tribe Otiorhynchini
 - _Otiorhynchus ovatus_ (Linnaeus, 1758)
 - _Otiorhynchus rugosostriatus_ (Goeze, 1777)
 - _Otiorhynchus sulcatus_ (Fabricius, 1775)
 
-### **Tribe Phyllobiini**
+### Tribe Phyllobiini
 - _Aphrastus taeniatus_ Say, 1831
 
-### **Tribe Polydrusini**
+### Tribe Polydrusini
 - _Polydrusus americanus_ Gyllenhal, 1834
 - _Polydrusus decoratus_ Woodruff, 1923
 - _Polydrusus impressifrons_ Gyllenhal, 1834
 
-### **Tribe Psallidini**
+### Tribe Psallidini
 - _Mesagroicus minor_ Buchanan, 1929
 - _Mesagroicus oblongus_ Buchanan, 1929
 
-### **Tribe Sciaphilini**
+### Tribe Sciaphilini
 - _Barypeithes pellucidus_ (Boheman, 1834)
 - _Mitostylus tenuis_ Horn, 1876
 
-### **Tribe Tanymecini**
+### Tribe Tanymecini
 
 - _Minyomerus microps_ (Say, 1831) [=_Minyomerus innocuus_ Horn, 1876]
 - _Pandeleteius cinereus_ (Horn, 1876)
 - _Pandeleteius hilaris_ (Herbst)
 - _Tanymecus confusus_ Say, 1831
 
-### **Tribe Trachyphloeini**
+### Tribe Trachyphloeini
 - _Pseudocneorhinus bifasciatus_ Roelofs, 1880
 
 ---
