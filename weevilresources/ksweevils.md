@@ -19,7 +19,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
-## Tabla de contenidos
+## Table of Content
 {: .no_toc .text-delta }
 
 1. TOC
@@ -233,7 +233,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Idiostethus tubulatus_ Casey, 189
 - _Linogeraeus finitimus_ Kuschel, 1983
 - _Linogeraeus laevirostris_ Prena, 2009
-- _Linogeraeus neglectus _Kuschel, 1983
+- _Linogeraeus neglectus_ Kuschel, 1983
 - _Linogeraeus perscitus_ (Herbst, 1797)
 - _Linogeraeus tonsilis_ Kuschel, 1983
 - _Oligolochus bracatus_ (Casey, 1892)
@@ -339,8 +339,6 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 ---
 ## **Subfamily Curculioninae**
 
-| [<img width="1400" height="933" alt="37b2d4ba-9f56-4d42-81a8-62e270_1778749728_web" src="https://github.com/user-attachments/assets/2d288b3c-b29c-4ef8-ba09-a446d6f68605" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=461772) |
-
 ### Tribe Anthonomini
 - _Anthonomopsis mixtus_ Dietz, 1891
 - _Anthonomus (Anthonomorphus) fulvus_ LeConte, 1858
@@ -370,6 +368,10 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Pseudanthonomus crataegi_ Dietz, 1891
 - _Pseudanthonomus validus_ Dietz, 1891
 
+---
+
+| [<img width="1400" height="933" alt="37b2d4ba-9f56-4d42-81a8-62e270_1778749728_web" src="https://github.com/user-attachments/assets/2d288b3c-b29c-4ef8-ba09-a446d6f68605" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=461772) |
+
 ### Tribe Curculionini
 - _Curculio caryae_ Horn, 1873
 - _Curculio humeralis_ Casey, 1897
@@ -395,12 +397,63 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Mecinus pyraster_ (Herbst, 1795)
 - _Rhinusa tetra_ (Fabricius, 1792)
 
-
 ### Tribe Otidocephalini
+- _Myrmex chevrolatii_ (Horn, 1873)
+- _Myrmex myrmex_ (Herbst, 1797)
+  
 ### Tribe Piazorhinini
+- _Piazorhinus pictus_ LeConte, 1876
+
 ### Tribe Rhamphini
+- _Orchestes pallicornis_ Say, T., 1832
+- _Orchestes steppensis_ Korotyaev, 2016
+- _Orchestes testaceus_ (Mueller, 1776)
+- _Tachyerges ephippiatus_ (Say, 1831)
+- _Tachyerges niger_ (Horn, 1873)
+
 ### Tribe Smicronychini
+- _Promecotarsus densus_ Casey, 1892
+- _Smicronyx amoenus_ (Say, 1832)
+- _Smicronyx apionides_ Casey, 1892
+- _Smicronyx centralis_ Anderson, 1962
+- _Smicronyx commixtus_ Dietz, 1894
+- _Smicronyx compar_ Anderson, 1962
+- _Smicronyx constrictus_ (Say, 1824)
+- _Smicronyx corniculatus_ LeConte, 1876
+- _Smicronyx corpulentus_ LeConte, 1876
+- _Smicronyx flavicans_ LeConte, 1876
+- _Smicronyx fulvus_ LeConte, 1876
+- _Smicronyx humilis_ Anderson, 1962
+- _Smicronyx imbricatus_ Casey, 1892
+- _Smicronyx incertus_ Anderson, 1962
+- _Smicronyx interruptus_ Blatchley & Leng, 1916
+- _Smicronyx lineolatus_ Casey, 1892
+- _Smicronyx ovipennis_ LeConte, 1876
+- _Smicronyx pinguis_ Blatchley & Leng, 1916
+- _Smicronyx pleuralis_ Casey, 1892
+- _Smicronyx rectirostris_ Blatchley, 1922
+- _Smicronyx rhodopus_ Dietz, 1894
+- _Smicronyx scapalis_ (LeConte, 1876)
+- _Smicronyx sculpticollis_ Casey, 1892
+- _Smicronyx sordidus_ LeConte, 1876
+- _Smicronyx sparsus_ Casey, 1892
+- _Smicronyx squalidus_ Casey, 1892
+- _Smicronyx tychoides_ LeConte, 1876
+- _Smicronyx vestitus_ Casey, 1892
+
 ### Tribe Tychiini
+- _Lignyodes bischoffi_ (Blatchley, 1916)
+- _Lignyodes fraxini_ Clark, 1980
+- _Lignyodes helvolus_ Clark, 1980
+- _Lignyodes horridulus_ Clark, 1980
+- _Lignyodes ocularis_ Clark, 1980
+- _Plocetes ulmi_ LeConte, 1876
+- _Tychius meliloti_ Norman, 1932
+- _Tychius picirostris_ (Fabricius, 1787)
+- _Tychius soltaui_ Casey, 1892
+- _Tychius sordidus_ LeConte, 1876
+- _Tychius stephensi_ Schoenherr, 1835
+- _Tychius tectus_ LeConte, 1876
 
 ---
 
