@@ -187,9 +187,16 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 # [**Family Curculionidae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=40)
 
---- 
-
 ## **Subfamily Bagoinae**
+
+- _Bagous americanus_ LeConte, 1876
+- _Bagous dietzi_ Tanner, 1955
+- _Bagous magister_ LeConte, 1876
+- _Bagous mamillatus_ Say, 1832
+- _Bagous restrictus_ LeConte, 1876
+- _Bagous sellatus_ LeConte, 1876
+- _Bagous transversus_ LeConte, 1876
+- _Pnigodes setosus_ LeConte, 1876
 
 ---
 
