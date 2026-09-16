@@ -233,6 +233,14 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
+## **Subfamily Cyclominae**
+
+---
+
+## **Subfamily Dryophthorinae**
+
+---
+
 ## [**Subfamily Entiminae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=33)
 
 ---
@@ -311,14 +319,6 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ### **Tribe Trachyphloeini**
 - _Pseudocneorhinus bifasciatus_ Roelofs, 1880
-
----
-
-## **Subfamily Cyclominae**
-
----
-
-## **Subfamily Dryophthorinae**
 
 ---
 
