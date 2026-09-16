@@ -210,6 +210,21 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ## **Subfamily Baridinae**
 
+### Tribe Apostasimerini
+- _Barilepis grisea_ Casey, 1920
+
+### Tribe Baridini
+- _Aulobaris naso_ LeConte, 1876
+- _Aulobaris scolopax_ Casey, 1892
+- _Baris confinis_ LeConte, 1876
+- _Baris umbilicata_ (LeConte, 1858)
+- _Cosmobaris scolopacea_ (Germar, 1819)
+- _Haplostethops ellipsoideus_ Casey, 1920
+- _Haplostethops gravidula_ Casey,1920
+- _Hesperobaris suavis_ Casey, 1892
+
+### Tribe Madarini
+### _Incertae Sedis_
 ---
 
 | [<img width="6240" height="4160" alt="1bb3ae44-93a4-4f0d-9806-039c8eb227fd" src="https://github.com/user-attachments/assets/77a9f69b-47b8-4cb2-a70f-3b3b7a3e5a39" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=461760) |
@@ -218,9 +233,25 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ## **Subfamily Brachycerinae**
 
+- _Brachybamus electus_ Germar, 1833
+- _Endalus aeratus_ LeConte, 1876
+- _Endalus ovalis_ LeConte, 1876
+- _Endalus punctatus_ LeConte, 1876
+- _Endalus setosus_ LeConte, 1876
+- _Lissorhoptrus oryzophilus_ Kuschel, 1952
+- _Notiodes limatulus_ O'Brien & Wibmer, 1982
+- _Onychylis alternans_ LeConte, 1876
+- _Onychylis nigrirostris_ LeConte, 1876
+- _Stenopelmus rufinasus_ Gyllenhal, 1835
+- _Tanysphyrus lemnae_ (Paykull, 1792) 
+
 ---
 
 ## **Subfamily Conoderinae**
+
+### Tribe Lechriopini
+### Tribe Othippiini
+### Tribe Zygopini
 
 ---
 
