@@ -300,7 +300,10 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
-## **Subfamily Conoderinae**
+## [**Subfamily Conoderinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=37)
+
+| [<img width="6240" height="4160" alt="5ccd3cc5-8e4d-4285-8af8-be243118d36f" src="https://github.com/user-attachments/assets/39f09aaa-1d4d-4428-9d75-c15b619f5e44" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=208806) |
+
 
 ### Tribe Lechriopini
 - _Eulechriops minuta_ (LeConte, 1824)
@@ -326,7 +329,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
-## **Subfamily Cyclominae**
+## [**Subfamily Cyclominae**](https://ks.symbiota.org/portal/checklists/checklist.php?clid=51)
 
 | [<img width="1400" height="933" alt="34c75bda-0c98-4fa4-848f-450852_1778931209_web" src="https://github.com/user-attachments/assets/d14e6ea0-802a-47f3-b45c-d8c2a124b51a" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=208668) |
 
