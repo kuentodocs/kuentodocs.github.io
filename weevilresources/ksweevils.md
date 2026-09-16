@@ -300,7 +300,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
-## [Subfamily Ceutorhynchinae](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=48)
+## [**Subfamily Ceutorhynchinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=48)
 
 ### Tribe Ceutorhynchini
 - _Amalus scortillum_ (Herbst, 1795)
@@ -539,7 +539,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
-## [Subfamily Cryptorhynchinae](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=49)
+## [**Subfamily Cryptorhynchinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=49)
 
 - _Acalles carinatus_ LeConte, 1876
 - _Acallodes saltoides_ Dietz, 1913
@@ -676,6 +676,20 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 ---
 
 ## **Subfamily Hyperinae**
+
+- _Coniatus splendidulus_ (Fabricius 1781) *Introduced
+- _Hypera meles_ (Fabricius, 1792)
+- _Hypera nigrirostris_ (Fabricius, 1775)
+- _Hypera postica_ (Gyllenhal, 1813)
+- _Hypera rumicis_ (Linnaeus, 1758)
+
+---
+
+## **Subfamily Lixinae**
+
+### Tribe Cleonini
+### Tribe Lixini
+### Tribe Rhinocyllini
 
 ---
 
