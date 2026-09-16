@@ -504,6 +504,39 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
+## [**Subfamily Cryptorhynchinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=49)
+
+- _Acalles carinatus_ LeConte, 1876
+- _Acallodes saltoides_ Dietz, 1913
+- _Apteromechus ferratus_ (Say, 1832)
+- _Cophes fallax_ Kissinger, 1964
+- _Cophes obtentus_ (Herbst, 1797)
+- _Cryptorhynchus fuscatus_ LeConte, 1876
+- _Cryptorhynchus tristis_ Sturm, 1826
+- _Eubulus bisignatus_ (Say, 1832)
+- _Eubulus obliquefasciatus_ (Boheman, 1844)
+- _Eubulus parochus_ (Herbst, 1797)
+- _Gerstaeckeria basalis_ Pierce, 1912
+- _Gerstaeckeria lecontei_ O'Brien, 1970
+- _Gerstaeckeria nobilis_ Pierce, 1912
+- _Homorosoma sulcipennis_ Colonnelli, 1979
+- _Maemactes cribratus_ Kissinger, 1963
+- _Peracalles pectoralis_ Kissinger, 1964
+- _Phyrdenus divergens_ (Germar, 1823)
+- _Sudus floridanus_ Kissinger, 1964
+- _Tyloderma capitale_ Wibmer, 1981
+- _Tyloderma foveolatum_ LeConte & Horn, 1876
+- _Tyloderma fragariae_ LeConte & Horn, 1876
+- _Tyloderma laporteae_ Wibmer, 1981
+- _Tyloderma lecontei_ Wibmer, 1981
+- _Tyloderma marshalli_ Wibmer, 1981
+- _Tyloderma nigrum_ Casey, 1884
+- _Tyloderma pseudofoveolatum_ Wibmer,1981
+- _Tyloderma punctatum_ Casey, 1884
+- _Tyloderma sphaerocarpae_ Wibmer, 1981
+
+---
+
 ## [**Subfamily Cyclominae**](https://ks.symbiota.org/portal/checklists/checklist.php?clid=51)
 
 | [<img width="1400" height="933" alt="34c75bda-0c98-4fa4-848f-450852_1778931209_web" src="https://github.com/user-attachments/assets/d14e6ea0-802a-47f3-b45c-d8c2a124b51a" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=208668) |
@@ -536,40 +569,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Listronotus sparsus_ (Say, 1832)
 - _Listronotus tuberosus_ LeConte, 1876
 - _Macrops alternatus_ Dietz, 1889 [= _Listronotus alternatus_ (Dietz, 1889)]
-
----
-
-## [**Subfamily Cryptorhynchinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=49)
-
-- _Acalles carinatus_ LeConte, 1876
-- _Acallodes saltoides_ Dietz, 1913
-- _Apteromechus ferratus_ (Say, 1832)
-- _Cophes fallax_ Kissinger, 1964
-- _Cophes obtentus_ (Herbst, 1797)
-- _Cryptorhynchus fuscatus_ LeConte, 1876
-- _Cryptorhynchus tristis_ Sturm, 1826
-- _Eubulus bisignatus_ (Say, 1832)
-- _Eubulus obliquefasciatus_ (Boheman, 1844)
-- _Eubulus parochus_ (Herbst, 1797)
-- _Gerstaeckeria basalis_ Pierce, 1912
-- _Gerstaeckeria lecontei_ O'Brien, 1970
-- _Gerstaeckeria nobilis_ Pierce, 1912
-- _Homorosoma sulcipennis_ Colonnelli, 1979
-- _Maemactes cribratus_ Kissinger, 1963
-- _Peracalles pectoralis_ Kissinger, 1964
-- _Phyrdenus divergens_ (Germar, 1823)
-- _Sudus floridanus_ Kissinger, 1964
-- _Tyloderma capitale_ Wibmer, 1981
-- _Tyloderma foveolatum_ LeConte & Horn, 1876
-- _Tyloderma fragariae_ LeConte & Horn, 1876
-- _Tyloderma laporteae_ Wibmer, 1981
-- _Tyloderma lecontei_ Wibmer, 1981
-- _Tyloderma marshalli_ Wibmer, 1981
-- _Tyloderma nigrum_ Casey, 1884
-- _Tyloderma pseudofoveolatum_ Wibmer,1981
-- _Tyloderma punctatum_ Casey, 1884
-- _Tyloderma sphaerocarpae_ Wibmer, 1981
-
+  
 ---
 
 ## [**Subfamily Dryophthorinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=35)
