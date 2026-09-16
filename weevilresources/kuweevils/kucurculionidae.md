@@ -18,6 +18,15 @@ Curculionidae groups deposited in the KU Entomological Collection.
 
 ## **Subfamily Bagoinae**
 
+- _Bagous americanus_ LeConte, 1876
+- _Bagous dietzi_ Tanner, 1955
+- _Bagous magister_ LeConte, 1876
+- _Bagous mamillatus_ Say, 1832
+- _Bagous restrictus_ LeConte, 1876
+- _Bagous sellatus_ LeConte, 1876
+- _Bagous transversus_ LeConte, 1876
+- _Pnigodes setosus_ LeConte, 1876
+
 ---
 
 ## **Subfamily Baridinae**
@@ -42,6 +51,14 @@ Curculionidae groups deposited in the KU Entomological Collection.
 
 | [<img width="1400" height="933" alt="37b2d4ba-9f56-4d42-81a8-62e270_1778749728_web" src="https://github.com/user-attachments/assets/2d288b3c-b29c-4ef8-ba09-a446d6f68605" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=461772) |
 
+
+---
+
+## **Subfamily Cyclominae**
+
+---
+
+## **Subfamily Dryophthorinae**
 
 ---
 
@@ -123,14 +140,6 @@ Curculionidae groups deposited in the KU Entomological Collection.
 
 ### **Tribe Trachyphloeini**
 - _Pseudocneorhinus bifasciatus_ Roelofs, 1880
-
----
-
-## **Subfamily Cyclominae**
-
----
-
-## **Subfamily Dryophthorinae**
 
 ---
 
