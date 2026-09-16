@@ -455,6 +455,10 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Tychius stephensi_ Schoenherr, 1835
 - _Tychius tectus_ LeConte, 1876
 
+### _Incertae Sedis_
+- _Macrorhoptus estriatus_ LeConte, 1876
+- _Macrorhoptus hispidus_ Dietz, 1891
+
 ---
 
 | [<img width="1400" height="933" alt="37b2d4ba-9f56-4d42-81a8-62e270_1778749728_web" src="https://github.com/user-attachments/assets/2d288b3c-b29c-4ef8-ba09-a446d6f68605" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=461772) |
