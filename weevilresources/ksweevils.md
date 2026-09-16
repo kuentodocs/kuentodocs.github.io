@@ -300,6 +300,49 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
+## [Subfamily Ceutorhynchinae](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=48)
+
+### Tribe Ceutorhynchini
+- _Amalus scortillum_ (Herbst, 1795)
+- _Ceutorhynchus americanus_ Buchanan, 1937
+- _Ceutorhynchus anthonomoides_ Dietz, 1896
+- _Ceutorhynchus atriculus_ Dietz, 1896
+- _Ceutorhynchus erysinei_ (Fabricius, 1787)
+- _Ceutorhynchus lecontei_ Colonnelli, 1979
+- _Ceutorhynchus lesquerellae_ Pierce, 1910
+- _Ceutorhynchus medialis_ LeConte, 1876
+- _Ceutorhynchus neglectus_ Blatchley, 1916
+- _Ceutorhynchus persimilis_ Dietz, 1896
+- _Ceutorhynchus rapae_ Gyllenhal, 1837
+- _Ceutorhynchus semirufus_ LeConte, 1876
+- _Ceutorhynchus tau_ LeConte, 1876
+- _Hadroplontus litura_ (Fabricius, 1775)
+- _Nedyus flavicaudis_ O'Brien & Wibmer, 1982
+- _Sirocalodes sericans_ (LeConte, 1876)
+- _Trichosirocalus horridus_ (Panzer, 1801)
+
+### Tribe Cnemogonini
+- _Acanthoscelidius mendicus_ Dietz, 1896
+- _Auleutes asper_ (LeConte, 1876)
+- _Auleutes ater_ Dietz, 1896
+- _Auleutes epilobii_ Blatchley & Leng, 1916
+- _Auleutes tenuipes_ LeConte, 1876
+- _Auleutes tuberculatus_ Dietz, 1896
+- _Craponius inaequalis_ (Say, T., 1832)
+- _Dietzella zimmermanni_ (Gyllenhal, 1837)
+- _Orchestomerus eisemani_ Yoshitake & Anderson, 2015
+- _Parauleutes nebulosus_ (LeConte, 1876)
+- _Pelenomus fuliginosus_ (Dietz, 1896)
+- _Pelenomus sulcicollis_ LeConte, 1876
+- _Perigaster cretura_ (Herbst, 1797)
+
+### Tribe Phytobiini
+- _Parenthis vestitus_ Dietz, 1896
+- _Rhinoncus longulus_ LeConte, 1876
+- _Rhinoncus triangularis_ (Say, 1832)
+
+---
+
 ## [**Subfamily Conoderinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=37)
 
 | [<img width="6240" height="4160" alt="5ccd3cc5-8e4d-4285-8af8-be243118d36f" src="https://github.com/user-attachments/assets/39f09aaa-1d4d-4428-9d75-c15b619f5e44" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=208806) |
