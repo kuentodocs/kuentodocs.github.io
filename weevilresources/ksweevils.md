@@ -343,6 +343,32 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ### Tribe Anthonomini
 - _Anthonomopsis mixtus_ Dietz, 1891
+- _Anthonomus (Anthonomorphus) fulvus_ LeConte, 1858
+- _Anthonomus (Anthonomus) aeneolus_ Dietz, 1891
+- _Anthonomus (Anthonomus) albopilosus_ Dietz, 1891
+- _Anthonomus (Anthonomus) corvulus_ LeConte, 1876
+- _Anthonomus (Anthonomus) eugenii_ Cano, 1894
+- _Anthonomus (Anthonomus) interstitialis_ Dietz, 1891
+- _Anthonomus (Anthonomus) juniperinus_ (Sanborn, 1868)
+- _Anthonomus (Anthonomus) nigrinus_ Boheman, 1843
+- _Anthonomus (Anthonomus) quadrigibbus_ Say, 1831
+- _Anthonomus (Anthonomus) robustulus_ LeConte, 1876
+- _Anthonomus (Anthonomus) rubidus_ LeConte, 1876
+- _Anthonomus (Anthonomus) rufipennis_ LeConte, 1876
+- _Anthonomus (Anthonomus) rutilus_ (Boheman, 1843)
+- _Anthonomus (Anthonomus) signatus_ Say, 1831
+- _Anthonomus (Anthonomus) sphaeralciae_ Fall, 1913
+- _Anthonomus (Anthonomus) squamosus_ LeConte, 1876
+- _Anthonomus (Anthonomus) suturalis_ LeConte, 1824
+- _Anthonomus (Anthonomus) tectus_ LeConte, 1876
+- _Anthonomus (Cnemocyllus) decipiens_ LeConte, 1876
+- _Anthonomus (Cnemocyllus) elongatus_ LeConte, 1876
+- _Anthonomus (Cnemocyllus) tenuis_ Fall, 1913
+- _Chelonychus longipes_ Dietz, 1891
+- _Coccotorus scutellaris_ (LeConte, 1858)
+- _Dietzianus pygmaeus_ (Dietz, 1891)
+- _Pseudanthonomus crataegi_ Dietz, 1891
+- _Pseudanthonomus validus_ Dietz, 1891
 
 ### Tribe Curculionini
 - _Curculio caryae_ Horn, 1873
