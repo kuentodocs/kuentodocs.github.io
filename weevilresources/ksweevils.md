@@ -113,10 +113,47 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 | [<img width="6240" height="4160" alt="001659429_lateral" src="https://github.com/user-attachments/assets/0a47bbe5-01a0-4a89-a382-d7b831d66a76" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=462863) |
 
 ### **Tribe Apionini**
+- _Sayapion segnipes_ (Say, 1831)  
+
 ### **Tribe Aplemonini**
-### **Tribe Aspidapini**
+- _Perapion pulchrum_ (Blatchley, 1916)
+
+### **Tribe Aspidapiini**
+- _Alocentron attenuatum_ (Smith) 
+
 ### **Tribe Oxystomatini**
+- _Kissingeria alernatum_ (Fall, 1898)
+- _Kissingeria amaura_ (Kissinger, 1968)
+- _Kissingeria capitone_ (Kissinger, 1968)
+- _Kissingeria disparatum_ (Sharp)
+- _Kissingeria extensa_ Smith
+- _Trichapion commodum_ (Fall, 1898)
+- _Trichapion contusum_ (J.B. Smith, 1884)
+- _Trichapion leporinum_ (Salsbury, 1987)
+- _Trichapion minor_ (Smith, 1884)
+- _Trichapion modicum_ (Gyllenhal, 1839)
+- _Trichapion nebraskense_ (Fall, 1898)
+- _Trichapion nigrum_ (Herbst, 1797)
+- _Trichapion oblitum_ (Smith 1884)
+- _Trichapion patruele_ (Smith, 1884)
+- _Trichapion porcatum_ (Boheman, 1839)
+- _Trichapion reconditum_ (Gyllenhal, 1839)
+- _Trichapion roseae_ (Kissinger, 1963)
+- _Trichapion rostrum_ (Say, 1826)
+- _Trichapion sayi_ (Gyllenhal, 1833)
+- _Trichapion tenuirostrum_ (Smith, 1884) 
+
 ### **Tribe Piezotrachelini**
+- _Fallapion anceps_ (Fall, 1898)
+- _Fallapion bischoffi_ (Fall)
+- _Fallapion ellipticum_ (Smith, 1884)
+- _Fallapion erraticum_ (Smith, 1884)
+- _Fallapion impunctistriatum_ (Smith, 1884)
+- _Fallapion melanarium_ (Gerstaecker, 1854)
+- _Fallapion molestum_ (Fall, 1898)
+- _Fallapion occidentale_ (Fall, 1898)
+- _Fallapion pensylvanicum_ (Boheman, 1839)
+- _Fallapion robustum_ (Smith, 1884)
 
 ### _**Incertae Sedis**_
 - _Coelocephalapion curticorne_ (Fall)
