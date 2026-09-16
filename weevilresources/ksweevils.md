@@ -502,6 +502,24 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ## **Subfamily Dryophthorinae**
 
+| [<img width="1400" height="933" alt="63e868b0-9b41-482d-b8b4-103491_1772524220_web" src="https://github.com/user-attachments/assets/085b4908-7724-4076-bd2a-63691d99bb6d" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=461790) |
+
+- _Dryophthorus americanus_ Bedel, 1885
+- _Rhodobaenus quinquepunctatus_ (Say, 1824)
+- _Rhodobaenus tredecimpunctatus_ (Illiger, 1794)
+- _Sitophilus oryzae_ Hustache, 1930
+- _Sphenophorus bartramiae_ Chittenden, 1924
+- _Sphenophorus callosus_ (Olivier, 1807)
+- _Sphenophorus cicatristriatus_ Fåhraeus, 1838
+- _Sphenophorus coesifrons_ Gyllenhal, 1838
+- _Sphenophorus costicollis_ Chittenden, 1919
+- _Sphenophorus germari_ Horn, 1873
+- _Sphenophorus interstitialis_ ?
+- _Sphenophorus melanocephalus_ (Fabricius, 1802)
+- _Sphenophorus rectus_ (Say, 1832)
+- _Sphenophorus sayi_ Gyllenhal, 1838
+- _Sphenophorus venatus_ (Say, 1832)
+
 ---
 
 ## [**Subfamily Entiminae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=33)
