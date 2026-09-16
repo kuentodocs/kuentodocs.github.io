@@ -307,8 +307,6 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Lechriops oculatus_ Heller, 1895
 - _Psomus armatus_ (Dietz, 1891)
 
-### Tribe Othippiini
-
 ### Tribe Zygopini
 - _Acoptus suturalis_ LeConte, 1876
 - _Cylindrocopturus adspersus_ (LeConte, 1876)
@@ -326,10 +324,40 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 | [<img width="1400" height="933" alt="37b2d4ba-9f56-4d42-81a8-62e270_1778749728_web" src="https://github.com/user-attachments/assets/2d288b3c-b29c-4ef8-ba09-a446d6f68605" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=461772) |
 
-
 ---
 
 ## **Subfamily Cyclominae**
+
+| [<img width="1400" height="933" alt="34c75bda-0c98-4fa4-848f-450852_1778931209_web" src="https://github.com/user-attachments/assets/d14e6ea0-802a-47f3-b45c-d8c2a124b51a" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=208668) |
+
+
+### Tribe Listroderini
+- _Listronotus appendiculatus_ Boheman, 1842
+- _Listronotus caudatus_ (Say, 1824)
+- _Listronotus debilis_ Blatchley & Leng, 1916
+- _Listronotus delumbis_ (Gyllenhal, 1834)
+- _Listronotus dietzi_ O'Brien, 1979
+- _Listronotus dorsalis_ (Dietz, 1889)
+- _Listronotus echinatus_ (Dietz, 1889)
+- _Listronotus echinodori_ O'Brien, 1977
+- _Listronotus filiformis_ LeConte, 1876
+- _Listronotus frontalis_ LeConte, 1876
+- _Listronotus grypidioides_ (Dietz, 1889)
+- _Listronotus humilis_ (Gyllenhal, 1834)
+- _Listronotus lutulentus_ (Boheman, 1843)
+- _Listronotus maculicollis_ (Kirby, 1837)
+- _Listronotus montanus_ (Dietz, 1889)
+- _Listronotus obscurellus_ (Dietz, 1889)
+- _Listronotus obtectus_ (Dietz, 1889)
+- _Listronotus oregonensis_ LeConte, 1876
+- _Listronotus porcellus_ (Say, 1832)
+- _Listronotus punctiger_ LeConte, 1876
+- _Listronotus scapularis_ Casey, 1895
+- _Listronotus similis_ Henderson, 1941
+- _Listronotus sordidus_ LeConte, 1876
+- _Listronotus sparsus_ (Say, 1832)
+- _Listronotus tuberosus_ LeConte, 1876
+- _Macrops alternatus_ Dietz, 1889 [= _Listronotus alternatus_ (Dietz, 1889)]
 
 ---
 
