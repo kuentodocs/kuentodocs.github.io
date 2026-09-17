@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Weevil Collection
-parent: Weevil Resources
+parent: KU Entomology
 has_children: true
 nav_order: 3
 ---
