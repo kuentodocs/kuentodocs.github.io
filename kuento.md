@@ -1,12 +1,12 @@
 ---
 layout: default
 title: KU Entomology
-has_children: true
+has_children: false
 nav_order: 10
 ---
 
 
-# KU Entomology
+# **KU Entomology**
 {: .no_toc }
 
 The KU Entomology Division is located at the Public Safety Building, in Lawrence, KS. 
@@ -15,5 +15,37 @@ The KU Entomology Division is located at the Public Safety Building, in Lawrence
 |![PSBento](https://github.com/user-attachments/assets/22beaef2-c3e1-4e15-bec0-2f0a0139f772)
 ![BIento](https://github.com/user-attachments/assets/96e14a65-34af-467f-b0a3-f9961200b60f)|
 
+--- 
+
+# **KU Entomological Collection**
+
+The [KU Snow Entomological Collection](https://biodiversity.ku.edu/entomology/collection) (KUNHM, formerly known as SEMC) is located at Room 150 in the Entomology Division. Is currently managed by [Dr. Zack Falin](https://biodiversity.ku.edu/people/zack-falin) and [Dr. Rachel Osborn](https://biodiversity.ku.edu/people/rachel-osborn).
+{: .fs-5 .fw-300 }
+
+|<img width="2201" height="1041" alt="semcimage" src="https://github.com/user-attachments/assets/067bef65-7c13-4d9b-bc52-e25374ddc381" /> <img width="1883" height="1085" alt="Colección" src="https://github.com/user-attachments/assets/925db5b5-367b-42b5-99ce-6bfd1306e2d3" />|
+
+---
+
+## **Digitization**
+
+The KU Entomological Collection is managed and digitized in **Specify 7**. Learn more in the [Digitization](https://kuentodocs.github.io/franzlab/workflows/digitization/) section.
+
+| <img width="2543" height="1312" alt="image" src="https://github.com/user-attachments/assets/06c1824f-46a1-404f-aa48-6ce10a4f11ac" /> |
+
+---
+
+## **Data Mobilization**
+  
+SEMC data is mobilized weekly to the [Global Biodiversity Information Facility](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551). With over 1.4 million records available, SEMC is the largest Arthropoda dataset shared from a US institution.
+
+[<img width="1570" height="1218" alt="image" src="https://github.com/user-attachments/assets/4de260b3-2cc2-47f3-b348-ea069ef08caa" />
+](https://www.gbif.org/dataset/aae308f4-9f9c-4cdd-b4ef-c026f48be551)
+
+Records for specific regions or projects are also mobilized to **Symbiota Portals**, including the [Kansas Biodiversity Portal](https://ks.symbiota.org/portal/collections/misc/collprofiles.php?collid=1).
+
+|[<img width="1282" height="197" alt="image" src="https://github.com/user-attachments/assets/5c889954-15e1-4308-afab-3d4b47052129" />](https://ks.symbiota.org/portal/)
+[<img width="1652" height="1096" alt="image" src="https://github.com/user-attachments/assets/20adbca3-f2cd-4774-b77d-6dba826935c1" />](https://ks.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&stat=geography#geographystats)|
+
+---
 
 
