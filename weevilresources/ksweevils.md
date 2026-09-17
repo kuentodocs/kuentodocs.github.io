@@ -302,6 +302,9 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ## [**Subfamily Ceutorhynchinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=48)
 
+| [<img width="6240" height="4160" alt="537fcd70-73fa-470f-98d4-128861e37316" src="https://github.com/user-attachments/assets/5e244e81-ca1e-41a2-b930-1a3e440e0c21" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=208726) |
+
+
 ### Tribe Ceutorhynchini
 - _Amalus scortillum_ (Herbst, 1795)
 - _Ceutorhynchus americanus_ Buchanan, 1937
@@ -313,7 +316,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Ceutorhynchus medialis_ LeConte, 1876
 - _Ceutorhynchus neglectus_ Blatchley, 1916
 - _Ceutorhynchus persimilis_ Dietz, 1896
-- _Ceutorhynchus rapae_ Gyllenhal, 1837
+- _Ceutorhynchus rapae_ Gyllenhal, 1837 *Introduced
 - _Ceutorhynchus semirufus_ LeConte, 1876
 - _Ceutorhynchus tau_ LeConte, 1876
 - _Hadroplontus litura_ (Fabricius, 1775)
@@ -596,11 +599,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ## [**Subfamily Entiminae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=33)
 
----
-
 | [<img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/678affd3-4e73-43d0-9ad9-501513605b79" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=205309) |
-
----
 
 ### Tribe Byrsopagini
 - _Anametis granulata_ (Say, 1831) [=_Dichoxenus granulatus_ (Say, 1831)]
@@ -727,6 +726,8 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ## [**Subfamily Molytinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=50)
 
+| [<img width="1400" height="933" alt="a66b5c8f-82c9-4a85-bbe8-9049d2_1781173685_web" src="https://github.com/user-attachments/assets/703f84a6-4307-4a1a-b3db-fb2a81e6158b" />](https://ks.symbiota.org/portal/collections/individual/index.php?occid=208731) |
+
 ### Tribe Cleogonini
 - _Rhyssomatus aequalis_ Horn, 1873
 - _Rhyssomatus annectens_ Casey 1895
@@ -735,7 +736,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 - _Rhyssomatus parvulus_ (Casey 1895) 
 - _Rhyssomatus pubescens_ Horn, 1873 
 - _Rhyssomatus texanus_ (Sleeper 1954)
-   
+ 
 ### Tribe Conotrachelini
 - _Conotrachelus adspersus_ Leconte &Horn, 1876
 - _Conotrachelus affinis_ Boh. in Schoenh., 1837
