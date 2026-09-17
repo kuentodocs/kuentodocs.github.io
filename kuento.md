@@ -2,7 +2,7 @@
 layout: default
 title: KU Entomology
 has_children: false
-nav_order: 10
+nav_order: 1
 ---
 
 
