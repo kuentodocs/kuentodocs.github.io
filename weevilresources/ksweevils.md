@@ -284,7 +284,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
-## **Subfamily Brachycerinae**
+## [**Subfamily Brachycerinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=53)
 
 - _Brachybamus electus_ Germar, 1833
 - _Endalus aeratus_ LeConte, 1876
@@ -364,7 +364,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
-## **Subfamily Cossoninae**
+## [**Subfamily Cossoninae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=47)
 
 - _Acamptus echinus_ Casey, 1892
 - _Acamptus rigidus_ Leconte, 1876
@@ -675,7 +675,7 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
-## **Subfamily Hyperinae**
+## [**Subfamily Hyperinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=39)
 
 - _Coniatus splendidulus_ (Fabricius 1781) *Introduced
 - _Hypera meles_ (Fabricius, 1792)
@@ -726,6 +726,55 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 ---
 
 ## [**Subfamily Molytinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=50)
+
+### Tribe Cleogonini
+- _Rhyssomatus aequalis_ Horn, 1873
+- _Rhyssomatus annectens_ Casey 1895
+- _Rhyssomatus lineaticollis_ (Say, 1824)
+- _Rhyssomatus palmacollis_ Bohem. 1837 
+- _Rhyssomatus parvulus_ (Casey 1895) 
+- _Rhyssomatus pubescens_ Horn, 1873 
+- _Rhyssomatus texanus_ (Sleeper 1954)
+   
+### Tribe Conotrachelini
+- _Conotrachelus adspersus_ Leconte &Horn, 1876
+- _Conotrachelus affinis_ Boh. in Schoenh., 1837
+- _Conotrachelus albicinctus_ Lec. & Horn, 1876
+- _Conotrachelus anaglypticus_ (Say, T., 1832)
+- _Conotrachelus aratus_ Boh. in Schoenh., 1845
+- _Conotrachelus belfragei_ Lec., 1876
+- _Conotrachelus buchanani_ Schoof, 1943
+- _Conotrachelus carinifer_ Casey, 1892
+- _Conotrachelus cognatus_ Leconte, 1878
+- _Conotrachelus crataegi_ Walsh, 1863
+- _Conotrachelus elegans_ (Say, T., 1832)
+- _Conotrachelus erinaceus_ Leconte,1896
+- _Conotrachelus falli_ Blatchley & Leng, 1916
+- _Conotrachelus fissunguis_ Leconte,1876
+- _Conotrachelus geminatus_ Leconte, 1876
+- _Conotrachelus hayesi_ Schoof, 1943
+- _Conotrachelus hicoriae_ Schoof, 1943
+- _Conotrachelus iowensis_ Schoof, 1943
+- _Conotrachelus leucophaetus_ Champion, 1905
+- _Conotrachelus naso_ Leconte, 1876
+- _Conotrachelus nenuphar_ Harris, 1841
+- _Conotrachelus nivosus_ LeConte, 1876
+- _Conotrachelus obesulus_ Hust., 1936
+- _Conotrachelus posticatus_ Boheman, 1837
+- _Conotrachelus pusillus_ LeConte, 1878
+- _Conotrachelus recessus_ Buchanan,1937
+- _Conotrachelus retentus_ Boheman, 1845
+- _Conotrachelus schoofi_ Papp, 1978
+- _Conotrachelus seniculus_ Leconte,1876
+- _Conotrachelus similis_ Boheman, 1837
+- _Conotrachelus tuberosus_ LeConte, 1876
+- _Microhyus setiger_ LeConte, 1876
+
+### Tribe Lepyrini
+### Tribe Molytini
+### Tribe Petalochilini
+### Tribe Pissodini
+### Tribe Sternechini
 
 ---
 
