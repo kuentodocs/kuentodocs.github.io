@@ -685,26 +685,54 @@ Checklist of the weevils (Curculionoidea) recorded in Kansas. Based on the ongoi
 
 ---
 
-## **Subfamily Lixinae**
+## [**Subfamily Lixinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=46)
 
 ### Tribe Cleonini
+- _Apleurus angularis_ Anderson, 1987
+- _Apleurus lutulentus_ Anderson, 1987
+- _Cyphocleonus achates_ (Fåhraeus, 1842)
+- _Scaphomorphus collaris_ (LeConte)
+- _Scaphomorphus puberulus_ (LeConte, 1876)
+- _Scaphomorphus trivittatus_ (Say, 1832)
+
 ### Tribe Lixini
+- _Lixus concavus_ Say, 1832
+- _Lixus merula_ Suffrian, 1871 
+- _Lixus mucidus_ LeConte, 1876 
+- _Lixus musculus_ Say, 1832 
+- _Lixus nitidulus_ Casey, 1891 
+- _Lixus parcus_ LeConte, 1876 
+- _Lixus placidus_ LeConte, 1876
+- _Lixus punctinasus_ LeConte, 1876
+- _Lixus rubellus_ Randall, 1838
+- _Lixus scrobicollis_ Boheman, 1835
+- _Lixus terminalis_ LeConte, 1876
+- _Microlarinus lareynii_ (Jacquelin du Val, 1852)
+- _Microlarinus lypriformis_ Wollaston, 1861
+
 ### Tribe Rhinocyllini
+- _Rhinocyllus conicus_ (Frölich, 1792)
 
 ---
 
-## **Subfamily Mesoptiliinae**
+## [**Subfamily Mesoptiliinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=34)
+- _Laemosaccus nephele_ (Herbst, 1797)
+- _Magdalis armicollis_ (Say, 1824)
+- _Magdalis austera_ Fall, 1913 
+- _Magdalis inconspicua_ Horn, 1873 
+- _Magdalis olyra_ (Herbst, 1797)
+- _Magdalis pandura_ (Say, 1831)
 
 ---
 
-## **Subfamily Molytinae**
+## [**Subfamily Molytinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=50)
 
 ---
 
-## **Subfamily Platypodinae**
+## [**Subfamily Platypodinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=52)
 
 ---
 
-## **Subfamily Scolytinae**
+## [**Subfamily Scolytinae**](https://ks.symbiota.org/portal/checklists/checklist.php?pid=2&clid=42)
 
 ---
