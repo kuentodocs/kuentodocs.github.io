@@ -57,11 +57,6 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 ### Camryn Bahner - (Fall 2026)
 
-<img style="float: right;" width="152" height="150" alt="CB" src="https://github.com/user-attachments/assets/a778e308-7aa0-46b1-a8a6-3f57a84f61d0">
-
-<br>
-
-
 ### Bremmer Campion - (Fall 2026)
 
 ### Sophia Dvorak - (Fall 2026)
