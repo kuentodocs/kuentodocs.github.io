@@ -66,8 +66,6 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 ### Sophia Dvorak - (Fall 2026)
 
-###  Grey Steinmetz - (Fall 2026)
-
 ---
 
 ## **KU Entomology Research Assistants**
