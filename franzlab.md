@@ -55,16 +55,16 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 ## **BIOL 490 Undergraduate Interns**
 
-### Camryn Bahner
+### **Camryn Bahner**
 <img style="float: right;" width="152" height="150" alt="MS" src="https://github.com/user-attachments/assets/b2ffc513-7c76-4dd0-99ed-9ef966ba1ac8">
 
-**_Undergraduate Intern._** Weevils of Kansas Project.
+**_Undergraduate Intern._** Weevils of Kansas Project. 
 
 ---
 
 <br>
 
-### Bremmer Campion - (Fall 2026)
+### **Bremmer Campion**
 
 <img style="float: right;" width="152" height="150" alt="MS" src="https://github.com/user-attachments/assets/229dd969-276e-488f-80d5-2cedb0303aae">
 
@@ -74,7 +74,7 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 <br>
 
-### Sophia Dvorak - (Fall 2026)
+### **Sophia Dvorak**
 
 **_Undergraduate Intern._** Weevils of Kansas Project.
 
