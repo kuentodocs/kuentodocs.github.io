@@ -60,6 +60,8 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 **_Undergraduate Intern._** Weevils of Kansas Project.
 
+---
+
 <br>
 
 ### Bremmer Campion - (Fall 2026)
@@ -68,11 +70,14 @@ The Franz Lab of Weevil Systematics is now based at the KU Biodiversity Institut
 
 **_Undergraduate Intern._** Weevils of Kansas Project.
 
+---
+
 <br>
 
 ### Sophia Dvorak - (Fall 2026)
 
 **_Undergraduate Intern._** Weevils of Kansas Project.
+
 
 ---
 
